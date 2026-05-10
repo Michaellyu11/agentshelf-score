@@ -1,0 +1,3121 @@
+query_id,category,engine,rep,brand,product,rank
+earbuds_01,earbuds,chatgpt,1,anker,Anker Soundcore Space A40,1
+earbuds_01,earbuds,chatgpt,1,jbl,JBL Vibe Buds,2
+earbuds_01,earbuds,chatgpt,1,tozo,TOZO T6,3
+earbuds_01,earbuds,chatgpt,2,anker,Anker Soundcore Space A40,1
+earbuds_01,earbuds,chatgpt,2,jbl,JBL Vibe Buds,2
+earbuds_01,earbuds,chatgpt,2,tozo,TOZO NC9,3
+earbuds_01,earbuds,chatgpt,3,anker,Anker Soundcore Space A40,1
+earbuds_01,earbuds,chatgpt,3,jbl,JBL Vibe Buds,2
+earbuds_01,earbuds,chatgpt,3,tozo,TOZO T6,3
+earbuds_01,earbuds,gemini,1,jbl,JBL Vibe Beam,1
+earbuds_01,earbuds,gemini,1,tozo,TOZO T6,2
+earbuds_01,earbuds,gemini,1,anker,Anker Soundcore Life P2 Mini,3
+earbuds_01,earbuds,gemini,1,skullcandy,Skullcandy Dime 3,4
+earbuds_01,earbuds,gemini,2,skullcandy,(mentioned: skullcandy),1
+earbuds_01,earbuds,gemini,2,anker,(mentioned: anker),2
+earbuds_01,earbuds,gemini,2,soundcore,(mentioned: soundcore),3
+earbuds_01,earbuds,gemini,2,tozo,(mentioned: tozo),4
+earbuds_01,earbuds,gemini,2,soundpeats,(mentioned: soundpeats),5
+earbuds_01,earbuds,gemini,2,moondrop,(mentioned: moondrop),6
+earbuds_01,earbuds,gemini,2,edifier,(mentioned: edifier),7
+earbuds_01,earbuds,gemini,2,jbl,(mentioned: jbl),8
+earbuds_01,earbuds,gemini,3,skullcandy,(mentioned: skullcandy),1
+earbuds_01,earbuds,gemini,3,earfun,(mentioned: earfun),2
+earbuds_01,earbuds,gemini,3,anker,(mentioned: anker),3
+earbuds_01,earbuds,gemini,3,soundcore,(mentioned: soundcore),4
+earbuds_01,earbuds,gemini,3,tozo,(mentioned: tozo),5
+earbuds_01,earbuds,gemini,3,moondrop,(mentioned: moondrop),6
+earbuds_01,earbuds,gemini,3,edifier,(mentioned: edifier),7
+earbuds_01,earbuds,perplexity,1,anker,Anker Soundcore Space A40 Truly Wireless,1
+earbuds_01,earbuds,perplexity,1,soundcore,Soundcore P31i,2
+earbuds_01,earbuds,perplexity,1,sony,Sony WF,3
+earbuds_01,earbuds,perplexity,1,tozo,Tozo NC9,4
+earbuds_01,earbuds,perplexity,1,soundpeats,SoundPEATS Truengine 3 SE,5
+earbuds_01,earbuds,perplexity,2,anker,Anker Soundcore Space A40 Truly Wireless,1
+earbuds_01,earbuds,perplexity,2,soundcore,Soundcore P31i / R60i NC,2
+earbuds_01,earbuds,perplexity,2,sony,Sony WF,3
+earbuds_01,earbuds,perplexity,2,tozo,Tozo NC9,4
+earbuds_01,earbuds,perplexity,2,soundpeats,SoundPEATS Truengine 3 SE,5
+earbuds_01,earbuds,perplexity,3,anker,(mentioned: anker),1
+earbuds_01,earbuds,perplexity,3,soundcore,(mentioned: soundcore),2
+earbuds_01,earbuds,perplexity,3,tozo,(mentioned: tozo),3
+earbuds_01,earbuds,perplexity,3,soundpeats,(mentioned: soundpeats),4
+earbuds_01,earbuds,perplexity,3,sony,(mentioned: sony),5
+earbuds_01,earbuds,claude,1,earfun,(mentioned: earfun),1
+earbuds_01,earbuds,claude,1,anker,(mentioned: anker),2
+earbuds_01,earbuds,claude,1,soundcore,(mentioned: soundcore),3
+earbuds_01,earbuds,claude,1,tozo,(mentioned: tozo),4
+earbuds_01,earbuds,claude,1,sony,(mentioned: sony),5
+earbuds_01,earbuds,claude,1,jbl,(mentioned: jbl),6
+earbuds_01,earbuds,claude,2,anker,Anker Soundcore Space A40,1
+earbuds_01,earbuds,claude,2,earfun,EarFun Air 2,2
+earbuds_01,earbuds,claude,2,tozo,TOZO T6,3
+earbuds_01,earbuds,claude,2,jbl,JBL Vibe Buds,4
+earbuds_01,earbuds,claude,3,anker,Anker Soundcore Space A40,1
+earbuds_01,earbuds,claude,3,tozo,TOZO T6,2
+earbuds_01,earbuds,claude,3,earfun,EarFun Air 2,3
+earbuds_01,earbuds,claude,3,soundcore,Soundcore P31i,4
+earbuds_01,earbuds,deepseek,1,anker,Soundcore by Anker Life P3i,1
+earbuds_01,earbuds,deepseek,1,tozo,TOZO T6,2
+earbuds_01,earbuds,deepseek,1,earfun,EarFun Air S,3
+earbuds_01,earbuds,deepseek,1,jbl,JBL Tune 125TWS,4
+earbuds_01,earbuds,deepseek,1,skullcandy,Skullcandy Dime 3,5
+earbuds_01,earbuds,deepseek,2,anker,Soundcore by Anker P20i,1
+earbuds_01,earbuds,deepseek,2,jbl,JBL Vibe Beam,2
+earbuds_01,earbuds,deepseek,2,tozo,Tozo T6,3
+earbuds_01,earbuds,deepseek,2,skullcandy,Skullcandy Dime 3,4
+earbuds_01,earbuds,deepseek,2,sony,Sony WF,5
+earbuds_01,earbuds,deepseek,3,anker,Soundcore by Anker P20i,1
+earbuds_01,earbuds,deepseek,3,tozo,TOZO T6,2
+earbuds_01,earbuds,deepseek,3,earfun,EarFun Air,3
+earbuds_01,earbuds,deepseek,3,soundcore,Soundcore Life A1,4
+earbuds_02,earbuds,chatgpt,1,anker,Anker Soundcore Space A40,1
+earbuds_02,earbuds,chatgpt,1,jbl,JBL Vibe Buds,2
+earbuds_02,earbuds,chatgpt,1,skullcandy,Skullcandy Dime 3,3
+earbuds_02,earbuds,chatgpt,2,anker,Anker Soundcore P25i,1
+earbuds_02,earbuds,chatgpt,2,jbl,JBL Vibe Buds,2
+earbuds_02,earbuds,chatgpt,2,soundcore,soundcore P20i,3
+earbuds_02,earbuds,chatgpt,3,anker,Anker Soundcore P20i,1
+earbuds_02,earbuds,chatgpt,3,sony,Sony WF,2
+earbuds_02,earbuds,chatgpt,3,earfun,EarFun Air Pro 4,3
+earbuds_02,earbuds,gemini,1,skullcandy,(mentioned: skullcandy),1
+earbuds_02,earbuds,gemini,1,anker,(mentioned: anker),2
+earbuds_02,earbuds,gemini,1,realme,(mentioned: realme),3
+earbuds_02,earbuds,gemini,1,soundcore,(mentioned: soundcore),4
+earbuds_02,earbuds,gemini,1,tozo,(mentioned: tozo),5
+earbuds_02,earbuds,gemini,2,anker,Anker Soundcore P31i,1
+earbuds_02,earbuds,gemini,2,earfun,Earfun Air Pro 4+,2
+earbuds_02,earbuds,gemini,2,moondrop,Moondrop Space Travel,3
+earbuds_02,earbuds,gemini,2,jbl,JBL Wave Flex True Wireless Earbuds,4
+earbuds_02,earbuds,gemini,3,tozo,TOZO T6 True Wireless Earbuds,1
+earbuds_02,earbuds,gemini,3,anker,Anker Soundcore Life P2 Mini,2
+earbuds_02,earbuds,gemini,3,skullcandy,Skullcandy Dime 3 True Wireless Earbuds,3
+earbuds_02,earbuds,perplexity,1,anker,(mentioned: anker),1
+earbuds_02,earbuds,perplexity,1,realme,(mentioned: realme),2
+earbuds_02,earbuds,perplexity,1,soundcore,(mentioned: soundcore),3
+earbuds_02,earbuds,perplexity,2,anker,Anker Soundcore P31i / R60i NC,1
+earbuds_02,earbuds,perplexity,2,earfun,EarFun Air Pro 4 Plus,2
+earbuds_02,earbuds,perplexity,2,realme,Realme Buds Air 7,3
+earbuds_02,earbuds,perplexity,3,anker,Soundcore P31i,1
+earbuds_02,earbuds,perplexity,3,realme,Realme Buds Air 7,2
+earbuds_02,earbuds,claude,1,tozo,TOZO T6,1
+earbuds_02,earbuds,claude,1,anker,Anker Soundcore P40i,2
+earbuds_02,earbuds,claude,1,jbl,JBL Vibe Buds,3
+earbuds_02,earbuds,claude,2,anker,(mentioned: anker),1
+earbuds_02,earbuds,claude,2,soundcore,(mentioned: soundcore),2
+earbuds_02,earbuds,claude,2,tozo,(mentioned: tozo),3
+earbuds_02,earbuds,claude,2,jbl,(mentioned: jbl),4
+earbuds_02,earbuds,claude,3,anker,(mentioned: anker),1
+earbuds_02,earbuds,claude,3,soundcore,(mentioned: soundcore),2
+earbuds_02,earbuds,claude,3,tozo,(mentioned: tozo),3
+earbuds_02,earbuds,claude,3,jbl,(mentioned: jbl),4
+earbuds_02,earbuds,deepseek,1,anker,Soundcore by Anker P20i,1
+earbuds_02,earbuds,deepseek,1,tozo,TOZO T6,2
+earbuds_02,earbuds,deepseek,1,skullcandy,Skullcandy Dime 2,3
+earbuds_02,earbuds,deepseek,1,soundpeats,Soundpeats Free 2 Classic,4
+earbuds_02,earbuds,deepseek,2,anker,Soundcore by Anker Life P2,1
+earbuds_02,earbuds,deepseek,2,tozo,TOZO T6,2
+earbuds_02,earbuds,deepseek,3,anker,Soundcore by Anker Life P3,1
+earbuds_02,earbuds,deepseek,3,tozo,TOZO T6,2
+earbuds_03,earbuds,chatgpt,1,anker,Anker Soundcore P40i,1
+earbuds_03,earbuds,chatgpt,1,tozo,TOZO T12,2
+earbuds_03,earbuds,chatgpt,2,anker,Anker Soundcore Space A40,1
+earbuds_03,earbuds,chatgpt,2,tozo,TOZO T12,2
+earbuds_03,earbuds,chatgpt,2,edifier,Edifier TWS1 Pro 2,3
+earbuds_03,earbuds,chatgpt,3,anker,Anker Soundcore P40i,1
+earbuds_03,earbuds,chatgpt,3,moondrop,Moondrop Space Travel,2
+earbuds_03,earbuds,chatgpt,3,edifier,Edifier TWS1 Pro 2,3
+earbuds_03,earbuds,gemini,1,anker,Soundcore by Anker Life P2 Mini,1
+earbuds_03,earbuds,gemini,1,tozo,TOZO T6,2
+earbuds_03,earbuds,gemini,2,soundpeats,SOUNDPEATS Air6 HS,1
+earbuds_03,earbuds,gemini,2,anker,Soundcore by Anker Life P2 Mini,2
+earbuds_03,earbuds,gemini,3,anker,(mentioned: anker),1
+earbuds_03,earbuds,gemini,3,soundcore,(mentioned: soundcore),2
+earbuds_03,earbuds,gemini,3,tozo,(mentioned: tozo),3
+earbuds_03,earbuds,gemini,3,soundpeats,(mentioned: soundpeats),4
+earbuds_03,earbuds,perplexity,1,earfun,EarFun Air 2,1
+earbuds_03,earbuds,perplexity,1,nothing,CMF Buds 2 by Nothing,2
+earbuds_03,earbuds,perplexity,2,earfun,EarFun Air Pro 2,1
+earbuds_03,earbuds,perplexity,3,earfun,(mentioned: earfun),1
+earbuds_03,earbuds,perplexity,3,anker,(mentioned: anker),2
+earbuds_03,earbuds,perplexity,3,soundcore,(mentioned: soundcore),3
+earbuds_03,earbuds,perplexity,3,tozo,(mentioned: tozo),4
+earbuds_03,earbuds,claude,1,anker,Anker Soundcore P31i / R60i NC,1
+earbuds_03,earbuds,claude,1,earfun,EarFun Air 2,2
+earbuds_03,earbuds,claude,2,anker,(mentioned: anker),1
+earbuds_03,earbuds,claude,2,asics,(mentioned: asics),2
+earbuds_03,earbuds,claude,2,soundcore,(mentioned: soundcore),3
+earbuds_03,earbuds,claude,3,soundcore,Soundcore P31i,1
+earbuds_03,earbuds,claude,3,earfun,EarFun Air 2,2
+earbuds_03,earbuds,deepseek,1,anker,Soundcore by Anker P20i,1
+earbuds_03,earbuds,deepseek,1,tozo,TOZO T6,2
+earbuds_03,earbuds,deepseek,1,sony,Sony WF,3
+earbuds_03,earbuds,deepseek,1,earfun,EarFun Air,4
+earbuds_03,earbuds,deepseek,2,skullcandy,(mentioned: skullcandy),1
+earbuds_03,earbuds,deepseek,2,anker,(mentioned: anker),2
+earbuds_03,earbuds,deepseek,2,soundcore,(mentioned: soundcore),3
+earbuds_03,earbuds,deepseek,2,tozo,(mentioned: tozo),4
+earbuds_03,earbuds,deepseek,2,sony,(mentioned: sony),5
+earbuds_03,earbuds,deepseek,3,anker,Soundcore by Anker Life P3i,1
+earbuds_03,earbuds,deepseek,3,tozo,TOZO T12,2
+earbuds_03,earbuds,deepseek,3,skullcandy,Skullcandy Dime 3,3
+earbuds_03,earbuds,deepseek,3,soundcore,Soundcore P20i,4
+earbuds_04,earbuds,chatgpt,1,anker,Anker Soundcore Space A40,1
+earbuds_04,earbuds,chatgpt,1,samsung,Samsung Galaxy Buds FE,2
+earbuds_04,earbuds,chatgpt,1,oneplus,OnePlus Buds 3,3
+earbuds_04,earbuds,chatgpt,2,anker,Anker Soundcore Space A40,1
+earbuds_04,earbuds,chatgpt,2,oneplus,OnePlus Buds 3,2
+earbuds_04,earbuds,chatgpt,2,samsung,Samsung Galaxy Buds FE,3
+earbuds_04,earbuds,chatgpt,2,tozo,TOZO NC7,4
+earbuds_04,earbuds,chatgpt,3,sony,Sony WF,1
+earbuds_04,earbuds,chatgpt,3,liberty,Soundcore Liberty 4 NC,2
+earbuds_04,earbuds,chatgpt,3,nothing,Nothing Ear,3
+earbuds_04,earbuds,chatgpt,3,earfun,EarFun Air Pro 3,4
+earbuds_04,earbuds,gemini,1,anker,Anker Soundcore Space A40 Truly Wireless Earbuds,1
+earbuds_04,earbuds,gemini,1,liberty,Soundcore Liberty 4 NC Earbuds,2
+earbuds_04,earbuds,gemini,2,anker,Anker Soundcore Space A40,1
+earbuds_04,earbuds,gemini,2,earfun,EarFun Air Pro 3 / EarFun Air Pro 4+,2
+earbuds_04,earbuds,gemini,2,jbl,JBL Tune Beam,3
+earbuds_04,earbuds,gemini,3,soundcore,Soundcore Space A40,1
+earbuds_04,earbuds,gemini,3,liberty,Soundcore Liberty 4 NC,2
+earbuds_04,earbuds,gemini,3,anker,Anker Soundcore Life P3,3
+earbuds_04,earbuds,gemini,3,earfun,EarFun Air Pro 4 / Air Pro 4+,4
+earbuds_04,earbuds,gemini,3,tozo,TOZO NC9,5
+earbuds_04,earbuds,perplexity,1,anker,Anker Soundcore Space A40 Truly Wireless,1
+earbuds_04,earbuds,perplexity,1,earfun,Earfun Air Pro 4i / 4+,2
+earbuds_04,earbuds,perplexity,1,liberty,Soundcore Liberty 5,3
+earbuds_04,earbuds,perplexity,1,soundpeats,Soundpeats Air5 Pro+,4
+earbuds_04,earbuds,perplexity,2,anker,Anker Soundcore Space A40,1
+earbuds_04,earbuds,perplexity,2,earfun,Earfun Air Pro 4i / 4+,2
+earbuds_04,earbuds,perplexity,2,liberty,Soundcore Liberty 5,3
+earbuds_04,earbuds,perplexity,2,soundpeats,Soundpeats Air5 Pro+,4
+earbuds_04,earbuds,perplexity,3,earfun,(mentioned: earfun),1
+earbuds_04,earbuds,perplexity,3,anker,(mentioned: anker),2
+earbuds_04,earbuds,perplexity,3,liberty,(mentioned: liberty),3
+earbuds_04,earbuds,perplexity,3,soundcore,(mentioned: soundcore),4
+earbuds_04,earbuds,perplexity,3,soundpeats,(mentioned: soundpeats),5
+earbuds_04,earbuds,claude,1,anker,Anker Soundcore Space A40,1
+earbuds_04,earbuds,claude,1,earfun,Earfun Air Pro 4+,2
+earbuds_04,earbuds,claude,1,oneplus,OnePlus Buds 4,3
+earbuds_04,earbuds,claude,1,soundpeats,SoundPEATS Capsule3 Pro+,4
+earbuds_04,earbuds,claude,2,apple,(mentioned: apple),1
+earbuds_04,earbuds,claude,2,earfun,(mentioned: earfun),2
+earbuds_04,earbuds,claude,2,anker,(mentioned: anker),3
+earbuds_04,earbuds,claude,2,soundcore,(mentioned: soundcore),4
+earbuds_04,earbuds,claude,2,soundpeats,(mentioned: soundpeats),5
+earbuds_04,earbuds,claude,3,earfun,(mentioned: earfun),1
+earbuds_04,earbuds,claude,3,anker,(mentioned: anker),2
+earbuds_04,earbuds,claude,3,liberty,(mentioned: liberty),3
+earbuds_04,earbuds,claude,3,soundcore,(mentioned: soundcore),4
+earbuds_04,earbuds,claude,3,soundpeats,(mentioned: soundpeats),5
+earbuds_04,earbuds,claude,3,oneplus,(mentioned: oneplus),6
+earbuds_04,earbuds,deepseek,1,anker,Soundcore by Anker Space A40,1
+earbuds_04,earbuds,deepseek,1,earfun,EarFun Air Pro 3,2
+earbuds_04,earbuds,deepseek,1,tozo,Tozo Golden X1,3
+earbuds_04,earbuds,deepseek,2,anker,Soundcore by Anker Space A40,1
+earbuds_04,earbuds,deepseek,2,earfun,EarFun Air Pro 3,2
+earbuds_04,earbuds,deepseek,2,jbl,JBL Tune 130NC,3
+earbuds_04,earbuds,deepseek,2,sony,Sony WF,4
+earbuds_04,earbuds,deepseek,3,anker,Soundcore by Anker Space A40,1
+earbuds_04,earbuds,deepseek,3,earfun,EarFun Air Pro 3,2
+earbuds_04,earbuds,deepseek,3,tozo,Tozo NC9,3
+earbuds_04,earbuds,deepseek,3,soundcore,Soundcore Life P3,4
+earbuds_04,earbuds,deepseek,3,sony,Sony WF,5
+earbuds_05,earbuds,chatgpt,1,sony,Sony WF,1
+earbuds_05,earbuds,chatgpt,1,earfun,EarFun Air Pro 4,2
+earbuds_05,earbuds,chatgpt,1,nothing,Nothing Ear,3
+earbuds_05,earbuds,chatgpt,1,anker,Anker Soundcore Space A40,4
+earbuds_05,earbuds,chatgpt,2,anker,Anker Soundcore Space A40,1
+earbuds_05,earbuds,chatgpt,2,earfun,EarFun Air Pro 4,2
+earbuds_05,earbuds,chatgpt,2,sony,Sony WF,3
+earbuds_05,earbuds,chatgpt,3,anker,Anker Soundcore Space A40,1
+earbuds_05,earbuds,chatgpt,3,nothing,Nothing Ear,2
+earbuds_05,earbuds,chatgpt,3,earfun,EarFun Air Pro 3,3
+earbuds_05,earbuds,gemini,1,earfun,(mentioned: earfun),1
+earbuds_05,earbuds,gemini,1,anker,(mentioned: anker),2
+earbuds_05,earbuds,gemini,1,soundcore,(mentioned: soundcore),3
+earbuds_05,earbuds,gemini,1,jbl,(mentioned: jbl),4
+earbuds_05,earbuds,gemini,2,earfun,(mentioned: earfun),1
+earbuds_05,earbuds,gemini,2,anker,(mentioned: anker),2
+earbuds_05,earbuds,gemini,2,soundcore,(mentioned: soundcore),3
+earbuds_05,earbuds,gemini,2,tozo,(mentioned: tozo),4
+earbuds_05,earbuds,gemini,3,earfun,EarFun Air Pro 3,1
+earbuds_05,earbuds,gemini,3,anker,Anker Soundcore Space A40,2
+earbuds_05,earbuds,perplexity,1,earfun,Earfun Air Pro 4i,1
+earbuds_05,earbuds,perplexity,1,anker,Anker Soundcore Space A40,2
+earbuds_05,earbuds,perplexity,2,earfun,Earfun Air Pro 4i,1
+earbuds_05,earbuds,perplexity,2,anker,Anker Soundcore Space A40,2
+earbuds_05,earbuds,perplexity,2,oneplus,OnePlus Buds 4,3
+earbuds_05,earbuds,perplexity,3,earfun,(mentioned: earfun),1
+earbuds_05,earbuds,perplexity,3,anker,(mentioned: anker),2
+earbuds_05,earbuds,perplexity,3,soundcore,(mentioned: soundcore),3
+earbuds_05,earbuds,perplexity,3,oneplus,(mentioned: oneplus),4
+earbuds_05,earbuds,claude,1,earfun,EarFun Air Pro 4,1
+earbuds_05,earbuds,claude,1,anker,Anker Soundcore Liberty 4 NC,2
+earbuds_05,earbuds,claude,2,apple,(mentioned: apple),1
+earbuds_05,earbuds,claude,2,earfun,(mentioned: earfun),2
+earbuds_05,earbuds,claude,2,liberty,(mentioned: liberty),3
+earbuds_05,earbuds,claude,2,soundcore,(mentioned: soundcore),4
+earbuds_05,earbuds,claude,3,apple,(mentioned: apple),1
+earbuds_05,earbuds,claude,3,earfun,(mentioned: earfun),2
+earbuds_05,earbuds,claude,3,anker,(mentioned: anker),3
+earbuds_05,earbuds,claude,3,liberty,(mentioned: liberty),4
+earbuds_05,earbuds,claude,3,soundcore,(mentioned: soundcore),5
+earbuds_05,earbuds,deepseek,1,anker,Soundcore by Anker Space A40,1
+earbuds_05,earbuds,deepseek,1,earfun,EarFun Air Pro 3,2
+earbuds_05,earbuds,deepseek,2,anker,Soundcore by Anker Space A40,1
+earbuds_05,earbuds,deepseek,2,earfun,EarFun Air Pro 3,2
+earbuds_05,earbuds,deepseek,3,anker,Soundcore by Anker Space A40,1
+earbuds_05,earbuds,deepseek,3,earfun,EarFun Air Pro 3,2
+earbuds_05,earbuds,deepseek,3,soundcore,Soundcore Life P3,3
+earbuds_05,earbuds,deepseek,3,tozo,TOZO NC2,4
+earbuds_06,earbuds,chatgpt,1,soundpeats,SoundPEATS Capsule3 Pro+,1
+earbuds_06,earbuds,chatgpt,1,nothing,Nothing Ear,2
+earbuds_06,earbuds,chatgpt,1,anker,Anker Soundcore Space A40,3
+earbuds_06,earbuds,chatgpt,1,earfun,EarFun Air Pro 4+,4
+earbuds_06,earbuds,chatgpt,2,nothing,Nothing Ear,1
+earbuds_06,earbuds,chatgpt,2,oneplus,OnePlus Buds 3,2
+earbuds_06,earbuds,chatgpt,2,anker,Anker Soundcore Space A40,3
+earbuds_06,earbuds,chatgpt,2,samsung,Samsung Galaxy Buds FE,4
+earbuds_06,earbuds,chatgpt,3,soundpeats,SOUNDPEATS Capsule3 Pro+,1
+earbuds_06,earbuds,chatgpt,3,earfun,EarFun Air Pro 4,2
+earbuds_06,earbuds,chatgpt,3,oneplus,OnePlus Buds 3,3
+earbuds_06,earbuds,chatgpt,3,nothing,Nothing Ear,4
+earbuds_06,earbuds,gemini,1,earfun,EarFun Air Pro 4+,1
+earbuds_06,earbuds,gemini,1,soundpeats,SoundPEATS Capsule3 Pro+,2
+earbuds_06,earbuds,gemini,1,nothing,Nothing Ear,3
+earbuds_06,earbuds,gemini,1,anker,Anker Soundcore Space A40 Truly Wireless,4
+earbuds_06,earbuds,gemini,2,earfun,(mentioned: earfun),1
+earbuds_06,earbuds,gemini,2,anker,(mentioned: anker),2
+earbuds_06,earbuds,gemini,2,liberty,(mentioned: liberty),3
+earbuds_06,earbuds,gemini,2,jabra,(mentioned: jabra),4
+earbuds_06,earbuds,gemini,2,soundcore,(mentioned: soundcore),5
+earbuds_06,earbuds,gemini,2,nothing,(mentioned: nothing),6
+earbuds_06,earbuds,gemini,2,soundpeats,(mentioned: soundpeats),7
+earbuds_06,earbuds,gemini,3,anker,Anker Soundcore Liberty 4 NC,1
+earbuds_06,earbuds,gemini,3,earfun,EarFun Air Pro 4 / EarFun Air Pro 4+,2
+earbuds_06,earbuds,gemini,3,1more,1MORE ComfoBuds Pro,3
+earbuds_06,earbuds,gemini,3,nothing,Nothing Ear,4
+earbuds_06,earbuds,gemini,3,soundpeats,SoundPEATS Capsule3 Pro+,5
+earbuds_06,earbuds,gemini,3,jbl,JBL Vibe Beam,6
+earbuds_06,earbuds,perplexity,1,earfun,(mentioned: earfun),1
+earbuds_06,earbuds,perplexity,1,nothing,(mentioned: nothing),2
+earbuds_06,earbuds,perplexity,1,soundpeats,(mentioned: soundpeats),3
+earbuds_06,earbuds,perplexity,2,earfun,(mentioned: earfun),1
+earbuds_06,earbuds,perplexity,2,nothing,(mentioned: nothing),2
+earbuds_06,earbuds,perplexity,2,soundpeats,(mentioned: soundpeats),3
+earbuds_06,earbuds,perplexity,3,soundpeats,SoundPEATS Capsule3 Pro+,1
+earbuds_06,earbuds,perplexity,3,nothing,Nothing Ear,2
+earbuds_06,earbuds,perplexity,3,oneplus,OnePlus Buds 4,3
+earbuds_06,earbuds,claude,1,earfun,EarFun Air Pro 4+,1
+earbuds_06,earbuds,claude,1,soundpeats,SoundPEATS Capsule3 Pro+,2
+earbuds_06,earbuds,claude,1,anker,Anker Soundcore Space A40,3
+earbuds_06,earbuds,claude,2,soundpeats,SoundPEATS Capsule3 Pro+,1
+earbuds_06,earbuds,claude,2,earfun,EarFun Air Pro 4+,2
+earbuds_06,earbuds,claude,2,anker,Anker Soundcore Space A40,3
+earbuds_06,earbuds,claude,3,earfun,EarFun Air Pro 4,1
+earbuds_06,earbuds,claude,3,nothing,Nothing Ear,2
+earbuds_06,earbuds,claude,3,liberty,Soundcore Liberty 4 NC,3
+earbuds_06,earbuds,claude,3,anker,Anker Soundcore Space A40,4
+earbuds_06,earbuds,deepseek,1,earfun,EarFun Air Pro 3,1
+earbuds_06,earbuds,deepseek,1,anker,Soundcore by Anker Liberty 4 NC,2
+earbuds_06,earbuds,deepseek,1,samsung,Samsung Galaxy Buds2,3
+earbuds_06,earbuds,deepseek,1,soundpeats,Soundpeats Air4 Pro,4
+earbuds_06,earbuds,deepseek,1,jabra,Jabra Elite 4,5
+earbuds_06,earbuds,deepseek,2,earfun,(mentioned: earfun),1
+earbuds_06,earbuds,deepseek,2,anker,(mentioned: anker),2
+earbuds_06,earbuds,deepseek,2,soundcore,(mentioned: soundcore),3
+earbuds_06,earbuds,deepseek,2,samsung,(mentioned: samsung),4
+earbuds_06,earbuds,deepseek,2,soundpeats,(mentioned: soundpeats),5
+earbuds_06,earbuds,deepseek,2,jbl,(mentioned: jbl),6
+earbuds_06,earbuds,deepseek,3,1more,1MORE ComfoBuds Pro,1
+earbuds_06,earbuds,deepseek,3,anker,Soundcore,2
+earbuds_06,earbuds,deepseek,3,samsung,Samsung Galaxy Buds2,3
+earbuds_06,earbuds,deepseek,3,edifier,Edifier NeoBuds Pro,4
+earbuds_07,earbuds,chatgpt,1,jbl,JBL Endurance Race 2,1
+earbuds_07,earbuds,chatgpt,1,earfun,EarFun Free Pro 3,2
+earbuds_07,earbuds,chatgpt,1,skullcandy,Skullcandy Push Active,3
+earbuds_07,earbuds,chatgpt,2,jbl,JBL Endurance Race 2,1
+earbuds_07,earbuds,chatgpt,2,anker,Anker Soundcore P25i,2
+earbuds_07,earbuds,chatgpt,3,jbl,JBL Endurance Race 2,1
+earbuds_07,earbuds,chatgpt,3,anker,Anker Soundcore Sport X20,2
+earbuds_07,earbuds,gemini,1,tozo,TOZO T6 True Wireless Earbuds,1
+earbuds_07,earbuds,gemini,1,jbl,JBL Endurance Race True Wireless Earbuds,2
+earbuds_07,earbuds,gemini,1,anker,Anker Soundcore P20i True Wireless Earbuds,3
+earbuds_07,earbuds,gemini,2,anker,(mentioned: anker),1
+earbuds_07,earbuds,gemini,2,jabra,(mentioned: jabra),2
+earbuds_07,earbuds,gemini,2,soundcore,(mentioned: soundcore),3
+earbuds_07,earbuds,gemini,3,skullcandy,Skullcandy Push Active True Wireless,1
+earbuds_07,earbuds,gemini,3,anker,Anker Soundcore Life P3,2
+earbuds_07,earbuds,gemini,3,earfun,EarFun Free Pro 3,3
+earbuds_07,earbuds,perplexity,1,anker,(mentioned: anker),1
+earbuds_07,earbuds,perplexity,1,beats,(mentioned: beats),2
+earbuds_07,earbuds,perplexity,1,soundcore,(mentioned: soundcore),3
+earbuds_07,earbuds,perplexity,2,soundpeats,SoundPEATS Air5 Pro+,1
+earbuds_07,earbuds,perplexity,3,anker,Anker Soundcore Space A40 Truly Wireless,1
+earbuds_07,earbuds,perplexity,3,soundpeats,SoundPEATS Air5 Pro+,2
+earbuds_07,earbuds,claude,1,jbl,JBL Endurance Race 2,1
+earbuds_07,earbuds,claude,1,beats,Beats Powerbeats Fit,2
+earbuds_07,earbuds,claude,1,tozo,TOZO T10,3
+earbuds_07,earbuds,claude,1,anker,Anker Soundcore Sport X20,4
+earbuds_07,earbuds,claude,2,jbl,JBL Endurance Race 2,1
+earbuds_07,earbuds,claude,2,anker,Anker Soundcore Life A1,2
+earbuds_07,earbuds,claude,2,skullcandy,Skullcandy Dime 2,3
+earbuds_07,earbuds,claude,3,jbl,JBL Endurance Race 2,1
+earbuds_07,earbuds,claude,3,beats,Beats Powerbeats Fit,2
+earbuds_07,earbuds,deepseek,1,soundcore,Soundcore Sport X10,1
+earbuds_07,earbuds,deepseek,1,tozo,Tozo A1,2
+earbuds_07,earbuds,deepseek,1,beats,Beats Flex,3
+earbuds_07,earbuds,deepseek,1,skullcandy,Skullcandy Dime 3,4
+earbuds_07,earbuds,deepseek,2,anker,Soundcore by Anker A20i,1
+earbuds_07,earbuds,deepseek,2,tozo,Tozo T6,2
+earbuds_07,earbuds,deepseek,3,anker,Soundcore by Anker Sport X10,1
+earbuds_07,earbuds,deepseek,3,beats,Beats Flex,2
+earbuds_07,earbuds,deepseek,3,tozo,TOZO T6,3
+earbuds_07,earbuds,deepseek,3,sennheiser,Sennheiser CX True Wireless,4
+earbuds_08,earbuds,chatgpt,1,sony,Sony WF,1
+earbuds_08,earbuds,chatgpt,1,apple,Apple AirPods Pro 3,2
+earbuds_08,earbuds,chatgpt,1,technics,Technics EAH,3
+earbuds_08,earbuds,chatgpt,1,sennheiser,Sennheiser MOMENTUM True Wireless 4,4
+earbuds_08,earbuds,chatgpt,2,sony,Sony WF,1
+earbuds_08,earbuds,chatgpt,2,bose,Bose QuietComfort Ultra Earbuds,2
+earbuds_08,earbuds,chatgpt,2,apple,Apple AirPods Pro 3,3
+earbuds_08,earbuds,chatgpt,2,sennheiser,Sennheiser MOMENTUM True Wireless 4,4
+earbuds_08,earbuds,chatgpt,2,samsung,Samsung Galaxy Buds3 Pro,5
+earbuds_08,earbuds,chatgpt,3,technics,Technics EAH,1
+earbuds_08,earbuds,chatgpt,3,sony,Sony WF,2
+earbuds_08,earbuds,chatgpt,3,apple,Apple AirPods Pro 3,3
+earbuds_08,earbuds,chatgpt,3,sennheiser,Sennheiser MOMENTUM True Wireless 4,4
+earbuds_08,earbuds,gemini,1,sony,Sony WF,1
+earbuds_08,earbuds,gemini,1,bose,Bose QuietComfort Ultra Earbuds,2
+earbuds_08,earbuds,gemini,1,apple,Apple AirPods Pro 3,3
+earbuds_08,earbuds,gemini,1,technics,Technics EAH,4
+earbuds_08,earbuds,gemini,1,sennheiser,Sennheiser Momentum True Wireless 4,5
+earbuds_08,earbuds,gemini,2,sony,Sony WF,1
+earbuds_08,earbuds,gemini,2,bose,Bose QuietComfort Ultra Earbuds,2
+earbuds_08,earbuds,gemini,2,apple,Apple AirPods Pro 3,3
+earbuds_08,earbuds,gemini,2,sennheiser,Sennheiser Momentum True Wireless 4,4
+earbuds_08,earbuds,gemini,2,samsung,Samsung Galaxy Buds 4 Pro,5
+earbuds_08,earbuds,gemini,3,sony,Sony WF,1
+earbuds_08,earbuds,gemini,3,bose,Bose QuietComfort Ultra Earbuds,2
+earbuds_08,earbuds,gemini,3,apple,Apple AirPods Pro 3,3
+earbuds_08,earbuds,gemini,3,technics,Sennheiser Momentum True Wireless 4 / Panasonic Technics EAH,4
+earbuds_08,earbuds,perplexity,1,sony,Sony WF,1
+earbuds_08,earbuds,perplexity,1,bose,Bose QuietComfort Ultra Earbuds 2nd Gen,2
+earbuds_08,earbuds,perplexity,1,apple,Apple AirPods Pro 3,3
+earbuds_08,earbuds,perplexity,1,sennheiser,Sennheiser Momentum True Wireless 4,4
+earbuds_08,earbuds,perplexity,1,jbl,JBL Tour Pro 3,5
+earbuds_08,earbuds,perplexity,1,technics,Technics EAH,6
+earbuds_08,earbuds,perplexity,2,sony,Sony WF,1
+earbuds_08,earbuds,perplexity,2,bose,Bose QuietComfort Ultra Earbuds Gen 2,2
+earbuds_08,earbuds,perplexity,2,sennheiser,Sennheiser Momentum True Wireless 4,3
+earbuds_08,earbuds,perplexity,2,apple,Apple AirPods Pro 3,4
+earbuds_08,earbuds,perplexity,2,jbl,JBL Tour Pro 3,5
+earbuds_08,earbuds,perplexity,3,sony,Sony WF,1
+earbuds_08,earbuds,perplexity,3,bose,Bose QuietComfort Ultra Earbuds 2nd Gen,2
+earbuds_08,earbuds,perplexity,3,apple,Apple AirPods Pro 3,3
+earbuds_08,earbuds,perplexity,3,sennheiser,Sennheiser Momentum True Wireless 4,4
+earbuds_08,earbuds,perplexity,3,jbl,JBL Tour Pro 3,5
+earbuds_08,earbuds,claude,1,sony,Sony WF,1
+earbuds_08,earbuds,claude,1,apple,Apple AirPods Pro 3,2
+earbuds_08,earbuds,claude,1,technics,Technics EAH,3
+earbuds_08,earbuds,claude,1,bang & olufsen,Bang & Olufsen Beo Grace,4
+earbuds_08,earbuds,claude,1,bose,Bose QuietComfort Ultra Earbuds Gen 2,5
+earbuds_08,earbuds,claude,2,bang & olufsen,Bang & Olufsen Beo Grace,1
+earbuds_08,earbuds,claude,2,apple,Apple AirPods Pro 3,2
+earbuds_08,earbuds,claude,2,sony,Sony WF,3
+earbuds_08,earbuds,claude,2,technics,Technics EAH,4
+earbuds_08,earbuds,claude,2,bose,Bose QuietComfort Ultra Earbuds Gen 2,5
+earbuds_08,earbuds,claude,3,apple,Apple AirPods Pro 3,1
+earbuds_08,earbuds,claude,3,sony,Sony WF,2
+earbuds_08,earbuds,claude,3,bang & olufsen,Bang & Olufsen Beo Grace,3
+earbuds_08,earbuds,claude,3,technics,Technics EAH,4
+earbuds_08,earbuds,claude,3,bose,Bose QuietComfort Ultra Earbuds Gen 2,5
+earbuds_08,earbuds,deepseek,1,apple,(mentioned: apple),1
+earbuds_08,earbuds,deepseek,1,beats,(mentioned: beats),2
+earbuds_08,earbuds,deepseek,1,technics,(mentioned: technics),3
+earbuds_08,earbuds,deepseek,1,nothing,(mentioned: nothing),4
+earbuds_08,earbuds,deepseek,1,sony,(mentioned: sony),5
+earbuds_08,earbuds,deepseek,1,bose,(mentioned: bose),6
+earbuds_08,earbuds,deepseek,1,sennheiser,(mentioned: sennheiser),7
+earbuds_08,earbuds,deepseek,2,apple,(mentioned: apple),1
+earbuds_08,earbuds,deepseek,2,samsung,(mentioned: samsung),2
+earbuds_08,earbuds,deepseek,2,nothing,(mentioned: nothing),3
+earbuds_08,earbuds,deepseek,2,sony,(mentioned: sony),4
+earbuds_08,earbuds,deepseek,2,sennheiser,(mentioned: sennheiser),5
+earbuds_08,earbuds,deepseek,3,sony,Sony WF,1
+earbuds_08,earbuds,deepseek,3,sennheiser,Sennheiser Momentum True Wireless 4,2
+earbuds_08,earbuds,deepseek,3,bose,Bose QuietComfort Ultra Earbuds II,3
+earbuds_09,earbuds,chatgpt,1,bose,Bose QuietComfort Ultra Earbuds,1
+earbuds_09,earbuds,chatgpt,1,sony,Sony WF,2
+earbuds_09,earbuds,chatgpt,1,apple,Apple AirPods Pro 2,3
+earbuds_09,earbuds,chatgpt,2,bose,Bose QuietComfort Ultra Earbuds,1
+earbuds_09,earbuds,chatgpt,2,sony,Sony WF,2
+earbuds_09,earbuds,chatgpt,2,technics,Technics EAH,3
+earbuds_09,earbuds,chatgpt,2,sennheiser,Sennheiser MOMENTUM True Wireless 4,4
+earbuds_09,earbuds,chatgpt,3,bose,Bose QuietComfort Ultra Earbuds,1
+earbuds_09,earbuds,chatgpt,3,sony,Sony WF,2
+earbuds_09,earbuds,chatgpt,3,apple,Apple AirPods Pro 2,3
+earbuds_09,earbuds,chatgpt,3,jabra,Jabra Elite 10 Gen 2,4
+earbuds_09,earbuds,gemini,1,sony,(mentioned: sony),1
+earbuds_09,earbuds,gemini,1,bose,(mentioned: bose),2
+earbuds_09,earbuds,gemini,1,sennheiser,(mentioned: sennheiser),3
+earbuds_09,earbuds,gemini,2,bose,Bose QuietComfort Earbuds II,1
+earbuds_09,earbuds,gemini,2,sony,Sony WF,2
+earbuds_09,earbuds,gemini,2,sennheiser,Sennheiser Momentum True Wireless 4,3
+earbuds_09,earbuds,gemini,2,jbl,JBL Tour Pro 2,4
+earbuds_09,earbuds,gemini,3,jabra,(mentioned: jabra),1
+earbuds_09,earbuds,gemini,3,sony,(mentioned: sony),2
+earbuds_09,earbuds,gemini,3,bose,(mentioned: bose),3
+earbuds_09,earbuds,gemini,3,sennheiser,(mentioned: sennheiser),4
+earbuds_09,earbuds,perplexity,1,anker,Anker Soundcore Liberty 4 Pro,1
+earbuds_09,earbuds,perplexity,1,sony,Sony WF,2
+earbuds_09,earbuds,perplexity,1,beats,Beats Studio Buds+,3
+earbuds_09,earbuds,perplexity,2,nothing,Nothing Ear,1
+earbuds_09,earbuds,perplexity,2,sony,Sony WF,2
+earbuds_09,earbuds,perplexity,2,anker,Anker Soundcore Liberty 4 NC,3
+earbuds_09,earbuds,perplexity,3,anker,Anker Soundcore Liberty 4 Pro,1
+earbuds_09,earbuds,perplexity,3,sony,Sony WF,2
+earbuds_09,earbuds,perplexity,3,jbl,JBL Live Beam 3,3
+earbuds_09,earbuds,perplexity,3,beats,Beats Studio Buds+,4
+earbuds_09,earbuds,claude,1,apple,(mentioned: apple),1
+earbuds_09,earbuds,claude,1,soundcore,(mentioned: soundcore),2
+earbuds_09,earbuds,claude,1,sony,(mentioned: sony),3
+earbuds_09,earbuds,claude,1,bose,(mentioned: bose),4
+earbuds_09,earbuds,claude,2,apple,(mentioned: apple),1
+earbuds_09,earbuds,claude,2,soundcore,(mentioned: soundcore),2
+earbuds_09,earbuds,claude,2,sony,(mentioned: sony),3
+earbuds_09,earbuds,claude,2,bose,(mentioned: bose),4
+earbuds_09,earbuds,claude,3,bose,Bose QuietComfort Ultra Earbuds,1
+earbuds_09,earbuds,claude,3,apple,Apple AirPods Pro 3,2
+earbuds_09,earbuds,claude,3,sony,Sony WF,3
+earbuds_09,earbuds,claude,3,soundcore,Soundcore Space A40,4
+earbuds_09,earbuds,deepseek,1,sony,(mentioned: sony),1
+earbuds_09,earbuds,deepseek,1,bose,(mentioned: bose),2
+earbuds_09,earbuds,deepseek,1,sennheiser,(mentioned: sennheiser),3
+earbuds_09,earbuds,deepseek,2,sony,Sony WF,1
+earbuds_09,earbuds,deepseek,2,samsung,Samsung Galaxy Buds2 Pro,2
+earbuds_09,earbuds,deepseek,2,jabra,Jabra Elite 10,3
+earbuds_09,earbuds,deepseek,2,sennheiser,Sennheiser Momentum True Wireless 4,4
+earbuds_09,earbuds,deepseek,2,bose,Bose QuietComfort Ultra Earbuds,5
+earbuds_09,earbuds,deepseek,3,sony,Sony WF,1
+earbuds_09,earbuds,deepseek,3,bose,Bose QuietComfort Earbuds II,2
+earbuds_09,earbuds,deepseek,3,sennheiser,Sennheiser Momentum True Wireless 3,3
+earbuds_09,earbuds,deepseek,3,anker,Anker Soundcore Liberty 4,4
+earbuds_10,earbuds,chatgpt,1,technics,Technics EAH,1
+earbuds_10,earbuds,chatgpt,1,sennheiser,Sennheiser MOMENTUM True Wireless 4,2
+earbuds_10,earbuds,chatgpt,1,sony,Sony WF,3
+earbuds_10,earbuds,chatgpt,1,jbl,JBL Tour Pro 3,4
+earbuds_10,earbuds,chatgpt,2,sony,Sony WF,1
+earbuds_10,earbuds,chatgpt,2,technics,Technics EAH,2
+earbuds_10,earbuds,chatgpt,2,sennheiser,Sennheiser MOMENTUM True Wireless 4,3
+earbuds_10,earbuds,chatgpt,2,apple,Apple AirPods Pro 3,4
+earbuds_10,earbuds,chatgpt,3,sony,Sony WF,1
+earbuds_10,earbuds,chatgpt,3,technics,Technics EAH,2
+earbuds_10,earbuds,chatgpt,3,nothing,Nothing Ear,3
+earbuds_10,earbuds,chatgpt,3,sennheiser,Sennheiser MOMENTUM True Wireless 4,4
+earbuds_10,earbuds,gemini,1,sony,(mentioned: sony),1
+earbuds_10,earbuds,gemini,1,sennheiser,(mentioned: sennheiser),2
+earbuds_10,earbuds,gemini,2,technics,(mentioned: technics),1
+earbuds_10,earbuds,gemini,2,sony,(mentioned: sony),2
+earbuds_10,earbuds,gemini,2,sennheiser,(mentioned: sennheiser),3
+earbuds_10,earbuds,gemini,3,technics,(mentioned: technics),1
+earbuds_10,earbuds,gemini,3,sony,(mentioned: sony),2
+earbuds_10,earbuds,gemini,3,sennheiser,(mentioned: sennheiser),3
+earbuds_10,earbuds,perplexity,1,sony,Sony WF,1
+earbuds_10,earbuds,perplexity,1,technics,Technics EAH,2
+earbuds_10,earbuds,perplexity,2,sony,Sony WF,1
+earbuds_10,earbuds,perplexity,2,technics,Technics EAH,2
+earbuds_10,earbuds,perplexity,2,sennheiser,Sennheiser Momentum True Wireless 4,3
+earbuds_10,earbuds,perplexity,3,sony,Sony WF,1
+earbuds_10,earbuds,perplexity,3,technics,Technics EAH,2
+earbuds_10,earbuds,claude,1,technics,(mentioned: technics),1
+earbuds_10,earbuds,claude,1,sony,(mentioned: sony),2
+earbuds_10,earbuds,claude,2,technics,(mentioned: technics),1
+earbuds_10,earbuds,claude,2,sony,(mentioned: sony),2
+earbuds_10,earbuds,claude,3,bang & olufsen,Bang & Olufsen Beo Grace,1
+earbuds_10,earbuds,claude,3,sony,Sony WF,2
+earbuds_10,earbuds,claude,3,technics,Technics EAH,3
+earbuds_10,earbuds,claude,3,sennheiser,Sennheiser Momentum True Wireless 4,4
+earbuds_10,earbuds,deepseek,1,sennheiser,Sennheiser Momentum True Wireless 4,1
+earbuds_10,earbuds,deepseek,1,sony,Sony WF,2
+earbuds_10,earbuds,deepseek,1,bang & olufsen,Bang & Olufsen Beoplay EX,3
+earbuds_10,earbuds,deepseek,2,moondrop,Moondrop Golden Ages,1
+earbuds_10,earbuds,deepseek,2,sony,Sony WF,2
+earbuds_10,earbuds,deepseek,2,sennheiser,Sennheiser Momentum True Wireless 4,3
+earbuds_10,earbuds,deepseek,2,anker,Soundcore Liberty 4 Pro,4
+earbuds_10,earbuds,deepseek,3,sony,Sony WF,1
+earbuds_10,earbuds,deepseek,3,sennheiser,Sennheiser Momentum True Wireless 4,2
+earbuds_10,earbuds,deepseek,3,fiio,FiiO FW5,3
+earbuds_11,earbuds,chatgpt,1,bose,Bose Ultra Open Earbuds,1
+earbuds_11,earbuds,chatgpt,2,sony,Sony LinkBuds Open,1
+earbuds_11,earbuds,chatgpt,2,bose,Bose QuietComfort Ultra Earbuds,2
+earbuds_11,earbuds,chatgpt,2,apple,Apple AirPods Pro 2,3
+earbuds_11,earbuds,chatgpt,3,sony,Sony LinkBuds Open,1
+earbuds_11,earbuds,chatgpt,3,huawei,Huawei FreeClip,2
+earbuds_11,earbuds,chatgpt,3,bose,Bose Ultra Open Earbuds,3
+earbuds_11,earbuds,gemini,1,apple,(mentioned: apple),1
+earbuds_11,earbuds,gemini,1,samsung,(mentioned: samsung),2
+earbuds_11,earbuds,gemini,1,sony,(mentioned: sony),3
+earbuds_11,earbuds,gemini,1,bose,(mentioned: bose),4
+earbuds_11,earbuds,gemini,2,bose,Bose Ultra Open Earbuds,1
+earbuds_11,earbuds,gemini,2,soundcore,Soundcore AeroFit Pro,2
+earbuds_11,earbuds,gemini,2,apple,Apple AirPods Pro,3
+earbuds_11,earbuds,gemini,2,sony,Sony WF,4
+earbuds_11,earbuds,gemini,2,samsung,Samsung Galaxy Buds 2 Pro,5
+earbuds_11,earbuds,gemini,3,bose,(mentioned: bose),1
+earbuds_11,earbuds,claude,1,apple,(mentioned: apple),1
+earbuds_11,earbuds,claude,1,samsung,(mentioned: samsung),2
+earbuds_11,earbuds,claude,1,sony,(mentioned: sony),3
+earbuds_11,earbuds,claude,2,apple,(mentioned: apple),1
+earbuds_11,earbuds,claude,2,samsung,(mentioned: samsung),2
+earbuds_11,earbuds,claude,2,sony,(mentioned: sony),3
+earbuds_11,earbuds,claude,3,apple,(mentioned: apple),1
+earbuds_11,earbuds,claude,3,samsung,(mentioned: samsung),2
+earbuds_11,earbuds,claude,3,sony,(mentioned: sony),3
+earbuds_11,earbuds,deepseek,1,apple,Apple AirPods Pro,1
+earbuds_11,earbuds,deepseek,1,sony,Sony WF,2
+earbuds_11,earbuds,deepseek,1,anker,Soundcore by Anker Space A40,3
+earbuds_11,earbuds,deepseek,1,soundcore,Soundcore Space A40,4
+earbuds_11,earbuds,deepseek,2,apple,Apple AirPods Pro 2,1
+earbuds_11,earbuds,deepseek,2,sony,Sony WF,2
+earbuds_11,earbuds,deepseek,2,samsung,Samsung Galaxy Buds2 Pro,3
+earbuds_11,earbuds,deepseek,2,nothing,Nothing Ear,4
+earbuds_11,earbuds,deepseek,3,apple,Apple AirPods,1
+earbuds_11,earbuds,deepseek,3,samsung,Samsung Galaxy Buds2 Pro,2
+earbuds_11,earbuds,deepseek,3,beats,Beats Fit Pro,3
+earbuds_11,earbuds,deepseek,3,jabra,Jabra Elite 7 Active,4
+earbuds_11,earbuds,deepseek,3,tozo,Tozo OpenEar,5
+earbuds_12,earbuds,chatgpt,1,razer,Razer Hammerhead V3 HyperSpeed,1
+earbuds_12,earbuds,chatgpt,1,sony,Sony INZONE Buds,2
+earbuds_12,earbuds,chatgpt,1,soundcore,soundcore VR P10,3
+earbuds_12,earbuds,chatgpt,2,sony,Sony INZONE Buds,1
+earbuds_12,earbuds,chatgpt,2,steelseries,SteelSeries Arctis GameBuds,2
+earbuds_12,earbuds,chatgpt,2,soundcore,soundcore VR P10,3
+earbuds_12,earbuds,chatgpt,3,razer,Razer Hammerhead Pro HyperSpeed,1
+earbuds_12,earbuds,chatgpt,3,sony,Sony INZONE Buds,2
+earbuds_12,earbuds,chatgpt,3,steelseries,SteelSeries Arctis GameBuds / Nova buds line,3
+earbuds_12,earbuds,gemini,1,logitech,(mentioned: logitech),1
+earbuds_12,earbuds,gemini,1,razer,(mentioned: razer),2
+earbuds_12,earbuds,gemini,1,steelseries,(mentioned: steelseries),3
+earbuds_12,earbuds,gemini,1,sony,(mentioned: sony),4
+earbuds_12,earbuds,gemini,1,jbl,(mentioned: jbl),5
+earbuds_12,earbuds,gemini,2,razer,(mentioned: razer),1
+earbuds_12,earbuds,gemini,2,steelseries,(mentioned: steelseries),2
+earbuds_12,earbuds,gemini,2,sony,(mentioned: sony),3
+earbuds_12,earbuds,gemini,3,razer,(mentioned: razer),1
+earbuds_12,earbuds,gemini,3,steelseries,(mentioned: steelseries),2
+earbuds_12,earbuds,gemini,3,sony,(mentioned: sony),3
+earbuds_12,earbuds,perplexity,1,steelseries,SteelSeries Arctis GameBuds,1
+earbuds_12,earbuds,perplexity,1,razer,Razer Hammerhead Pro HyperSpeed True Wireless,2
+earbuds_12,earbuds,perplexity,1,sony,Sony INZONE Buds Truly Wireless,3
+earbuds_12,earbuds,perplexity,2,steelseries,SteelSeries Arctis GameBuds,1
+earbuds_12,earbuds,perplexity,2,razer,Razer Hammerhead Pro HyperSpeed True Wireless,2
+earbuds_12,earbuds,perplexity,2,sony,Sony INZONE Buds Truly Wireless,3
+earbuds_12,earbuds,perplexity,3,steelseries,SteelSeries Arctis GameBuds,1
+earbuds_12,earbuds,perplexity,3,razer,Razer Hammerhead Pro HyperSpeed True Wireless,2
+earbuds_12,earbuds,perplexity,3,sony,Sony INZONE Buds Truly Wireless,3
+earbuds_12,earbuds,claude,1,steelseries,(mentioned: steelseries),1
+earbuds_12,earbuds,claude,1,tozo,(mentioned: tozo),2
+earbuds_12,earbuds,claude,1,samsung,(mentioned: samsung),3
+earbuds_12,earbuds,claude,1,soundpeats,(mentioned: soundpeats),4
+earbuds_12,earbuds,claude,1,sony,(mentioned: sony),5
+earbuds_12,earbuds,claude,2,steelseries,SteelSeries Arctis GameBuds,1
+earbuds_12,earbuds,claude,2,sony,Sony INZONE Buds,2
+earbuds_12,earbuds,claude,2,samsung,Samsung Galaxy Buds3 Pro,3
+earbuds_12,earbuds,claude,2,earfun,EarFun Air 2 NC,4
+earbuds_12,earbuds,claude,3,steelseries,SteelSeries Arctis GameBuds,1
+earbuds_12,earbuds,claude,3,sony,Sony INZONE Buds,2
+earbuds_12,earbuds,claude,3,samsung,Samsung Galaxy Buds3 Pro,3
+earbuds_12,earbuds,deepseek,1,steelseries,SteelSeries Arctis GameBuds,1
+earbuds_12,earbuds,deepseek,1,razer,Razer Hammerhead Hyperspeed,2
+earbuds_12,earbuds,deepseek,1,jbl,JBL Quantum TWS,3
+earbuds_12,earbuds,deepseek,1,anker,Anker Soundcore VR P10,4
+earbuds_12,earbuds,deepseek,2,steelseries,SteelSeries Arctis Nova 7X/7P Wireless,1
+earbuds_12,earbuds,deepseek,2,razer,Razer Hammerhead True Wireless Pro,2
+earbuds_12,earbuds,deepseek,2,samsung,Samsung Galaxy Buds 2 Pro,3
+earbuds_12,earbuds,deepseek,2,jbl,JBL Quantum TWS,4
+earbuds_12,earbuds,deepseek,3,razer,Razer Hammerhead True Wireless Pro,1
+earbuds_12,earbuds,deepseek,3,anker,Anker Soundcore Life P3,2
+earbuds_12,earbuds,deepseek,3,jbl,JBL Quantum TWS,3
+earbuds_12,earbuds,deepseek,3,sony,Sony WF,4
+earbuds_13,earbuds,chatgpt,1,sony,Sony WF,1
+earbuds_13,earbuds,chatgpt,1,technics,Technics EAH,2
+earbuds_13,earbuds,chatgpt,1,anker,Anker Soundcore Space A40,3
+earbuds_13,earbuds,chatgpt,1,apple,Apple AirPods Pro 2,4
+earbuds_13,earbuds,chatgpt,2,sony,Bose QuietComfort Ultra Earbuds,1
+earbuds_13,earbuds,chatgpt,2,apple,Apple AirPods Pro 2,2
+earbuds_13,earbuds,chatgpt,2,samsung,Samsung Galaxy Buds3 Pro,3
+earbuds_13,earbuds,chatgpt,3,sony,Sony WF,1
+earbuds_13,earbuds,chatgpt,3,bose,Bose QuietComfort Ultra Earbuds,2
+earbuds_13,earbuds,chatgpt,3,apple,Apple AirPods Pro 2,3
+earbuds_13,earbuds,chatgpt,3,anker,Anker Soundcore Space A40,4
+earbuds_13,earbuds,gemini,1,bose,Bose QuietComfort Ultra Earbuds,1
+earbuds_13,earbuds,gemini,1,sony,Sony WF,2
+earbuds_13,earbuds,gemini,1,apple,Apple AirPods Pro 2nd Generation,3
+earbuds_13,earbuds,gemini,1,pixel,Google Pixel Buds Pro,4
+earbuds_13,earbuds,gemini,1,technics,Technics EAH,5
+earbuds_13,earbuds,gemini,2,apple,(mentioned: apple),1
+earbuds_13,earbuds,gemini,2,jabra,(mentioned: jabra),2
+earbuds_13,earbuds,gemini,2,sony,(mentioned: sony),3
+earbuds_13,earbuds,gemini,2,bose,(mentioned: bose),4
+earbuds_13,earbuds,gemini,2,sennheiser,(mentioned: sennheiser),5
+earbuds_13,earbuds,gemini,3,apple,(mentioned: apple),1
+earbuds_13,earbuds,gemini,3,earfun,(mentioned: earfun),2
+earbuds_13,earbuds,gemini,3,anker,(mentioned: anker),3
+earbuds_13,earbuds,gemini,3,jabra,(mentioned: jabra),4
+earbuds_13,earbuds,gemini,3,soundcore,(mentioned: soundcore),5
+earbuds_13,earbuds,gemini,3,sony,(mentioned: sony),6
+earbuds_13,earbuds,gemini,3,bose,(mentioned: bose),7
+earbuds_13,earbuds,gemini,3,sennheiser,(mentioned: sennheiser),8
+earbuds_13,earbuds,perplexity,1,sony,Sony WF,1
+earbuds_13,earbuds,perplexity,1,technics,Technics EAH,2
+earbuds_13,earbuds,perplexity,1,bose,Bose QuietComfort Ultra Earbuds,3
+earbuds_13,earbuds,perplexity,1,sennheiser,Sennheiser MOMENTUM True Wireless 4,4
+earbuds_13,earbuds,perplexity,1,oneplus,OnePlus Buds 4,5
+earbuds_13,earbuds,perplexity,2,sony,Sony WF,1
+earbuds_13,earbuds,perplexity,2,apple,Apple AirPods Pro 3,2
+earbuds_13,earbuds,perplexity,2,technics,Technics EAH,3
+earbuds_13,earbuds,perplexity,2,oneplus,OnePlus Buds 4,4
+earbuds_13,earbuds,perplexity,2,bose,Bose QuietComfort Ultra Earbuds,5
+earbuds_13,earbuds,perplexity,3,sony,Sony WF,1
+earbuds_13,earbuds,perplexity,3,technics,Technics EAH,2
+earbuds_13,earbuds,perplexity,3,bose,Bose QuietComfort Ultra Earbuds,3
+earbuds_13,earbuds,perplexity,3,sennheiser,Sennheiser MOMENTUM True Wireless 4,4
+earbuds_13,earbuds,claude,2,apple,Phone type**: Are you using iOS,1
+earbuds_13,earbuds,deepseek,1,sony,Sony WF,1
+earbuds_13,earbuds,deepseek,1,samsung,Samsung Galaxy Buds2 Pro,2
+earbuds_13,earbuds,deepseek,1,apple,Apple AirPods Pro,3
+earbuds_13,earbuds,deepseek,1,jabra,Jabra Elite 10,4
+earbuds_13,earbuds,deepseek,2,sony,Sony WF,1
+earbuds_13,earbuds,deepseek,2,apple,Apple AirPods Pro,2
+earbuds_13,earbuds,deepseek,2,samsung,Samsung Galaxy Buds2 Pro,3
+earbuds_13,earbuds,deepseek,2,sennheiser,Sennheiser Momentum True Wireless 4,4
+earbuds_13,earbuds,deepseek,2,anker,Anker Soundcore Liberty 4 NC,5
+earbuds_13,earbuds,deepseek,3,apple,(mentioned: apple),1
+earbuds_13,earbuds,deepseek,3,anker,(mentioned: anker),2
+earbuds_13,earbuds,deepseek,3,beats,(mentioned: beats),3
+earbuds_13,earbuds,deepseek,3,jabra,(mentioned: jabra),4
+earbuds_13,earbuds,deepseek,3,soundcore,(mentioned: soundcore),5
+earbuds_13,earbuds,deepseek,3,nothing,(mentioned: nothing),6
+earbuds_13,earbuds,deepseek,3,sony,(mentioned: sony),7
+earbuds_13,earbuds,deepseek,3,jbl,(mentioned: jbl),8
+earbuds_14,earbuds,chatgpt,1,apple,Apple AirPods Pro,1
+earbuds_14,earbuds,chatgpt,1,sony,Sony WF,2
+earbuds_14,earbuds,chatgpt,1,bose,Bose QuietComfort Ultra Earbuds,3
+earbuds_14,earbuds,chatgpt,1,technics,Technics EAH,4
+earbuds_14,earbuds,chatgpt,1,nothing,Nothing Ear,5
+earbuds_14,earbuds,chatgpt,1,anker,Anker Soundcore Liberty 4 Pro / Liberty line,6
+earbuds_14,earbuds,chatgpt,2,sony,Sony WF,1
+earbuds_14,earbuds,chatgpt,2,technics,Technics EAH,2
+earbuds_14,earbuds,chatgpt,2,anker,Anker Soundcore Space A40,3
+earbuds_14,earbuds,chatgpt,2,apple,Apple AirPods Pro 2,4
+earbuds_14,earbuds,chatgpt,3,sony,Sony WF,1
+earbuds_14,earbuds,chatgpt,3,bose,Bose QuietComfort Ultra Earbuds,2
+earbuds_14,earbuds,chatgpt,3,apple,Apple AirPods Pro 2,3
+earbuds_14,earbuds,gemini,1,apple,(mentioned: apple),1
+earbuds_14,earbuds,gemini,1,anker,(mentioned: anker),2
+earbuds_14,earbuds,gemini,1,soundcore,(mentioned: soundcore),3
+earbuds_14,earbuds,gemini,1,sony,(mentioned: sony),4
+earbuds_14,earbuds,gemini,1,bose,(mentioned: bose),5
+earbuds_14,earbuds,gemini,1,sennheiser,(mentioned: sennheiser),6
+earbuds_14,earbuds,gemini,2,apple,(mentioned: apple),1
+earbuds_14,earbuds,gemini,2,earfun,(mentioned: earfun),2
+earbuds_14,earbuds,gemini,2,anker,(mentioned: anker),3
+earbuds_14,earbuds,gemini,2,liberty,(mentioned: liberty),4
+earbuds_14,earbuds,gemini,2,jabra,(mentioned: jabra),5
+earbuds_14,earbuds,gemini,2,soundcore,(mentioned: soundcore),6
+earbuds_14,earbuds,gemini,2,sony,(mentioned: sony),7
+earbuds_14,earbuds,gemini,2,bose,(mentioned: bose),8
+earbuds_14,earbuds,gemini,2,sennheiser,(mentioned: sennheiser),9
+earbuds_14,earbuds,gemini,3,bose,Bose QuietComfort Ultra Earbuds,1
+earbuds_14,earbuds,gemini,3,sony,Sony WF,2
+earbuds_14,earbuds,gemini,3,apple,Apple AirPods Pro,3
+earbuds_14,earbuds,gemini,3,sennheiser,Sennheiser Momentum True Wireless 4,4
+earbuds_14,earbuds,gemini,3,jbl,JBL Live Pro 2 TWS,5
+earbuds_14,earbuds,perplexity,1,sony,Sony WF,1
+earbuds_14,earbuds,perplexity,1,sennheiser,Sennheiser Momentum True Wireless 4,2
+earbuds_14,earbuds,perplexity,1,bose,Bose QuietComfort Ultra Earbuds,3
+earbuds_14,earbuds,perplexity,1,apple,Apple AirPods Pro 3,4
+earbuds_14,earbuds,perplexity,1,jbl,JBL Vibe Beam,5
+earbuds_14,earbuds,perplexity,2,sony,Sony WF,1
+earbuds_14,earbuds,perplexity,2,apple,Apple AirPods Pro 3,2
+earbuds_14,earbuds,perplexity,2,sennheiser,Sennheiser Momentum True Wireless 4,3
+earbuds_14,earbuds,perplexity,2,bose,Bose QuietComfort Ultra Earbuds,4
+earbuds_14,earbuds,perplexity,2,jbl,JBL Tour Pro 3,5
+earbuds_14,earbuds,perplexity,3,sony,Sony WF,1
+earbuds_14,earbuds,perplexity,3,apple,Apple AirPods Pro 3,2
+earbuds_14,earbuds,perplexity,3,sennheiser,Sennheiser Momentum True Wireless 4,3
+earbuds_14,earbuds,perplexity,3,bose,Bose QuietComfort Ultra Earbuds,4
+earbuds_14,earbuds,perplexity,3,jbl,JBL Tour Pro 3,5
+earbuds_14,earbuds,deepseek,1,sony,Sony WF,1
+earbuds_14,earbuds,deepseek,1,apple,Apple AirPods Pro 2,2
+earbuds_14,earbuds,deepseek,1,sennheiser,Sennheiser Momentum True Wireless 4** – **~$280,3
+earbuds_14,earbuds,deepseek,1,jabra,Jabra Elite 7 Pro** – **~$160,4
+earbuds_14,earbuds,deepseek,1,anker,Anker Soundcore Liberty 4 NC** – **~$100,5
+earbuds_14,earbuds,deepseek,2,sony,Sony WF,1
+earbuds_14,earbuds,deepseek,2,sennheiser,Sennheiser Momentum True Wireless 4,2
+earbuds_14,earbuds,deepseek,2,jabra,Jabra Elite 10,3
+earbuds_14,earbuds,deepseek,2,anker,Anker Soundcore Space A40,4
+earbuds_14,earbuds,deepseek,2,nothing,Nothing Ear,5
+earbuds_14,earbuds,deepseek,2,samsung,Samsung Galaxy Buds3 Pro,6
+earbuds_14,earbuds,deepseek,2,pixel,Google Pixel Buds Pro 2,7
+earbuds_14,earbuds,deepseek,3,sony,Sony WF,1
+earbuds_14,earbuds,deepseek,3,apple,Apple AirPods Pro 2,2
+earbuds_14,earbuds,deepseek,3,samsung,Samsung Galaxy Buds2 Pro** –,3
+earbuds_14,earbuds,deepseek,3,jabra,Jabra Elite 10** –,4
+earbuds_14,earbuds,deepseek,3,nothing,Nothing Ear,5
+earbuds_15,earbuds,chatgpt,1,sony,Sony WF,1
+earbuds_15,earbuds,chatgpt,1,bose,Bose QuietComfort Ultra Earbuds,2
+earbuds_15,earbuds,chatgpt,1,apple,Apple AirPods Pro 2,3
+earbuds_15,earbuds,chatgpt,1,samsung,Samsung Galaxy Buds3 Pro,4
+earbuds_15,earbuds,chatgpt,2,apple,(mentioned: apple),1
+earbuds_15,earbuds,chatgpt,2,anker,(mentioned: anker),2
+earbuds_15,earbuds,chatgpt,2,jabra,(mentioned: jabra),3
+earbuds_15,earbuds,chatgpt,2,soundcore,(mentioned: soundcore),4
+earbuds_15,earbuds,chatgpt,2,technics,(mentioned: technics),5
+earbuds_15,earbuds,chatgpt,2,sony,(mentioned: sony),6
+earbuds_15,earbuds,chatgpt,3,sony,Sony WF,1
+earbuds_15,earbuds,chatgpt,3,apple,Apple AirPods Pro 3,2
+earbuds_15,earbuds,chatgpt,3,technics,Technics EAH,3
+earbuds_15,earbuds,chatgpt,3,bose,Bose QuietComfort Ultra Earbuds,4
+earbuds_15,earbuds,chatgpt,3,anker,Anker Soundcore Space A40,5
+earbuds_15,earbuds,gemini,1,sony,Sony WF,1
+earbuds_15,earbuds,gemini,1,bose,Bose QuietComfort Ultra Earbuds,2
+earbuds_15,earbuds,gemini,1,apple,Apple AirPods Pro,3
+earbuds_15,earbuds,gemini,1,sennheiser,Sennheiser Momentum True Wireless 4,4
+earbuds_15,earbuds,gemini,1,jabra,Jabra Elite 8 Active,5
+earbuds_15,earbuds,gemini,1,anker,Anker Soundcore Space A40 Truly Wireless,6
+earbuds_15,earbuds,gemini,2,apple,(mentioned: apple),1
+earbuds_15,earbuds,gemini,2,anker,(mentioned: anker),2
+earbuds_15,earbuds,gemini,2,liberty,(mentioned: liberty),3
+earbuds_15,earbuds,gemini,2,jabra,(mentioned: jabra),4
+earbuds_15,earbuds,gemini,2,soundcore,(mentioned: soundcore),5
+earbuds_15,earbuds,gemini,2,sony,(mentioned: sony),6
+earbuds_15,earbuds,gemini,2,bose,(mentioned: bose),7
+earbuds_15,earbuds,gemini,3,apple,(mentioned: apple),1
+earbuds_15,earbuds,gemini,3,pixel,(mentioned: pixel),2
+earbuds_15,earbuds,gemini,3,anker,(mentioned: anker),3
+earbuds_15,earbuds,gemini,3,google,(mentioned: google),4
+earbuds_15,earbuds,gemini,3,soundcore,(mentioned: soundcore),5
+earbuds_15,earbuds,gemini,3,technics,(mentioned: technics),6
+earbuds_15,earbuds,gemini,3,nothing,(mentioned: nothing),7
+earbuds_15,earbuds,gemini,3,sony,(mentioned: sony),8
+earbuds_15,earbuds,gemini,3,bose,(mentioned: bose),9
+earbuds_15,earbuds,perplexity,1,sony,Sony WF,1
+earbuds_15,earbuds,perplexity,1,apple,Apple AirPods Pro 3,2
+earbuds_15,earbuds,perplexity,1,sennheiser,Sennheiser MOMENTUM True Wireless 4,3
+earbuds_15,earbuds,perplexity,1,huawei,Huawei FreeBuds Pro 5,4
+earbuds_15,earbuds,perplexity,1,bose,Bose QuietComfort Ultra Earbuds,5
+earbuds_15,earbuds,perplexity,2,sony,Sony WF,1
+earbuds_15,earbuds,perplexity,2,bose,Bose QuietComfort Ultra Earbuds,2
+earbuds_15,earbuds,perplexity,2,sennheiser,Sennheiser Momentum True Wireless 4,3
+earbuds_15,earbuds,perplexity,2,apple,Apple AirPods Pro 3,4
+earbuds_15,earbuds,perplexity,2,liberty,Soundcore Liberty 4 NC,5
+earbuds_15,earbuds,perplexity,3,sony,Sony WF,1
+earbuds_15,earbuds,perplexity,3,apple,Apple AirPods Pro 3,2
+earbuds_15,earbuds,perplexity,3,sennheiser,Sennheiser MOMENTUM True Wireless 4,3
+earbuds_15,earbuds,perplexity,3,huawei,Huawei FreeBuds Pro 5,4
+earbuds_15,earbuds,perplexity,3,bose,Bose QuietComfort Ultra Earbuds,5
+earbuds_15,earbuds,deepseek,1,sony,Sony WF,1
+earbuds_15,earbuds,deepseek,1,samsung,Samsung Galaxy Buds2 Pro,2
+earbuds_15,earbuds,deepseek,1,anker,Anker Soundcore Space A40,3
+kb_01,keyboards,chatgpt,1,redragon,Redragon K552 Kumara,1
+kb_01,keyboards,chatgpt,1,havit,Havit KB487L,2
+kb_01,keyboards,chatgpt,2,redragon,Redragon K552 Kumara,1
+kb_01,keyboards,chatgpt,2,keychron,Keychron C2 Pro,2
+kb_01,keyboards,chatgpt,3,keychron,Keychron C1 Pro 8K,1
+kb_01,keyboards,chatgpt,3,redragon,Redragon K552 / K617,2
+kb_01,keyboards,gemini,1,redragon,Redragon K552 Kumara Mechanical Gaming Keyboard,1
+kb_01,keyboards,gemini,1,royal kludge,Royal Kludge RK61 Mechanical Keyboard,2
+kb_01,keyboards,gemini,1,gamakay,Gamakay K61 60% Mechanical Keyboard,3
+kb_01,keyboards,gemini,2,redragon,Redragon K552 Kumara,1
+kb_01,keyboards,gemini,2,royal kludge,Royal Kludge RK61,2
+kb_01,keyboards,gemini,2,keychron,Keychron C2 Pro / V1,3
+kb_01,keyboards,gemini,3,redragon,(mentioned: redragon),1
+kb_01,keyboards,perplexity,1,royal kludge,ROYAL KLUDGE RK61,1
+kb_01,keyboards,perplexity,1,keychron,Keychron C1 Pro,2
+kb_01,keyboards,perplexity,1,ajazz,Ajazz AK820 Pro,3
+kb_01,keyboards,perplexity,1,apple,Shadow X from Apple Maker,4
+kb_01,keyboards,perplexity,2,royal kludge,ROYAL KLUDGE RK61,1
+kb_01,keyboards,perplexity,2,keychron,Keychron C1 Pro,2
+kb_01,keyboards,perplexity,3,apple,(mentioned: apple),1
+kb_01,keyboards,perplexity,3,royal kludge,(mentioned: rk),2
+kb_01,keyboards,perplexity,3,keychron,(mentioned: keychron),3
+kb_01,keyboards,perplexity,3,asics,(mentioned: asics),4
+kb_01,keyboards,claude,1,redragon,Redragon K552 Neo,1
+kb_01,keyboards,claude,1,royal kludge,Royal Kludge RK61,2
+kb_01,keyboards,claude,1,keychron,Keychron C3 Pro,3
+kb_01,keyboards,claude,2,redragon,Redragon K552 Mechanical Gaming Keyboard – ~$35,1
+kb_01,keyboards,claude,2,royal kludge,RK61 Mechanical Keyboard – ~$40,2
+kb_01,keyboards,claude,2,keychron,Keychron C3 Pro – $44.99,3
+kb_01,keyboards,claude,3,redragon,Redragon K552 KUMARA LED Backlit,1
+kb_01,keyboards,claude,3,keychron,Keychron C1 TKL,2
+kb_01,keyboards,deepseek,1,redragon,Redragon K552 Kumara,1
+kb_01,keyboards,deepseek,1,royal kludge,Royal Kludge RK61,2
+kb_01,keyboards,deepseek,1,havit,Havit HV,3
+kb_01,keyboards,deepseek,2,logitech,(mentioned: logitech),1
+kb_01,keyboards,deepseek,2,redragon,(mentioned: redragon),2
+kb_01,keyboards,deepseek,3,royal kludge,(mentioned: rk),1
+kb_01,keyboards,deepseek,3,gamakay,(mentioned: gamakay),2
+kb_01,keyboards,deepseek,3,redragon,(mentioned: redragon),3
+kb_02,keyboards,chatgpt,1,keychron,Keychron V1 8K,1
+kb_02,keyboards,chatgpt,1,royal kludge,Royal Kludge RK61,2
+kb_02,keyboards,chatgpt,2,keychron,Keychron V1 / V1 8K,1
+kb_02,keyboards,chatgpt,2,royal kludge,Royal Kludge L75,2
+kb_02,keyboards,chatgpt,3,keychron,Keychron C1 Pro,1
+kb_02,keyboards,gemini,1,keychron,Keychron V Series,1
+kb_02,keyboards,gemini,1,akko,Akko 3068B Plus / Akko 3087,2
+kb_02,keyboards,gemini,1,royal kludge,ROYAL KLUDGE RK61 / RK84,3
+kb_02,keyboards,gemini,2,keychron,Keychron V Series,1
+kb_02,keyboards,gemini,2,royal kludge,ROYAL KLUDGE RK61 / RK84,2
+kb_02,keyboards,gemini,2,redragon,Redragon K673 Pro / K552 Kumara,3
+kb_02,keyboards,gemini,2,epomaker,Epomaker TH80 Pro,4
+kb_02,keyboards,gemini,3,keychron,Keychron K8 Series,1
+kb_02,keyboards,gemini,3,akko,Akko 3068B Plus,2
+kb_02,keyboards,perplexity,1,keychron,Keychron V5 Max,1
+kb_02,keyboards,perplexity,1,nuphy,NuPhy Kick75,2
+kb_02,keyboards,perplexity,1,gamakay,Gamakay LK75,3
+kb_02,keyboards,perplexity,2,keychron,Keychron V5 Max,1
+kb_02,keyboards,perplexity,2,nuphy,NuPhy Kick75,2
+kb_02,keyboards,perplexity,3,keychron,Keychron V5 Max,1
+kb_02,keyboards,perplexity,3,nuphy,NuPhy Kick75,2
+kb_02,keyboards,perplexity,3,royal kludge,Royal Kludge RK61,3
+kb_02,keyboards,claude,1,keychron,Keychron C3 Pro,1
+kb_02,keyboards,claude,1,redragon,Redragon K673 PRO,2
+kb_02,keyboards,claude,2,keychron,(mentioned: keychron),1
+kb_02,keyboards,claude,2,redragon,(mentioned: redragon),2
+kb_02,keyboards,claude,3,keychron,Keychron C3 Pro,1
+kb_02,keyboards,claude,3,royal kludge,RK84 Pro,2
+kb_02,keyboards,deepseek,1,keychron,Keychron V1,1
+kb_02,keyboards,deepseek,1,royal kludge,Royal Kludge RK84,2
+kb_02,keyboards,deepseek,1,redragon,Redragon K552 Kumara,3
+kb_02,keyboards,deepseek,2,royal kludge,(mentioned: rk),1
+kb_02,keyboards,deepseek,2,keychron,(mentioned: keychron),2
+kb_02,keyboards,deepseek,2,redragon,(mentioned: redragon),3
+kb_02,keyboards,deepseek,2,hyperx,(mentioned: hyperx),4
+kb_02,keyboards,deepseek,3,keychron,Keychron C1 Pro,1
+kb_02,keyboards,deepseek,3,redragon,Redragon K552,2
+kb_02,keyboards,deepseek,3,royal kludge,Royal Kludge RK61,3
+kb_03,keyboards,chatgpt,1,keychron,Keychron V3 QMK Custom Mechanical Keyboard,1
+kb_03,keyboards,chatgpt,1,logitech,Logitech K845 Mechanical Illuminated,2
+kb_03,keyboards,chatgpt,2,keychron,Keychron V2 QMK Custom Mechanical Keyboard,1
+kb_03,keyboards,chatgpt,2,logitech,Logitech K845 Mechanical Illuminated,2
+kb_03,keyboards,chatgpt,3,keychron,Keychron V2 QMK Custom Mechanical Keyboard,1
+kb_03,keyboards,gemini,1,royal kludge,(mentioned: rk),1
+kb_03,keyboards,gemini,1,keychron,(mentioned: keychron),2
+kb_03,keyboards,gemini,1,ajazz,(mentioned: ajazz),3
+kb_03,keyboards,gemini,2,royal kludge,(mentioned: rk),1
+kb_03,keyboards,gemini,2,keychron,(mentioned: keychron),2
+kb_03,keyboards,gemini,2,akko,(mentioned: akko),3
+kb_03,keyboards,gemini,3,royal kludge,(mentioned: rk),1
+kb_03,keyboards,gemini,3,keychron,(mentioned: keychron),2
+kb_03,keyboards,perplexity,1,keychron,Keychron C2 Pro,1
+kb_03,keyboards,perplexity,1,ajazz,Ajazz AK820 Pro,2
+kb_03,keyboards,perplexity,1,royal kludge,Royal Kludge R65,3
+kb_03,keyboards,perplexity,2,keychron,Keychron K8,1
+kb_03,keyboards,perplexity,2,ajazz,Ajazz AK820 Pro,2
+kb_03,keyboards,perplexity,2,royal kludge,Royal Kludge R65,3
+kb_03,keyboards,perplexity,3,apple,(mentioned: apple),1
+kb_03,keyboards,perplexity,3,royal kludge,(mentioned: rk),2
+kb_03,keyboards,perplexity,3,keychron,(mentioned: keychron),3
+kb_03,keyboards,perplexity,3,ajazz,(mentioned: ajazz),4
+kb_03,keyboards,claude,1,royal kludge,(mentioned: rk),1
+kb_03,keyboards,claude,1,keychron,(mentioned: keychron),2
+kb_03,keyboards,claude,2,royal kludge,(mentioned: rk),1
+kb_03,keyboards,claude,2,keychron,(mentioned: keychron),2
+kb_03,keyboards,claude,3,royal kludge,RK84 Pro,1
+kb_03,keyboards,claude,3,redragon,Redragon K552,2
+kb_03,keyboards,claude,3,keychron,Keychron C1,3
+kb_03,keyboards,deepseek,1,keychron,Keychron V1,1
+kb_03,keyboards,deepseek,1,royal kludge,RK Royal Kludge RK61,2
+kb_03,keyboards,deepseek,1,redragon,Redragon K552 Kumara,3
+kb_03,keyboards,deepseek,2,royal kludge,(mentioned: rk),1
+kb_03,keyboards,deepseek,2,keychron,(mentioned: keychron),2
+kb_03,keyboards,deepseek,2,redragon,(mentioned: redragon),3
+kb_03,keyboards,deepseek,3,keychron,Keychron V1,1
+kb_03,keyboards,deepseek,3,redragon,Redragon K530 Draconic,2
+kb_03,keyboards,deepseek,3,royal kludge,RK Royal Kludge RK61,3
+kb_04,keyboards,chatgpt,1,keychron,Keychron V5 Max,1
+kb_04,keyboards,chatgpt,1,nuphy,NuPhy Gem80,2
+kb_04,keyboards,chatgpt,1,wooting,Wooting 80HE,3
+kb_04,keyboards,chatgpt,1,royal kludge,ROYAL KLUDGE RK61,4
+kb_04,keyboards,chatgpt,2,keychron,Keychron K10 V2,1
+kb_04,keyboards,chatgpt,2,royal kludge,Royal Kludge L75,2
+kb_04,keyboards,chatgpt,3,keychron,Keychron V1 8K,1
+kb_04,keyboards,chatgpt,3,royal kludge,Royal Kludge L75,2
+kb_04,keyboards,gemini,1,keychron,Keychron V1 Max,1
+kb_04,keyboards,gemini,1,ajazz,Ajazz AK820 Pro,2
+kb_04,keyboards,gemini,1,nuphy,NuPhy Air75 V2,3
+kb_04,keyboards,gemini,1,wooting,Wooting 60HE,4
+kb_04,keyboards,gemini,2,glorious,(mentioned: glorious),1
+kb_04,keyboards,gemini,2,royal kludge,(mentioned: rk),2
+kb_04,keyboards,gemini,2,keychron,(mentioned: keychron),3
+kb_04,keyboards,gemini,2,akko,(mentioned: akko),4
+kb_04,keyboards,gemini,2,ajazz,(mentioned: ajazz),5
+kb_04,keyboards,gemini,2,nuphy,(mentioned: nuphy),6
+kb_04,keyboards,gemini,3,keychron,Keychron V1 Max,1
+kb_04,keyboards,gemini,3,nuphy,NuPhy Air75 V2,2
+kb_04,keyboards,gemini,3,wooting,Wooting 60HE,3
+kb_04,keyboards,gemini,3,akko,Akko 5075B Plus,4
+kb_04,keyboards,perplexity,1,keychron,Keychron V5 Max,1
+kb_04,keyboards,perplexity,1,ajazz,Ajazz AK820,2
+kb_04,keyboards,perplexity,2,keychron,Keychron V5 Max,1
+kb_04,keyboards,perplexity,3,keychron,Keychron V5 Max,1
+kb_04,keyboards,claude,1,razer,(mentioned: razer),1
+kb_04,keyboards,claude,1,gamakay,(mentioned: gamakay),2
+kb_04,keyboards,claude,1,keychron,(mentioned: keychron),3
+kb_04,keyboards,claude,1,wooting,(mentioned: wooting),4
+kb_04,keyboards,claude,1,epomaker,(mentioned: epomaker),5
+kb_04,keyboards,claude,2,keychron,Keychron V3,1
+kb_04,keyboards,claude,2,epomaker,Epomaker Nova80,2
+kb_04,keyboards,claude,2,akko,Akko MOD 007B PC,3
+kb_04,keyboards,claude,3,royal kludge,(mentioned: rk),1
+kb_04,keyboards,claude,3,keychron,(mentioned: keychron),2
+kb_04,keyboards,claude,3,akko,(mentioned: akko),3
+kb_04,keyboards,claude,3,epomaker,(mentioned: epomaker),4
+kb_04,keyboards,deepseek,1,keychron,Keychron V1,1
+kb_04,keyboards,deepseek,1,ducky,Ducky One 3 Mini,2
+kb_04,keyboards,deepseek,1,glorious,Glorious GMMK 2,3
+kb_04,keyboards,deepseek,2,keychron,Keychron V1,1
+kb_04,keyboards,deepseek,2,epomaker,Epomaker TH80 Pro – ~$90–$110,2
+kb_04,keyboards,deepseek,2,glorious,Glorious GMMK Pro,3
+kb_04,keyboards,deepseek,2,ducky,Ducky One 3 Mini/Daybreak – ~$109–$129,4
+kb_04,keyboards,deepseek,2,hyperx,HyperX Alloy Origins 65 – ~$129,5
+kb_04,keyboards,deepseek,3,keychron,Keychron V1,1
+kb_04,keyboards,deepseek,3,akko,Akko 3068B Plus,2
+kb_04,keyboards,deepseek,3,ducky,Ducky One 3 Mini,3
+kb_04,keyboards,deepseek,3,epomaker,Epomaker TH80 Pro,4
+kb_04,keyboards,deepseek,3,wooting,Wooting 60HE,5
+kb_05,keyboards,chatgpt,1,logitech,Logitech Signature K855,1
+kb_05,keyboards,chatgpt,1,keychron,Keychron K14,2
+kb_05,keyboards,chatgpt,2,logitech,Logitech MX Mechanical Mini,1
+kb_05,keyboards,chatgpt,2,nuphy,NuPhy Air75 V2,2
+kb_05,keyboards,chatgpt,3,logitech,Logitech MX Mechanical Mini,1
+kb_05,keyboards,chatgpt,3,razer,Razer Pro Type Ultra,2
+kb_05,keyboards,chatgpt,3,keychron,Keychron K5 Max,3
+kb_05,keyboards,gemini,1,logitech,Logitech MX Mechanical Mini,1
+kb_05,keyboards,gemini,1,nuphy,NuPhy Air75 V2/V3,2
+kb_05,keyboards,gemini,1,keychron,Keychron K3 Pro,3
+kb_05,keyboards,gemini,2,logitech,(mentioned: logitech),1
+kb_05,keyboards,gemini,2,keychron,(mentioned: keychron),2
+kb_05,keyboards,gemini,2,nuphy,(mentioned: nuphy),3
+kb_05,keyboards,gemini,3,logitech,(mentioned: logitech),1
+kb_05,keyboards,gemini,3,nuphy,(mentioned: nuphy),2
+kb_05,keyboards,perplexity,1,nuphy,NuPhy Air75 V3,1
+kb_05,keyboards,perplexity,1,keychron,Keychron Q1 HE or K,2
+kb_05,keyboards,perplexity,1,epomaker,EPOMAKER TH108,3
+kb_05,keyboards,perplexity,2,nuphy,NuPhy Air75 V3,1
+kb_05,keyboards,perplexity,2,logitech,Logitech MX Mechanical Mini,2
+kb_05,keyboards,perplexity,2,keychron,Keychron Q1 Pro,3
+kb_05,keyboards,perplexity,3,keychron,(mentioned: keychron),1
+kb_05,keyboards,perplexity,3,nuphy,(mentioned: nuphy),2
+kb_05,keyboards,claude,1,nuphy,NuPhy Air75 V3 with Silent Blush Nano Switches,1
+kb_05,keyboards,claude,1,logitech,Logitech G915 TKL,2
+kb_05,keyboards,claude,1,epomaker,EPOMAKER TH99,3
+kb_05,keyboards,claude,1,keychron,Keychron K8 Pro,4
+kb_05,keyboards,claude,2,logitech,(mentioned: logitech),1
+kb_05,keyboards,claude,2,nuphy,(mentioned: nuphy),2
+kb_05,keyboards,claude,3,nuphy,NuPhy Air75 V3 with Blush Nano Switches,1
+kb_05,keyboards,claude,3,keychron,Keychron K8 Pro,2
+kb_05,keyboards,claude,3,logitech,Logitech G915 TKL,3
+kb_05,keyboards,deepseek,1,logitech,Logitech MX Mechanical Mini,1
+kb_05,keyboards,deepseek,1,keychron,Keychron K3 Pro,2
+kb_05,keyboards,deepseek,1,nuphy,NuPhy Air75 V2,3
+kb_05,keyboards,deepseek,2,keychron,Keychron K5 Max,1
+kb_05,keyboards,deepseek,2,logitech,Logitech MX Mechanical Mini,2
+kb_05,keyboards,deepseek,2,nuphy,NuPhy Air75 V2,3
+kb_05,keyboards,deepseek,3,logitech,(mentioned: logitech),1
+kb_05,keyboards,deepseek,3,keychron,(mentioned: keychron),2
+kb_05,keyboards,deepseek,3,nuphy,(mentioned: nuphy),3
+kb_06,keyboards,chatgpt,1,keychron,Keychron V1 8K,1
+kb_06,keyboards,chatgpt,1,nuphy,NuPhy Node75,2
+kb_06,keyboards,chatgpt,1,royal kludge,Royal Kludge L75,3
+kb_06,keyboards,chatgpt,2,keychron,Keychron V1 Max,1
+kb_06,keyboards,chatgpt,2,monsgeek,MonsGeek M1 V3,2
+kb_06,keyboards,chatgpt,2,akko,Akko 5075B Plus,3
+kb_06,keyboards,chatgpt,3,keychron,Keychron V1 Max,1
+kb_06,keyboards,chatgpt,3,nuphy,NuPhy Air75 V2,2
+kb_06,keyboards,gemini,1,keychron,(mentioned: keychron),1
+kb_06,keyboards,gemini,1,epomaker,(mentioned: epomaker),2
+kb_06,keyboards,gemini,2,glorious,(mentioned: glorious),1
+kb_06,keyboards,gemini,2,royal kludge,(mentioned: rk),2
+kb_06,keyboards,gemini,2,keychron,(mentioned: keychron),3
+kb_06,keyboards,gemini,2,akko,(mentioned: akko),4
+kb_06,keyboards,gemini,3,keychron,Keychron K2 V2,1
+kb_06,keyboards,gemini,3,royal kludge,Royal Kludge RK84,2
+kb_06,keyboards,perplexity,1,ajazz,Ajazz AK820 Pro,1
+kb_06,keyboards,perplexity,1,glorious,Glorious GMMK Pro,2
+kb_06,keyboards,perplexity,1,royal kludge,RK Royal Kludge L75,3
+kb_06,keyboards,perplexity,1,keychron,Keychron K3,4
+kb_06,keyboards,perplexity,2,glorious,(mentioned: glorious),1
+kb_06,keyboards,perplexity,2,keychron,(mentioned: keychron),2
+kb_06,keyboards,perplexity,2,akko,(mentioned: akko),3
+kb_06,keyboards,perplexity,3,glorious,(mentioned: glorious),1
+kb_06,keyboards,perplexity,3,keychron,(mentioned: keychron),2
+kb_06,keyboards,claude,1,ajazz,Ajazz AK820 Pro – ~$60,1
+kb_06,keyboards,claude,1,nuphy,NuPhy Field75 HE – ~$149** ,2
+kb_06,keyboards,claude,1,keychron,Keychron C2 Pro – ~$55,3
+kb_06,keyboards,claude,1,royal kludge,RK84 Pro – ~$50,4
+kb_06,keyboards,claude,2,keychron,(mentioned: keychron),1
+kb_06,keyboards,claude,2,ajazz,(mentioned: ajazz),2
+kb_06,keyboards,claude,2,nuphy,(mentioned: nuphy),3
+kb_06,keyboards,claude,3,keychron,(mentioned: keychron),1
+kb_06,keyboards,claude,3,ajazz,(mentioned: ajazz),2
+kb_06,keyboards,claude,3,nuphy,(mentioned: nuphy),3
+kb_06,keyboards,deepseek,1,keychron,Keychron V1** – ~$84,1
+kb_06,keyboards,deepseek,1,akko,Akko MOD 007S** – ~$100–$120,2
+kb_06,keyboards,deepseek,1,gamakay,EPOMAKER GamaKay LK75** – ~$80–$90,3
+kb_06,keyboards,deepseek,1,redragon,Redragon K530 Draconic** – ~$60–$70,4
+kb_06,keyboards,deepseek,2,keychron,Keychron V1,1
+kb_06,keyboards,deepseek,2,epomaker,Epomaker TH80 Pro,2
+kb_06,keyboards,deepseek,2,royal kludge,RK Royal Kludge RK84,3
+kb_06,keyboards,deepseek,2,yunzii,Yunzii YZ75,4
+kb_06,keyboards,deepseek,2,monsgeek,MonsGeek M1 Wired,5
+kb_06,keyboards,deepseek,3,keychron,Keychron V1,1
+kb_06,keyboards,deepseek,3,epomaker,Epomaker TH80 Pro,2
+kb_06,keyboards,deepseek,3,akko,Akko Mod 007 V2 Barebone Kit,3
+kb_06,keyboards,deepseek,3,glorious,Glorious GMMK Pro,4
+kb_06,keyboards,deepseek,3,yunzii,Yunzii YZ75,5
+kb_07,keyboards,chatgpt,1,keychron,Keychron K14 Wireless Mechanical Keyboard,1
+kb_07,keyboards,chatgpt,1,redragon,Redragon K679,2
+kb_07,keyboards,chatgpt,2,ajazz,Ajazz AK820 Pro,1
+kb_07,keyboards,chatgpt,2,keychron,Keychron C3 Pro,2
+kb_07,keyboards,chatgpt,3,keychron,Keychron K12 Pro,1
+kb_07,keyboards,chatgpt,3,ajazz,Ajazz AK820 Pro,2
+kb_07,keyboards,gemini,1,keychron,(mentioned: keychron),1
+kb_07,keyboards,gemini,1,epomaker,(mentioned: epomaker),2
+kb_07,keyboards,gemini,2,keychron,Keychron V1 Max,1
+kb_07,keyboards,gemini,2,royal kludge,Royal Kludge RK84,2
+kb_07,keyboards,gemini,2,redragon,Redragon K530 Draconic,3
+kb_07,keyboards,gemini,3,gamakay,(mentioned: gamakay),1
+kb_07,keyboards,gemini,3,keychron,(mentioned: keychron),2
+kb_07,keyboards,gemini,3,redragon,(mentioned: redragon),3
+kb_07,keyboards,gemini,3,akko,(mentioned: akko),4
+kb_07,keyboards,perplexity,1,epomaker,EPOMAKER G84 80% Mechanical Keyboard,1
+kb_07,keyboards,perplexity,1,keychron,Keychron V3,2
+kb_07,keyboards,perplexity,1,redragon,Redragon Draconic K530 Pro,3
+kb_07,keyboards,perplexity,2,keychron,Keychron C2 Pro,1
+kb_07,keyboards,perplexity,2,redragon,Redragon K552 Kumara,2
+kb_07,keyboards,perplexity,2,royal kludge,Royal Kludge RK84,3
+kb_07,keyboards,perplexity,3,epomaker,EPOMAKER G84,1
+kb_07,keyboards,perplexity,3,redragon,Redragon Draconic K530 Pro,2
+kb_07,keyboards,claude,1,royal kludge,(mentioned: rk),1
+kb_07,keyboards,claude,1,keychron,(mentioned: keychron),2
+kb_07,keyboards,claude,1,redragon,(mentioned: redragon),3
+kb_07,keyboards,claude,1,akko,(mentioned: akko),4
+kb_07,keyboards,claude,2,royal kludge,(mentioned: rk),1
+kb_07,keyboards,claude,2,keychron,(mentioned: keychron),2
+kb_07,keyboards,claude,2,akko,(mentioned: akko),3
+kb_07,keyboards,claude,3,royal kludge,(mentioned: rk),1
+kb_07,keyboards,claude,3,keychron,(mentioned: keychron),2
+kb_07,keyboards,claude,3,akko,(mentioned: akko),3
+kb_07,keyboards,deepseek,1,keychron,Keychron V1 / V2 / V3,1
+kb_07,keyboards,deepseek,1,royal kludge,RK Royal Kludge RK61,2
+kb_07,keyboards,deepseek,1,redragon,Redragon K618 Horus,3
+kb_07,keyboards,deepseek,2,keychron,Keychron V1,1
+kb_07,keyboards,deepseek,2,redragon,Redragon K530 Draconic,2
+kb_07,keyboards,deepseek,2,epomaker,Epomaker TH80 Pro,3
+kb_07,keyboards,deepseek,3,keychron,Keychron V1,1
+kb_07,keyboards,deepseek,3,epomaker,Epomaker TH66 Pro,2
+kb_07,keyboards,deepseek,3,redragon,Redragon K552 Hot,3
+kb_08,keyboards,chatgpt,1,razer,Razer Huntsman Signature Edition,1
+kb_08,keyboards,chatgpt,2,wooting,Wooting 60HE v2,1
+kb_08,keyboards,chatgpt,2,keychron,Keychron Q5 Max / Q6 Max,2
+kb_08,keyboards,chatgpt,3,keychron,Keychron Q5 Max,1
+kb_08,keyboards,chatgpt,3,razer,Razer Huntsman Signature Edition,2
+kb_08,keyboards,gemini,1,wooting,Wooting 80HE,1
+kb_08,keyboards,gemini,1,keychron,Keychron Q Series,2
+kb_08,keyboards,gemini,1,razer,Razer BlackWidow V4 75% Pro,3
+kb_08,keyboards,gemini,2,craft,(mentioned: craft),1
+kb_08,keyboards,gemini,3,craft,(mentioned: craft),1
+kb_08,keyboards,gemini,3,keychron,(mentioned: keychron),2
+kb_08,keyboards,gemini,3,wooting,(mentioned: wooting),3
+kb_08,keyboards,perplexity,1,keychron,Keychron Q5 Max,1
+kb_08,keyboards,perplexity,2,keychron,Keychron Q1 Max,1
+kb_08,keyboards,perplexity,2,monsgeek,MONSGEEK M2 V5,2
+kb_08,keyboards,perplexity,3,keychron,Keychron Q5 Max,1
+kb_08,keyboards,claude,1,keychron,Keychron Q1 HE,1
+kb_08,keyboards,claude,1,corsair,Corsair Vanguard Pro 96,2
+kb_08,keyboards,claude,1,wooting,Wooting 80HE,3
+kb_08,keyboards,claude,2,wooting,Wooting 80HE,1
+kb_08,keyboards,claude,2,corsair,Corsair Vanguard Pro 96,2
+kb_08,keyboards,claude,3,keychron,(mentioned: keychron),1
+kb_08,keyboards,deepseek,1,keychron,"Best ""Buy It Now""",1
+kb_08,keyboards,deepseek,1,hhkb,Best for Typing,2
+kb_08,keyboards,deepseek,3,wooting,Wooting 60HE+,1
+kb_08,keyboards,deepseek,3,keychron,Keychron Q1 Pro,2
+kb_09,keyboards,chatgpt,1,craft,(mentioned: craft),1
+kb_09,keyboards,chatgpt,2,craft,(mentioned: craft),1
+kb_09,keyboards,chatgpt,3,keychron,Keychron Q1 Max,1
+kb_09,keyboards,gemini,1,wooting,Wooting 80HE,1
+kb_09,keyboards,gemini,2,craft,(mentioned: craft),1
+kb_09,keyboards,gemini,3,glorious,(mentioned: glorious),1
+kb_09,keyboards,gemini,3,keychron,(mentioned: keychron),2
+kb_09,keyboards,gemini,3,akko,(mentioned: akko),3
+kb_09,keyboards,perplexity,1,monsgeek,(mentioned: monsgeek),1
+kb_09,keyboards,perplexity,1,keychron,(mentioned: keychron),2
+kb_09,keyboards,perplexity,1,nuphy,(mentioned: nuphy),3
+kb_09,keyboards,perplexity,2,nike,(mentioned: nike),1
+kb_09,keyboards,perplexity,2,keychron,(mentioned: keychron),2
+kb_09,keyboards,perplexity,3,keychron,(mentioned: keychron),1
+kb_09,keyboards,perplexity,3,nuphy,(mentioned: nuphy),2
+kb_09,keyboards,claude,1,keychron,Keychron Q5 Max,1
+kb_09,keyboards,claude,1,glorious,Glorious GMMK Pro,2
+kb_09,keyboards,claude,2,craft,(mentioned: craft),1
+kb_09,keyboards,claude,2,keychron,(mentioned: keychron),2
+kb_09,keyboards,claude,2,wooting,(mentioned: wooting),3
+kb_09,keyboards,claude,3,keychron,(mentioned: keychron),1
+kb_09,keyboards,claude,3,wooting,(mentioned: wooting),2
+kb_09,keyboards,deepseek,1,craft,(mentioned: craft),1
+kb_09,keyboards,deepseek,3,hhkb,(mentioned: hhkb),1
+kb_09,keyboards,deepseek,3,nothing,(mentioned: nothing),2
+kb_10,keyboards,chatgpt,1,kinesis,(mentioned: kinesis),1
+kb_10,keyboards,chatgpt,1,ergodox,(mentioned: ergodox),2
+kb_10,keyboards,chatgpt,1,epomaker,(mentioned: epomaker),3
+kb_10,keyboards,chatgpt,2,kinesis,Kinesis Advantage360 Professional,1
+kb_10,keyboards,chatgpt,2,zsa,ZSA Voyager,2
+kb_10,keyboards,chatgpt,3,kinesis,Kinesis Advantage360 / Advantage360 Pro,1
+kb_10,keyboards,gemini,1,kinesis,(mentioned: kinesis),1
+kb_10,keyboards,gemini,1,keychron,(mentioned: keychron),2
+kb_10,keyboards,gemini,1,zsa,(mentioned: zsa),3
+kb_10,keyboards,gemini,2,zsa,ZSA Moonlander Mark I,1
+kb_10,keyboards,gemini,3,kinesis,(mentioned: kinesis),1
+kb_10,keyboards,gemini,3,ergodox,(mentioned: ergodox),2
+kb_10,keyboards,gemini,3,zsa,(mentioned: zsa),3
+kb_10,keyboards,perplexity,1,zsa,ZSA Moonlander,1
+kb_10,keyboards,perplexity,1,kinesis,Kinesis Freestyle Edge RGB,2
+kb_10,keyboards,perplexity,2,zsa,ZSA Moonlander,1
+kb_10,keyboards,perplexity,2,kinesis,Kinesis Freestyle Edge RGB,2
+kb_10,keyboards,perplexity,3,zsa,ZSA Moonlander,1
+kb_10,keyboards,perplexity,3,kinesis,Kinesis Freestyle Edge RGB,2
+kb_10,keyboards,claude,1,kinesis,Kinesis Advantage360 Professional,1
+kb_10,keyboards,claude,1,zsa,ZSA Moonlander,2
+kb_10,keyboards,claude,1,keychron,Keychron Q11 Split,3
+kb_10,keyboards,claude,2,logitech,(mentioned: logitech),1
+kb_10,keyboards,claude,2,kinesis,(mentioned: kinesis),2
+kb_10,keyboards,claude,2,keychron,(mentioned: keychron),3
+kb_10,keyboards,claude,2,zsa,(mentioned: zsa),4
+kb_10,keyboards,claude,3,kinesis,(mentioned: kinesis),1
+kb_10,keyboards,claude,3,keychron,(mentioned: keychron),2
+kb_10,keyboards,claude,3,zsa,(mentioned: zsa),3
+kb_10,keyboards,deepseek,1,glorious,(mentioned: glorious),1
+kb_10,keyboards,deepseek,1,kinesis,(mentioned: kinesis),2
+kb_10,keyboards,deepseek,1,ergodox,(mentioned: ergodox),3
+kb_10,keyboards,deepseek,1,zsa,(mentioned: zsa),4
+kb_10,keyboards,deepseek,2,kinesis,(mentioned: kinesis),1
+kb_10,keyboards,deepseek,2,zsa,(mentioned: zsa),2
+kb_10,keyboards,deepseek,3,kinesis,(mentioned: kinesis),1
+kb_10,keyboards,deepseek,3,ergodox,(mentioned: ergodox),2
+kb_10,keyboards,deepseek,3,zsa,(mentioned: zsa),3
+kb_11,keyboards,chatgpt,1,redragon,Redragon K582 SURARA,1
+kb_11,keyboards,chatgpt,1,razer,Razer BlackWidow V4 X – Yellow Switch,2
+kb_11,keyboards,chatgpt,1,hyperx,HyperX Alloy Origins Core – Red Switch,3
+kb_11,keyboards,chatgpt,2,corsair,Corsair K70 CORE RGB,1
+kb_11,keyboards,chatgpt,2,keychron,Keychron V,2
+kb_11,keyboards,chatgpt,3,keychron,Keychron V1 8K,1
+kb_11,keyboards,chatgpt,3,redragon,Redragon K630 Dragonborn,2
+kb_11,keyboards,chatgpt,3,akko,Akko JIN01 Santorini,3
+kb_11,keyboards,gemini,1,craft,(mentioned: craft),1
+kb_11,keyboards,gemini,1,keychron,(mentioned: keychron),2
+kb_11,keyboards,gemini,1,redragon,(mentioned: redragon),3
+kb_11,keyboards,gemini,1,hyperx,(mentioned: hyperx),4
+kb_11,keyboards,gemini,1,ajazz,(mentioned: ajazz),5
+kb_11,keyboards,gemini,1,epomaker,(mentioned: epomaker),6
+kb_11,keyboards,gemini,2,craft,(mentioned: craft),1
+kb_11,keyboards,gemini,2,redragon,(mentioned: redragon),2
+kb_11,keyboards,gemini,2,hyperx,(mentioned: hyperx),3
+kb_11,keyboards,gemini,3,hyperx,HyperX Alloy Origins Core,1
+kb_11,keyboards,gemini,3,keychron,Keychron K2 Pro,2
+kb_11,keyboards,gemini,3,ajazz,Ajazz AK820 Pro,3
+kb_11,keyboards,gemini,3,redragon,Redragon K552 Kumara,4
+kb_11,keyboards,perplexity,1,corsair,Corsair K70 CORE,1
+kb_11,keyboards,perplexity,1,redragon,Redragon K673 PRO,2
+kb_11,keyboards,perplexity,1,keychron,Keychron C2 Pro,3
+kb_11,keyboards,perplexity,1,royal kludge,RK ROYAL KLUDGE M100,4
+kb_11,keyboards,perplexity,2,corsair,Corsair K70 CORE,1
+kb_11,keyboards,perplexity,2,keychron,Keychron C2 Pro,2
+kb_11,keyboards,perplexity,2,ajazz,Ajazz AK820 Pro,3
+kb_11,keyboards,perplexity,2,royal kludge,Royal Kludge R65,4
+kb_11,keyboards,perplexity,3,royal kludge,(mentioned: rk),1
+kb_11,keyboards,perplexity,3,keychron,(mentioned: keychron),2
+kb_11,keyboards,perplexity,3,corsair,(mentioned: corsair),3
+kb_11,keyboards,claude,1,royal kludge,(mentioned: rk),1
+kb_11,keyboards,claude,1,keychron,(mentioned: keychron),2
+kb_11,keyboards,claude,1,akko,(mentioned: akko),3
+kb_11,keyboards,claude,2,keychron,(mentioned: keychron),1
+kb_11,keyboards,claude,2,redragon,(mentioned: redragon),2
+kb_11,keyboards,claude,2,hyperx,(mentioned: hyperx),3
+kb_11,keyboards,claude,2,royal kludge,(mentioned: royal kludge),4
+kb_11,keyboards,claude,3,royal kludge,(mentioned: rk),1
+kb_11,keyboards,claude,3,keychron,(mentioned: keychron),2
+kb_11,keyboards,claude,3,akko,(mentioned: akko),3
+kb_11,keyboards,deepseek,1,keychron,Keychron V1,1
+kb_11,keyboards,deepseek,1,hyperx,HyperX Alloy Origins Core,2
+kb_11,keyboards,deepseek,1,ducky,Ducky One 2 Mini,3
+kb_11,keyboards,deepseek,1,razer,Razer Huntsman Tournament Edition,4
+kb_11,keyboards,deepseek,1,logitech,Logitech G Pro X,5
+kb_11,keyboards,deepseek,2,keychron,Keychron V1,1
+kb_11,keyboards,deepseek,2,akko,Akko 5075S,2
+kb_11,keyboards,deepseek,2,epomaker,Epomaker TH80 Pro,3
+kb_11,keyboards,deepseek,2,redragon,Redragon K530,4
+kb_11,keyboards,deepseek,2,royal kludge,Royal Kludge RK61,5
+kb_11,keyboards,deepseek,3,keychron,Keychron V1,1
+kb_11,keyboards,deepseek,3,hyperx,HyperX Alloy Origins 60,2
+kb_11,keyboards,deepseek,3,ducky,Ducky One 3 Mini,3
+kb_11,keyboards,deepseek,3,glorious,Glorious GMMK 2,4
+kb_11,keyboards,deepseek,3,redragon,Redragon K530 Draconic,5
+kb_12,keyboards,chatgpt,1,keychron,Keychron V1 Ultra 8K,1
+kb_12,keyboards,chatgpt,2,keychron,Keychron Q1 Max,1
+kb_12,keyboards,chatgpt,2,nuphy,NuPhy Node Series,2
+kb_12,keyboards,chatgpt,3,keychron,Keychron Q5 Max,1
+kb_12,keyboards,gemini,1,logitech,(mentioned: logitech),1
+kb_12,keyboards,gemini,1,glorious,(mentioned: glorious),2
+kb_12,keyboards,gemini,1,ducky,(mentioned: ducky),3
+kb_12,keyboards,gemini,1,keychron,(mentioned: keychron),4
+kb_12,keyboards,gemini,2,keychron,(mentioned: keychron),1
+kb_12,keyboards,gemini,3,razer,(mentioned: razer),1
+kb_12,keyboards,gemini,3,keychron,(mentioned: keychron),2
+kb_12,keyboards,gemini,3,wooting,(mentioned: wooting),3
+kb_12,keyboards,gemini,3,corsair,(mentioned: corsair),4
+kb_12,keyboards,perplexity,1,royal kludge,(mentioned: rk),1
+kb_12,keyboards,perplexity,1,keychron,(mentioned: keychron),2
+kb_12,keyboards,perplexity,1,nuphy,(mentioned: nuphy),3
+kb_12,keyboards,perplexity,2,keychron,Keychron Q5 Max,1
+kb_12,keyboards,perplexity,2,nuphy,NuPhy Air75 V3,2
+kb_12,keyboards,perplexity,3,keychron,Keychron Q5 Max,1
+kb_12,keyboards,perplexity,3,nuphy,NuPhy Air75 V3,2
+kb_12,keyboards,perplexity,3,royal kludge,RK S98,3
+kb_12,keyboards,claude,1,keychron,(mentioned: keychron),1
+kb_12,keyboards,claude,2,logitech,(mentioned: logitech),1
+kb_12,keyboards,claude,2,keychron,(mentioned: keychron),2
+kb_12,keyboards,claude,3,keychron,Keychron Q1 HE,1
+kb_12,keyboards,claude,3,wooting,Wooting 80HE,2
+kb_12,keyboards,deepseek,1,keychron,Keychron Q1,1
+kb_12,keyboards,deepseek,1,ducky,Ducky One 3 Mini,2
+kb_12,keyboards,deepseek,1,glorious,Glorious GMMK Pro,3
+kb_12,keyboards,deepseek,1,logitech,Logitech G Pro X,4
+kb_12,keyboards,deepseek,2,keychron,Keychron Q1 Pro,1
+kb_12,keyboards,deepseek,2,ducky,Ducky One 3 Mini,2
+kb_12,keyboards,deepseek,2,steelseries,SteelSeries Apex Pro TKL,3
+kb_12,keyboards,deepseek,2,logitech,Logitech MX Mechanical,4
+kb_12,keyboards,deepseek,3,keychron,Keychron Q1 Pro,1
+kb_12,keyboards,deepseek,3,razer,Razer BlackWidow V4 Pro,2
+kb_12,keyboards,deepseek,3,ducky,Ducky One 3 Mini,3
+kb_12,keyboards,deepseek,3,steelseries,SteelSeries Apex Pro TKL Wireless,4
+kb_12,keyboards,deepseek,3,logitech,Logitech G915 X Lightspeed,5
+kb_13,keyboards,chatgpt,1,keychron,Keychron K2,1
+kb_13,keyboards,chatgpt,2,keychron,Keychron V1 Ultra 8K,1
+kb_13,keyboards,chatgpt,2,wooting,Wooting 60HE v2,2
+kb_13,keyboards,chatgpt,2,logitech,Logitech G413 SE TKL,3
+kb_13,keyboards,chatgpt,3,keychron,Keychron Q5 Max,1
+kb_13,keyboards,chatgpt,3,wooting,Wooting 60HE v2,2
+kb_13,keyboards,chatgpt,3,logitech,Logitech Signature K650,3
+kb_13,keyboards,gemini,1,logitech,(mentioned: logitech),1
+kb_13,keyboards,gemini,1,razer,(mentioned: razer),2
+kb_13,keyboards,gemini,1,keychron,(mentioned: keychron),3
+kb_13,keyboards,gemini,1,nuphy,(mentioned: nuphy),4
+kb_13,keyboards,gemini,2,logitech,(mentioned: logitech),1
+kb_13,keyboards,gemini,2,kinesis,(mentioned: kinesis),2
+kb_13,keyboards,gemini,2,razer,(mentioned: razer),3
+kb_13,keyboards,gemini,2,steelseries,(mentioned: steelseries),4
+kb_13,keyboards,gemini,2,keychron,(mentioned: keychron),5
+kb_13,keyboards,gemini,2,wooting,(mentioned: wooting),6
+kb_13,keyboards,gemini,2,corsair,(mentioned: corsair),7
+kb_13,keyboards,gemini,3,logitech,(mentioned: logitech),1
+kb_13,keyboards,gemini,3,keychron,(mentioned: keychron),2
+kb_13,keyboards,gemini,3,wooting,(mentioned: wooting),3
+kb_13,keyboards,gemini,3,akko,(mentioned: akko),4
+kb_13,keyboards,perplexity,1,logitech,Logitech MX Keys S,1
+kb_13,keyboards,perplexity,1,keychron,Keychron Q5 Max,2
+kb_13,keyboards,perplexity,2,logitech,Logitech MX Keys S,1
+kb_13,keyboards,perplexity,2,keychron,Keychron Q5 Max,2
+kb_13,keyboards,perplexity,3,logitech,Logitech MX Keys S,1
+kb_13,keyboards,perplexity,3,keychron,Keychron Q5 Max,2
+kb_13,keyboards,deepseek,1,keychron,Best All,1
+kb_13,keyboards,deepseek,1,wooting,Best for Competitive Gaming: Wooting 60HE,2
+kb_13,keyboards,deepseek,1,redragon,Best Budget / First Mechanical: Redragon K552,3
+kb_13,keyboards,deepseek,1,leopold,Best for Typing / Long Writing Sessions: Leopold FC750R BT,4
+kb_13,keyboards,deepseek,1,zsa,Best Ergonomic / Split: ZSA Moonlander Mark I,5
+kb_13,keyboards,deepseek,1,nuphy,Best Portable / Minimalist: NuPhy Air75 v2,6
+kb_13,keyboards,deepseek,2,logitech,(mentioned: logitech),1
+kb_13,keyboards,deepseek,2,kinesis,(mentioned: kinesis),2
+kb_13,keyboards,deepseek,2,keychron,(mentioned: keychron),3
+kb_13,keyboards,deepseek,2,wooting,(mentioned: wooting),4
+kb_13,keyboards,deepseek,2,nuphy,(mentioned: nuphy),5
+kb_13,keyboards,deepseek,3,keychron,Keychron Q1 Pro,1
+kb_13,keyboards,deepseek,3,wooting,Wooting 60HE+,2
+kb_13,keyboards,deepseek,3,logitech,Logitech MX Mechanical Mini,3
+kb_13,keyboards,deepseek,3,apple,Apple Magic Keyboard,4
+kb_14,keyboards,chatgpt,1,keychron,Keychron Q1 Max,1
+kb_14,keyboards,chatgpt,1,corsair,Corsair K70 Pro TKL,2
+kb_14,keyboards,chatgpt,1,razer,Razer BlackWidow V4 Pro 75%,3
+kb_14,keyboards,chatgpt,1,wooting,Wooting 60HE v2,4
+kb_14,keyboards,chatgpt,2,keychron,Keychron Q1 Max,1
+kb_14,keyboards,chatgpt,2,nuphy,NuPhy Air75 V2,2
+kb_14,keyboards,chatgpt,2,leopold,Leopold FC750R / FC660M,3
+kb_14,keyboards,chatgpt,2,royal kludge,Royal Kludge RK84,4
+kb_14,keyboards,chatgpt,3,keychron,Keychron Q5 Max,1
+kb_14,keyboards,chatgpt,3,nuphy,NuPhy Halo75 V2,2
+kb_14,keyboards,chatgpt,3,logitech,Logitech G PRO X TKL Wireless,3
+kb_14,keyboards,gemini,1,keychron,(mentioned: keychron),1
+kb_14,keyboards,gemini,2,steelseries,(mentioned: steelseries),1
+kb_14,keyboards,gemini,2,keychron,(mentioned: keychron),2
+kb_14,keyboards,gemini,2,wooting,(mentioned: wooting),3
+kb_14,keyboards,gemini,2,nuphy,(mentioned: nuphy),4
+kb_14,keyboards,gemini,3,glorious,(mentioned: glorious),1
+kb_14,keyboards,gemini,3,razer,(mentioned: razer),2
+kb_14,keyboards,gemini,3,keychron,(mentioned: keychron),3
+kb_14,keyboards,gemini,3,akko,(mentioned: akko),4
+kb_14,keyboards,perplexity,1,keychron,Keychron Q5 Max,1
+kb_14,keyboards,perplexity,1,nuphy,NuPhy Kick75,2
+kb_14,keyboards,perplexity,1,wooting,Wooting 80HE,3
+kb_14,keyboards,perplexity,2,keychron,Keychron Q5 Max,1
+kb_14,keyboards,perplexity,2,wooting,Wooting 80HE,2
+kb_14,keyboards,perplexity,2,nuphy,NuPhy Kick75,3
+kb_14,keyboards,perplexity,2,yunzii,Yunzii AL80,4
+kb_14,keyboards,perplexity,3,keychron,Keychron Q5 Max,1
+kb_14,keyboards,perplexity,3,wooting,Wooting 80HE,2
+kb_14,keyboards,perplexity,3,nuphy,NuPhy Kick75,3
+kb_14,keyboards,deepseek,1,keychron,Keychron Q1,1
+kb_14,keyboards,deepseek,1,wooting,Wooting 60HE+ – Best for gaming,2
+kb_14,keyboards,deepseek,1,ducky,Ducky One 3 Mini,3
+kb_14,keyboards,deepseek,2,keychron,Keychron Q1 Pro,1
+kb_14,keyboards,deepseek,2,ducky,Ducky One 3 Mini,2
+kb_14,keyboards,deepseek,2,wooting,Wooting 60HE,3
+kb_14,keyboards,deepseek,2,logitech,Logitech G915 X,4
+kb_14,keyboards,deepseek,2,epomaker,Epomaker TH66 Pro,5
+kb_14,keyboards,deepseek,3,keychron,Best All,1
+kb_14,keyboards,deepseek,3,wooting,Best for Gaming Performance: Wooting 60HE+,2
+kb_14,keyboards,deepseek,3,redragon,Best Budget / Entry,3
+kb_14,keyboards,deepseek,3,ducky,Best High,4
+kb_15,keyboards,chatgpt,1,logitech,(mentioned: logitech),1
+kb_15,keyboards,chatgpt,1,monsgeek,(mentioned: monsgeek),2
+kb_15,keyboards,chatgpt,1,keychron,(mentioned: keychron),3
+kb_15,keyboards,chatgpt,1,akko,(mentioned: akko),4
+kb_15,keyboards,chatgpt,3,logitech,(mentioned: logitech),1
+kb_15,keyboards,chatgpt,3,royal kludge,(mentioned: rk),2
+kb_15,keyboards,chatgpt,3,steelseries,(mentioned: steelseries),3
+kb_15,keyboards,chatgpt,3,keychron,(mentioned: keychron),4
+kb_15,keyboards,chatgpt,3,redragon,(mentioned: redragon),5
+kb_15,keyboards,gemini,1,logitech,(mentioned: logitech),1
+kb_15,keyboards,gemini,1,glorious,(mentioned: glorious),2
+kb_15,keyboards,gemini,1,royal kludge,(mentioned: rk),3
+kb_15,keyboards,gemini,1,keychron,(mentioned: keychron),4
+kb_15,keyboards,gemini,1,akko,(mentioned: akko),5
+kb_15,keyboards,gemini,2,glorious,(mentioned: glorious),1
+kb_15,keyboards,gemini,2,keychron,(mentioned: keychron),2
+kb_15,keyboards,gemini,2,wooting,(mentioned: wooting),3
+kb_15,keyboards,gemini,3,royal kludge,(mentioned: rk),1
+kb_15,keyboards,gemini,3,razer,(mentioned: razer),2
+kb_15,keyboards,gemini,3,keychron,(mentioned: keychron),3
+kb_15,keyboards,gemini,3,wooting,(mentioned: wooting),4
+kb_15,keyboards,perplexity,1,keychron,Keychron Q5 Max,1
+kb_15,keyboards,perplexity,1,epomaker,Epomaker TH80,2
+kb_15,keyboards,perplexity,1,logitech,Logitech AltoKeys K98M,3
+kb_15,keyboards,perplexity,2,keychron,Keychron Q5 Max,1
+kb_15,keyboards,perplexity,2,epomaker,Epomaker TH80,2
+kb_15,keyboards,perplexity,2,logitech,Logitech AltoKeys K98M,3
+kb_15,keyboards,perplexity,3,keychron,Keychron Q5 Max,1
+kb_15,keyboards,perplexity,3,epomaker,Epomaker TH80,2
+kb_15,keyboards,perplexity,3,logitech,Logitech AltoKeys K98M,3
+kb_15,keyboards,deepseek,1,keychron,Keychron K8 Pro,1
+kb_15,keyboards,deepseek,1,ducky,Ducky One 3 Mini,2
+kb_15,keyboards,deepseek,1,leopold,Leopold FC750R PD,3
+kb_15,keyboards,deepseek,1,razer,Razer BlackWidow V3 Pro,4
+kb_15,keyboards,deepseek,1,anne pro,Anne Pro 2,5
+kb_15,keyboards,deepseek,2,keychron,Keychron Q1 Pro,1
+kb_15,keyboards,deepseek,2,ducky,Ducky One 3 Mini,2
+kb_15,keyboards,deepseek,2,razer,Razer Huntsman Mini,3
+kb_15,keyboards,deepseek,3,keychron,Best Overall / Enthusiast Pick: Keychron Q1 Pro,1
+kb_15,keyboards,deepseek,3,redragon,Best Budget Pick: Redragon K552 Kumara,2
+kb_15,keyboards,deepseek,3,razer,Best for Gaming: Razer BlackWidow V3 Mini HyperSpeed,3
+shoes_01,running_shoes,chatgpt,1,nike,Nike Downshifter 14,1
+shoes_01,running_shoes,chatgpt,1,asics,ASICS Versablast 4,2
+shoes_01,running_shoes,chatgpt,1,adidas,adidas Ultrarun 5,3
+shoes_01,running_shoes,chatgpt,2,nike,Nike Downshifter 13,1
+shoes_01,running_shoes,chatgpt,2,asics,ASICS GEL,2
+shoes_01,running_shoes,chatgpt,3,asics,ASICS GEL,1
+shoes_01,running_shoes,chatgpt,3,nike,Nike Downshifter 13,2
+shoes_01,running_shoes,chatgpt,3,new balance,New Balance Fresh Foam Arishi v4,3
+shoes_01,running_shoes,gemini,1,saucony,Saucony Cohesion 16,1
+shoes_01,running_shoes,gemini,1,asics,ASICS Gel,2
+shoes_01,running_shoes,gemini,1,adidas,Adidas Questar 3,3
+shoes_01,running_shoes,gemini,1,new balance,New Balance Fresh Foam 680v8 / 680v9,4
+shoes_01,running_shoes,gemini,1,nike,Nike Revolution 7,5
+shoes_01,running_shoes,gemini,1,brooks,Brooks Launch GTS 10,6
+shoes_01,running_shoes,gemini,2,new balance,New Balance Fresh Foam 680v8,1
+shoes_01,running_shoes,gemini,2,brooks,Brooks Revel 6,2
+shoes_01,running_shoes,gemini,2,saucony,Saucony Axon 3,3
+shoes_01,running_shoes,gemini,2,adidas,Adidas Questar 3,4
+shoes_01,running_shoes,gemini,2,asics,ASICS Gel,5
+shoes_01,running_shoes,gemini,3,saucony,Saucony Cohesion 16,1
+shoes_01,running_shoes,gemini,3,asics,ASICS Gel,2
+shoes_01,running_shoes,gemini,3,nike,Nike Revolution 7,3
+shoes_01,running_shoes,gemini,3,adidas,adidas Duramo SL 2,4
+shoes_01,running_shoes,gemini,3,new balance,New Balance Fresh Foam 680v8,5
+shoes_01,running_shoes,perplexity,1,adidas,Adidas Ultrarun 5,1
+shoes_01,running_shoes,perplexity,1,nike,Nike Revolution 8,2
+shoes_01,running_shoes,perplexity,1,under armour,Under Armour Charged Assert 10,3
+shoes_01,running_shoes,perplexity,2,adidas,Adidas Ultrarun 5,1
+shoes_01,running_shoes,perplexity,2,asics,Asics Gel,2
+shoes_01,running_shoes,perplexity,2,nike,Nike Downshifter,3
+shoes_01,running_shoes,perplexity,3,adidas,Adidas Ultrarun 5,1
+shoes_01,running_shoes,perplexity,3,asics,Asics Gel,2
+shoes_01,running_shoes,claude,1,adidas,Adidas Questar 3,1
+shoes_01,running_shoes,claude,1,nike,Nike Revolution 8,2
+shoes_01,running_shoes,claude,1,asics,ASICS Gel,3
+shoes_01,running_shoes,claude,1,saucony,Saucony Cohesion 16,4
+shoes_01,running_shoes,claude,2,nike,Nike Revolution 8,1
+shoes_01,running_shoes,claude,2,adidas,Adidas Questar 3,2
+shoes_01,running_shoes,claude,2,asics,ASICS Gel,3
+shoes_01,running_shoes,claude,2,saucony,Saucony Cohesion 16,4
+shoes_01,running_shoes,claude,3,adidas,(mentioned: adidas),1
+shoes_01,running_shoes,claude,3,nike,(mentioned: nike),2
+shoes_01,running_shoes,claude,3,asics,(mentioned: asics),3
+shoes_01,running_shoes,deepseek,1,asics,ASICS Gel,1
+shoes_01,running_shoes,deepseek,1,new balance,New Balance Fresh Foam Arishi v4,2
+shoes_01,running_shoes,deepseek,1,saucony,Saucony Cohesion 15,3
+shoes_01,running_shoes,deepseek,2,asics,ASICS Gel,1
+shoes_01,running_shoes,deepseek,2,new balance,New Balance Fresh Foam Arishi v4,2
+shoes_01,running_shoes,deepseek,2,saucony,Saucony Cohesion 16,3
+shoes_01,running_shoes,deepseek,2,nike,Nike Revolution 6,4
+shoes_01,running_shoes,deepseek,2,brooks,Brooks Launch 9,5
+shoes_01,running_shoes,deepseek,3,new balance,(mentioned: new balance),1
+shoes_01,running_shoes,deepseek,3,nike,(mentioned: nike),2
+shoes_01,running_shoes,deepseek,3,saucony,(mentioned: saucony),3
+shoes_01,running_shoes,deepseek,3,asics,(mentioned: asics),4
+shoes_02,running_shoes,chatgpt,1,asics,ASICS GEL,1
+shoes_02,running_shoes,chatgpt,1,adidas,Adidas Questar 3,2
+shoes_02,running_shoes,chatgpt,1,saucony,Saucony Ride 19,3
+shoes_02,running_shoes,chatgpt,1,brooks,Brooks Launch GTS 10,4
+shoes_02,running_shoes,chatgpt,2,asics,ASICS GEL,1
+shoes_02,running_shoes,chatgpt,2,brooks,Brooks Revel 7,2
+shoes_02,running_shoes,chatgpt,2,nike,Nike Downshifter 13,3
+shoes_02,running_shoes,chatgpt,2,new balance,New Balance Fresh Foam 680v9,4
+shoes_02,running_shoes,chatgpt,2,saucony,Saucony Excursion TR17,5
+shoes_02,running_shoes,chatgpt,3,asics,ASICS GEL,1
+shoes_02,running_shoes,chatgpt,3,nike,"Nike Downshifter 13** – best cheap, simple option",2
+shoes_02,running_shoes,chatgpt,3,brooks,Brooks Launch 11** – best if you want something a little nicer,3
+shoes_02,running_shoes,chatgpt,3,saucony,Saucony Cohesion 16/17** – good budget fallback,4
+shoes_02,running_shoes,gemini,1,asics,ASICS GEL,1
+shoes_02,running_shoes,gemini,1,saucony,Saucony Cohesion 17/18,2
+shoes_02,running_shoes,gemini,1,new balance,New Balance Fresh Foam 520v9,3
+shoes_02,running_shoes,gemini,1,brooks,Brooks Revel 8,4
+shoes_02,running_shoes,gemini,1,nike,Nike Downshifter 13,5
+shoes_02,running_shoes,gemini,2,adidas,(mentioned: adidas),1
+shoes_02,running_shoes,gemini,2,new balance,(mentioned: new balance),2
+shoes_02,running_shoes,gemini,2,brooks,(mentioned: brooks),3
+shoes_02,running_shoes,gemini,2,nike,(mentioned: nike),4
+shoes_02,running_shoes,gemini,2,saucony,(mentioned: saucony),5
+shoes_02,running_shoes,gemini,3,brooks,Brooks Revel 6,1
+shoes_02,running_shoes,gemini,3,asics,ASICS GEL,2
+shoes_02,running_shoes,gemini,3,new balance,New Balance 520v8,3
+shoes_02,running_shoes,gemini,3,nike,Nike Winflo 12,4
+shoes_02,running_shoes,perplexity,1,adidas,Adidas Questar 3,1
+shoes_02,running_shoes,perplexity,1,new balance,New Balance Fresh Foam 680v9,2
+shoes_02,running_shoes,perplexity,1,puma,Puma Velocity Nitro 4,3
+shoes_02,running_shoes,perplexity,1,brooks,Brooks Launch 12,4
+shoes_02,running_shoes,perplexity,2,nike,Nike Pegasus 41,1
+shoes_02,running_shoes,perplexity,2,brooks,Brooks Ghost 17,2
+shoes_02,running_shoes,perplexity,2,puma,Puma Velocity Nitro 4,3
+shoes_02,running_shoes,perplexity,2,asics,Asics Novablast 5,4
+shoes_02,running_shoes,perplexity,2,adidas,Adidas Questar 3,5
+shoes_02,running_shoes,perplexity,2,reebok,Reebok Zig Dynamica 5,6
+shoes_02,running_shoes,perplexity,3,brooks,Brooks Ghost 17,1
+shoes_02,running_shoes,perplexity,3,puma,Puma Velocity Nitro 4,2
+shoes_02,running_shoes,perplexity,3,new balance,New Balance Fresh Foam 680v9,3
+shoes_02,running_shoes,perplexity,3,asics,Asics Novablast 5,4
+shoes_02,running_shoes,perplexity,3,nike,Nike Pegasus 41,5
+shoes_02,running_shoes,perplexity,3,adidas,Adidas Questar 3,6
+shoes_02,running_shoes,claude,1,asics,Asics Novablast 5,1
+shoes_02,running_shoes,claude,1,adidas,Adidas Questar 3,2
+shoes_02,running_shoes,claude,1,nike,Nike Winflo 12,3
+shoes_02,running_shoes,claude,1,saucony,Saucony Ride 18,4
+shoes_02,running_shoes,claude,2,adidas,(mentioned: adidas),1
+shoes_02,running_shoes,claude,2,nike,(mentioned: nike),2
+shoes_02,running_shoes,claude,2,saucony,(mentioned: saucony),3
+shoes_02,running_shoes,claude,2,asics,(mentioned: asics),4
+shoes_02,running_shoes,claude,3,asics,Asics Novablast 5,1
+shoes_02,running_shoes,claude,3,adidas,Adidas Questar 3,2
+shoes_02,running_shoes,claude,3,nike,Nike Winflo 12,3
+shoes_02,running_shoes,claude,3,saucony,Saucony Ride 18,4
+shoes_02,running_shoes,deepseek,1,asics,ASICS Gel,1
+shoes_02,running_shoes,deepseek,1,saucony,Saucony Cohesion 16,2
+shoes_02,running_shoes,deepseek,1,new balance,New Balance Fresh Foam Arishi v4,3
+shoes_02,running_shoes,deepseek,2,asics,ASICS Gel,1
+shoes_02,running_shoes,deepseek,2,new balance,New Balance Fresh Foam Arishi v4,2
+shoes_02,running_shoes,deepseek,2,saucony,Saucony Cohesion 16,3
+shoes_02,running_shoes,deepseek,3,saucony,Saucony Cohesion 16,1
+shoes_02,running_shoes,deepseek,3,brooks,Brooks Launch 10,2
+shoes_02,running_shoes,deepseek,3,new balance,New Balance Fresh Foam Arishi v4,3
+shoes_03,running_shoes,chatgpt,1,nike,Nike Run Defy,1
+shoes_03,running_shoes,chatgpt,1,asics,ASICS Contend 9,2
+shoes_03,running_shoes,chatgpt,2,nike,Nike Revolution 7,1
+shoes_03,running_shoes,chatgpt,2,reebok,Reebok Grasse Rd,2
+shoes_03,running_shoes,chatgpt,2,new balance,New Balance 490v2,3
+shoes_03,running_shoes,chatgpt,3,adidas,adidas Galaxy 7 Running Shoes,1
+shoes_03,running_shoes,gemini,1,reebok,Reebok Fuel Flex Run Women's Shoes,1
+shoes_03,running_shoes,gemini,1,saucony,Saucony Ride 15 or Triumph 20,2
+shoes_03,running_shoes,gemini,1,adidas,Adidas Duramo SL2,3
+shoes_03,running_shoes,gemini,1,new balance,New Balance Fresh Foam 680v9,4
+shoes_03,running_shoes,gemini,2,reebok,Reebok Fuel Flex Run,1
+shoes_03,running_shoes,gemini,2,adidas,Adidas Adizero SL,2
+shoes_03,running_shoes,gemini,2,saucony,Saucony Ride 15 / Triumph 20,3
+shoes_03,running_shoes,gemini,3,asics,ASICS Jolt Series,1
+shoes_03,running_shoes,gemini,3,saucony,Saucony Cohesion Series,2
+shoes_03,running_shoes,perplexity,1,adidas,Adidas Runfalcon 5,1
+shoes_03,running_shoes,perplexity,1,nike,Nike Quest 6,2
+shoes_03,running_shoes,perplexity,2,adidas,Adidas Runfalcon 5,1
+shoes_03,running_shoes,perplexity,2,nike,Nike Quest 6,2
+shoes_03,running_shoes,perplexity,2,new balance,New Balance Fresh Foam 680 v8,3
+shoes_03,running_shoes,perplexity,3,saucony,Saucony Excursion TR17,1
+shoes_03,running_shoes,perplexity,3,nike,Nike Downshifter 13,2
+shoes_03,running_shoes,perplexity,3,adidas,adidas Duramo SL 2,3
+shoes_03,running_shoes,perplexity,3,reebok,Reebok Court Advance,4
+shoes_03,running_shoes,claude,1,adidas,(mentioned: adidas),1
+shoes_03,running_shoes,claude,1,saucony,(mentioned: saucony),2
+shoes_03,running_shoes,claude,1,asics,(mentioned: asics),3
+shoes_03,running_shoes,claude,2,adidas,(mentioned: adidas),1
+shoes_03,running_shoes,claude,3,saucony,Saucony Cohesion 14,1
+shoes_03,running_shoes,claude,3,adidas,Adidas Fluidstreet,2
+shoes_03,running_shoes,deepseek,1,asics,ASICS Gel,1
+shoes_03,running_shoes,deepseek,1,saucony,Saucony Cohesion 14,2
+shoes_03,running_shoes,deepseek,1,new balance,New Balance 520v7,3
+shoes_03,running_shoes,deepseek,1,reebok,Reebok Floatride Energy 3.0,4
+shoes_03,running_shoes,deepseek,1,nike,Nike Downshifter 12,5
+shoes_03,running_shoes,deepseek,2,asics,ASICS Gel,1
+shoes_03,running_shoes,deepseek,2,new balance,New Balance Fresh Foam Tempo,2
+shoes_03,running_shoes,deepseek,2,brooks,Brooks Revel 4,3
+shoes_03,running_shoes,deepseek,3,asics,ASICS Gel,1
+shoes_03,running_shoes,deepseek,3,new balance,New Balance Fresh Foam Arishi v4,2
+shoes_03,running_shoes,deepseek,3,saucony,Saucony Cohesion 16,3
+shoes_03,running_shoes,deepseek,3,nike,Nike Revolution 6,4
+shoes_04,running_shoes,chatgpt,1,nike,Nike Pegasus 42,1
+shoes_04,running_shoes,chatgpt,1,asics,ASICS NOVABLAST 5,2
+shoes_04,running_shoes,chatgpt,1,saucony,Saucony Ride 19,3
+shoes_04,running_shoes,chatgpt,2,nike,Nike Pegasus 41,1
+shoes_04,running_shoes,chatgpt,2,asics,ASICS GEL,2
+shoes_04,running_shoes,chatgpt,2,brooks,Brooks Launch 12,3
+shoes_04,running_shoes,chatgpt,2,hoka,Hoka Clifton 10,4
+shoes_04,running_shoes,chatgpt,2,new balance,New Balance Fresh Foam X 880v14,5
+shoes_04,running_shoes,chatgpt,3,brooks,Brooks Ghost 16,1
+shoes_04,running_shoes,chatgpt,3,new balance,New Balance Fresh Foam X 880v15,2
+shoes_04,running_shoes,chatgpt,3,nike,Nike Pegasus 41,3
+shoes_04,running_shoes,chatgpt,3,asics,ASICS Gel,4
+shoes_04,running_shoes,chatgpt,3,saucony,Saucony Ride 17,5
+shoes_04,running_shoes,gemini,1,adidas,(mentioned: adidas),1
+shoes_04,running_shoes,gemini,1,new balance,(mentioned: new balance),2
+shoes_04,running_shoes,gemini,1,hoka,(mentioned: hoka),3
+shoes_04,running_shoes,gemini,1,brooks,(mentioned: brooks),4
+shoes_04,running_shoes,gemini,1,asics,(mentioned: asics),5
+shoes_04,running_shoes,gemini,1,puma,(mentioned: puma),6
+shoes_04,running_shoes,gemini,2,adidas,Adidas Adizero EVO SL,1
+shoes_04,running_shoes,gemini,2,brooks,Brooks Ghost 17,2
+shoes_04,running_shoes,gemini,2,saucony,Saucony Ride 19,3
+shoes_04,running_shoes,gemini,2,hoka,Hoka Mach 6,4
+shoes_04,running_shoes,gemini,2,new balance,New Balance Fresh Foam X 880v15,5
+shoes_04,running_shoes,gemini,2,puma,Puma Velocity Nitro 4,6
+shoes_04,running_shoes,gemini,2,nike,Nike Air Zoom Pegasus 41 SP,7
+shoes_04,running_shoes,gemini,3,adidas,Adidas Adizero SL,1
+shoes_04,running_shoes,gemini,3,hoka,Hoka Mach 6,2
+shoes_04,running_shoes,gemini,3,puma,Puma Velocity Nitro 4,3
+shoes_04,running_shoes,gemini,3,new balance,New Balance Fresh Foam Arishi v4,4
+shoes_04,running_shoes,gemini,3,brooks,Brooks Launch 10/12,5
+shoes_04,running_shoes,gemini,3,asics,ASICS Gel Pulse 15,6
+shoes_04,running_shoes,perplexity,1,puma,Puma Velocity Nitro 4,1
+shoes_04,running_shoes,perplexity,1,adidas,Adidas Adizero SL 2 / EVO SL,2
+shoes_04,running_shoes,perplexity,1,asics,ASICS GT,3
+shoes_04,running_shoes,perplexity,1,hoka,Hoka Mach 6,4
+shoes_04,running_shoes,perplexity,1,brooks,Brooks Launch 10 / 12,5
+shoes_04,running_shoes,perplexity,2,adidas,Adidas Adizero EVO SL,1
+shoes_04,running_shoes,perplexity,2,puma,Puma Velocity Nitro 4,2
+shoes_04,running_shoes,perplexity,2,hoka,Hoka Mach 6,3
+shoes_04,running_shoes,perplexity,2,mizuno,Mizuno Neo Zen,4
+shoes_04,running_shoes,perplexity,2,new balance,New Balance Fresh Foam 680v9,5
+shoes_04,running_shoes,perplexity,2,brooks,Brooks Launch 12,6
+shoes_04,running_shoes,perplexity,3,adidas,Adidas Adizero EVO SL,1
+shoes_04,running_shoes,perplexity,3,puma,Puma Velocity Nitro 4,2
+shoes_04,running_shoes,perplexity,3,hoka,Hoka Mach 6,3
+shoes_04,running_shoes,perplexity,3,mizuno,Mizuno Neo Zen,4
+shoes_04,running_shoes,perplexity,3,new balance,New Balance Fresh Foam 680v9,5
+shoes_04,running_shoes,perplexity,3,brooks,Brooks Launch 12,6
+shoes_04,running_shoes,claude,1,adidas,(mentioned: adidas),1
+shoes_04,running_shoes,claude,1,hoka,(mentioned: hoka),2
+shoes_04,running_shoes,claude,1,nike,(mentioned: nike),3
+shoes_04,running_shoes,claude,1,asics,(mentioned: asics),4
+shoes_04,running_shoes,claude,2,nike,Nike Pegasus 42,1
+shoes_04,running_shoes,claude,2,adidas,Adidas Adizero SL 2,2
+shoes_04,running_shoes,claude,2,hoka,Hoka Clifton 9,3
+shoes_04,running_shoes,claude,2,asics,ASICS Gel Pulse 16,4
+shoes_04,running_shoes,claude,2,brooks,Brooks Launch 10,5
+shoes_04,running_shoes,claude,3,adidas,(mentioned: adidas),1
+shoes_04,running_shoes,claude,3,hoka,(mentioned: hoka),2
+shoes_04,running_shoes,claude,3,nike,(mentioned: nike),3
+shoes_04,running_shoes,claude,3,asics,(mentioned: asics),4
+shoes_04,running_shoes,deepseek,1,saucony,Saucony Ride 16,1
+shoes_04,running_shoes,deepseek,1,brooks,Brooks Ghost 16,2
+shoes_04,running_shoes,deepseek,1,new balance,New Balance Fresh Foam 1080 v13,3
+shoes_04,running_shoes,deepseek,1,asics,ASICS Gel,4
+shoes_04,running_shoes,deepseek,1,nike,Nike Pegasus 40,5
+shoes_04,running_shoes,deepseek,1,hoka,Hoka Clifton 9,6
+shoes_04,running_shoes,deepseek,1,adidas,adidas Adizero SL,7
+shoes_04,running_shoes,deepseek,2,new balance,(mentioned: new balance),1
+shoes_04,running_shoes,deepseek,2,hoka,(mentioned: hoka),2
+shoes_04,running_shoes,deepseek,2,brooks,(mentioned: brooks),3
+shoes_04,running_shoes,deepseek,2,nike,(mentioned: nike),4
+shoes_04,running_shoes,deepseek,2,saucony,(mentioned: saucony),5
+shoes_04,running_shoes,deepseek,2,asics,(mentioned: asics),6
+shoes_04,running_shoes,deepseek,3,saucony,Saucony Ride 17,1
+shoes_04,running_shoes,deepseek,3,asics,ASICS Gel,2
+shoes_04,running_shoes,deepseek,3,new balance,New Balance Fresh Foam 1080 v13,3
+shoes_04,running_shoes,deepseek,3,brooks,Brooks Ghost 16,4
+shoes_04,running_shoes,deepseek,3,nike,Nike Pegasus 41,5
+shoes_04,running_shoes,deepseek,3,hoka,Hoka Clifton 9,6
+shoes_04,running_shoes,deepseek,3,mizuno,Mizuno Wave Rider 28,7
+shoes_04,running_shoes,deepseek,3,puma,Puma Deviate Nitro 3,8
+shoes_05,running_shoes,chatgpt,1,brooks,Brooks Ghost 16,1
+shoes_05,running_shoes,chatgpt,1,saucony,Saucony Ride 17,2
+shoes_05,running_shoes,chatgpt,1,asics,ASICS GEL,3
+shoes_05,running_shoes,chatgpt,2,brooks,Brooks Ghost 17,1
+shoes_05,running_shoes,chatgpt,2,asics,ASICS Dynablast 5,2
+shoes_05,running_shoes,chatgpt,2,reebok,Reebok FloatZig 2,3
+shoes_05,running_shoes,chatgpt,2,new balance,New Balance Fresh Foam 680v9,4
+shoes_05,running_shoes,chatgpt,3,asics,ASICS GEL,1
+shoes_05,running_shoes,chatgpt,3,brooks,Brooks Ghost 16,2
+shoes_05,running_shoes,chatgpt,3,saucony,Saucony Ride 17,3
+shoes_05,running_shoes,gemini,1,brooks,Brooks Ghost 16,1
+shoes_05,running_shoes,gemini,1,new balance,New Balance Fresh Foam X 880v14,2
+shoes_05,running_shoes,gemini,1,hoka,Hoka Clifton 9,3
+shoes_05,running_shoes,gemini,1,nike,Nike Air Zoom Pegasus 41,4
+shoes_05,running_shoes,gemini,2,saucony,Saucony Triumph 20,1
+shoes_05,running_shoes,gemini,2,new balance,New Balance FuelCell Propel v4,2
+shoes_05,running_shoes,gemini,2,adidas,Adidas Adizero SL,3
+shoes_05,running_shoes,gemini,3,hoka,Hoka Clifton 9,1
+shoes_05,running_shoes,perplexity,1,hoka,HOKA Speedgoat 6,1
+shoes_05,running_shoes,perplexity,1,new balance,New Balance Fresh Foam 680v9,2
+shoes_05,running_shoes,perplexity,1,brooks,Brooks Revel 6,3
+shoes_05,running_shoes,perplexity,1,topo athletic,Topo Athletic Atmos,4
+shoes_05,running_shoes,perplexity,1,nike,Nike Winflo 10 or 12,5
+shoes_05,running_shoes,perplexity,2,new balance,(mentioned: new balance),1
+shoes_05,running_shoes,perplexity,2,brooks,(mentioned: brooks),2
+shoes_05,running_shoes,perplexity,2,nike,(mentioned: nike),3
+shoes_05,running_shoes,perplexity,2,reebok,(mentioned: reebok),4
+shoes_05,running_shoes,perplexity,3,asics,ASICS Novablast 5,1
+shoes_05,running_shoes,perplexity,3,new balance,New Balance Fresh Foam 680v9,2
+shoes_05,running_shoes,perplexity,3,nike,Nike Winflo 10 or 12,3
+shoes_05,running_shoes,perplexity,3,reebok,Reebok Floatride Energy 5,4
+shoes_05,running_shoes,perplexity,3,topo athletic,Topo Athletic Atmos,5
+shoes_05,running_shoes,claude,1,nike,Nike Vomero Plus – $180,1
+shoes_05,running_shoes,claude,1,asics,Asics Gel Nimbus 27/28 – ~$150,2
+shoes_05,running_shoes,claude,1,saucony,Saucony Endorphin Speed 4 – ~$120,3
+shoes_05,running_shoes,claude,2,asics,ASICS Novablast 5,1
+shoes_05,running_shoes,claude,2,saucony,Saucony Endorphin Speed 4,2
+shoes_05,running_shoes,claude,2,brooks,Brooks Ghost 16,3
+shoes_05,running_shoes,claude,3,saucony,Saucony Endorphin Speed 4,1
+shoes_05,running_shoes,claude,3,nike,Nike Vomero Plus,2
+shoes_05,running_shoes,claude,3,asics,Asics Gel Nimbus 27,3
+shoes_05,running_shoes,claude,3,adidas,Adidas Adizero Evo SL,4
+shoes_05,running_shoes,deepseek,1,saucony,Saucony Ride 17** – **~$120–$130,1
+shoes_05,running_shoes,deepseek,1,asics,ASICS Gel,2
+shoes_05,running_shoes,deepseek,1,brooks,Brooks Ghost 15** – **~$100–$120,3
+shoes_05,running_shoes,deepseek,2,asics,ASICS Gel,1
+shoes_05,running_shoes,deepseek,2,saucony,Saucony Ride 16,2
+shoes_05,running_shoes,deepseek,2,brooks,Brooks Ghost 15,3
+shoes_05,running_shoes,deepseek,2,new balance,New Balance Fresh Foam 880v14,4
+shoes_05,running_shoes,deepseek,2,nike,Nike React Infinity Run 3,5
+shoes_05,running_shoes,deepseek,3,saucony,Saucony Ride 17,1
+shoes_05,running_shoes,deepseek,3,asics,ASICS Gel,2
+shoes_05,running_shoes,deepseek,3,brooks,Brooks Ghost 16,3
+shoes_05,running_shoes,deepseek,3,nike,Nike Pegasus 41,4
+shoes_05,running_shoes,deepseek,3,new balance,New Balance Fresh Foam X 880 v14,5
+shoes_06,running_shoes,chatgpt,1,asics,ASICS Novablast 5,1
+shoes_06,running_shoes,chatgpt,1,hoka,Hoka Mach 6,2
+shoes_06,running_shoes,chatgpt,1,adidas,Adidas Adizero EVO SL,3
+shoes_06,running_shoes,chatgpt,1,mizuno,Mizuno Wave Rider 29,4
+shoes_06,running_shoes,chatgpt,2,brooks,Brooks Ghost 17,1
+shoes_06,running_shoes,chatgpt,2,asics,ASICS Novablast 5,2
+shoes_06,running_shoes,chatgpt,2,new balance,New Balance Fresh Foam X 880 v15,3
+shoes_06,running_shoes,chatgpt,2,hoka,Hoka Clifton 10,4
+shoes_06,running_shoes,chatgpt,2,nike,Nike Pegasus 40,5
+shoes_06,running_shoes,chatgpt,3,brooks,Brooks Ghost 17,1
+shoes_06,running_shoes,chatgpt,3,hoka,HOKA Clifton 10,2
+shoes_06,running_shoes,chatgpt,3,nike,Nike Vomero 18,3
+shoes_06,running_shoes,chatgpt,3,new balance,New Balance Fresh Foam X 1080 v14,4
+shoes_06,running_shoes,chatgpt,3,asics,ASICS Gel Kayano 32,5
+shoes_06,running_shoes,gemini,1,asics,ASICS Novablast 5,1
+shoes_06,running_shoes,gemini,1,new balance,New Balance Fresh Foam X 1080v15,2
+shoes_06,running_shoes,gemini,1,brooks,Brooks Ghost 17,3
+shoes_06,running_shoes,gemini,1,hoka,Hoka Mach 6,4
+shoes_06,running_shoes,gemini,2,adidas,(mentioned: adidas),1
+shoes_06,running_shoes,gemini,2,new balance,(mentioned: new balance),2
+shoes_06,running_shoes,gemini,2,hoka,(mentioned: hoka),3
+shoes_06,running_shoes,gemini,2,nike,(mentioned: nike),4
+shoes_06,running_shoes,gemini,2,saucony,(mentioned: saucony),5
+shoes_06,running_shoes,gemini,2,asics,(mentioned: asics),6
+shoes_06,running_shoes,gemini,3,asics,ASICS Novablast 5,1
+shoes_06,running_shoes,gemini,3,brooks,Brooks Glycerin 23 / Glycerin Max,2
+shoes_06,running_shoes,gemini,3,new balance,New Balance Fresh Foam X 1080 v15,3
+shoes_06,running_shoes,gemini,3,nike,Nike Vomero 18,4
+shoes_06,running_shoes,perplexity,1,brooks,Brooks Ghost 17,1
+shoes_06,running_shoes,perplexity,1,hoka,Hoka Clifton 10,2
+shoes_06,running_shoes,perplexity,1,new balance,New Balance FuelCell Rebel v5,3
+shoes_06,running_shoes,perplexity,1,mizuno,Mizuno Neo Vista 2,4
+shoes_06,running_shoes,perplexity,2,brooks,Brooks Ghost 17,1
+shoes_06,running_shoes,perplexity,2,asics,Asics Megablast,2
+shoes_06,running_shoes,perplexity,2,mizuno,Mizuno Neo Vista 2,3
+shoes_06,running_shoes,perplexity,2,saucony,Saucony Endorphin Speed 4,4
+shoes_06,running_shoes,perplexity,3,brooks,Brooks Ghost 17,1
+shoes_06,running_shoes,perplexity,3,asics,Asics Novablast 5,2
+shoes_06,running_shoes,perplexity,3,mizuno,Mizuno Neo Vista 2,3
+shoes_06,running_shoes,perplexity,3,saucony,Saucony Endorphin Speed 4,4
+shoes_06,running_shoes,claude,1,asics,Asics Novablast 5,1
+shoes_06,running_shoes,claude,1,nike,Nike Pegasus 41,2
+shoes_06,running_shoes,claude,1,saucony,Saucony Ride 18/19,3
+shoes_06,running_shoes,claude,1,new balance,New Balance 1080 v14,4
+shoes_06,running_shoes,claude,1,hoka,Hoka Mach 6,5
+shoes_06,running_shoes,claude,2,hoka,Hoka Mach 7,1
+shoes_06,running_shoes,claude,2,saucony,Saucony Ride 18,2
+shoes_06,running_shoes,claude,2,asics,Asics Novablast 5,3
+shoes_06,running_shoes,claude,2,mizuno,Mizuno Neo Zen 2,4
+shoes_06,running_shoes,claude,2,nike,Nike Pegasus 42,5
+shoes_06,running_shoes,claude,2,adidas,Adidas Adizero Evo SL,6
+shoes_06,running_shoes,claude,3,mizuno,(mentioned: mizuno),1
+shoes_06,running_shoes,claude,3,adidas,(mentioned: adidas),2
+shoes_06,running_shoes,claude,3,hoka,(mentioned: hoka),3
+shoes_06,running_shoes,claude,3,nike,(mentioned: nike),4
+shoes_06,running_shoes,claude,3,saucony,(mentioned: saucony),5
+shoes_06,running_shoes,claude,3,asics,(mentioned: asics),6
+shoes_06,running_shoes,deepseek,1,saucony,Saucony Ride 17,1
+shoes_06,running_shoes,deepseek,1,brooks,Brooks Ghost 16,2
+shoes_06,running_shoes,deepseek,1,asics,Asics Novablast 4,3
+shoes_06,running_shoes,deepseek,1,nike,Nike Pegasus 41,4
+shoes_06,running_shoes,deepseek,1,hoka,Hoka Clifton 9,5
+shoes_06,running_shoes,deepseek,1,new balance,New Balance Fresh Foam X 1080v13,6
+shoes_06,running_shoes,deepseek,2,saucony,Saucony Ride 17,1
+shoes_06,running_shoes,deepseek,2,brooks,Brooks Ghost 16,2
+shoes_06,running_shoes,deepseek,2,asics,ASICS Novablast 4,3
+shoes_06,running_shoes,deepseek,2,new balance,New Balance Fresh Foam X 880 v14,4
+shoes_06,running_shoes,deepseek,2,nike,Nike Pegasus 41,5
+shoes_06,running_shoes,deepseek,3,saucony,Saucony Ride 17,1
+shoes_06,running_shoes,deepseek,3,brooks,Brooks Ghost 16,2
+shoes_06,running_shoes,deepseek,3,asics,ASICS Gel,3
+shoes_06,running_shoes,deepseek,3,new balance,New Balance Fresh Foam X 1080 v13,4
+shoes_06,running_shoes,deepseek,3,adidas,Adidas Adizero SL,5
+shoes_07,running_shoes,chatgpt,1,asics,ASICS GT,1
+shoes_07,running_shoes,chatgpt,1,brooks,Brooks Adrenaline GTS 24,2
+shoes_07,running_shoes,chatgpt,1,saucony,Saucony Guide 17,3
+shoes_07,running_shoes,chatgpt,1,new balance,New Balance Fresh Foam X 860v14,4
+shoes_07,running_shoes,chatgpt,2,brooks,Brooks Adrenaline GTS 24,1
+shoes_07,running_shoes,chatgpt,2,asics,ASICS GT,2
+shoes_07,running_shoes,chatgpt,2,saucony,Saucony Guide 17,3
+shoes_07,running_shoes,chatgpt,3,brooks,Brooks Adrenaline GTS 24,1
+shoes_07,running_shoes,chatgpt,3,asics,ASICS GT,2
+shoes_07,running_shoes,chatgpt,3,saucony,Saucony Guide 17,3
+shoes_07,running_shoes,gemini,1,brooks,Brooks Adrenaline GTS 24,1
+shoes_07,running_shoes,gemini,1,saucony,Saucony Guide 17,2
+shoes_07,running_shoes,gemini,1,mizuno,Mizuno Wave Inspire 20,3
+shoes_07,running_shoes,gemini,1,asics,ASICS GT,4
+shoes_07,running_shoes,gemini,1,hoka,Hoka Gaviota 5,5
+shoes_07,running_shoes,gemini,2,hoka,(mentioned: hoka),1
+shoes_07,running_shoes,gemini,2,brooks,(mentioned: brooks),2
+shoes_07,running_shoes,gemini,2,saucony,(mentioned: saucony),3
+shoes_07,running_shoes,gemini,2,asics,(mentioned: asics),4
+shoes_07,running_shoes,gemini,3,saucony,Saucony Guide 18,1
+shoes_07,running_shoes,gemini,3,brooks,Brooks Adrenaline GTS 24,2
+shoes_07,running_shoes,gemini,3,mizuno,Mizuno Wave Inspire 21,3
+shoes_07,running_shoes,gemini,3,asics,ASICS GT,4
+shoes_07,running_shoes,gemini,3,new balance,New Balance Fresh Foam 860v14,5
+shoes_07,running_shoes,perplexity,1,brooks,Brooks Adrenaline GTS 24,1
+shoes_07,running_shoes,perplexity,1,new balance,New Balance Fresh Foam X 860 v14,2
+shoes_07,running_shoes,perplexity,1,saucony,Saucony Tempus 2,3
+shoes_07,running_shoes,perplexity,1,altra,Altra Experience Form,4
+shoes_07,running_shoes,perplexity,2,mizuno,(mentioned: mizuno),1
+shoes_07,running_shoes,perplexity,2,adidas,(mentioned: adidas),2
+shoes_07,running_shoes,perplexity,2,new balance,(mentioned: new balance),3
+shoes_07,running_shoes,perplexity,2,reebok,(mentioned: reebok),4
+shoes_07,running_shoes,perplexity,3,brooks,Brooks Adrenaline GTS 24,1
+shoes_07,running_shoes,perplexity,3,new balance,New Balance Fresh Foam X 860 v14,2
+shoes_07,running_shoes,perplexity,3,saucony,Saucony Tempus 2,3
+shoes_07,running_shoes,perplexity,3,altra,Altra Experience Form,4
+shoes_07,running_shoes,claude,1,brooks,Brooks Adrenaline GTS 25 – ~$120,1
+shoes_07,running_shoes,claude,1,asics,ASICS Gel,2
+shoes_07,running_shoes,claude,1,saucony,Saucony Tempus 2 – ~$120,3
+shoes_07,running_shoes,claude,1,new balance,New Balance Fresh Foam 860 v14 – ~$130,4
+shoes_07,running_shoes,claude,1,adidas,Adidas Supernova Solution 3 – ~$120,5
+shoes_07,running_shoes,claude,2,new balance,(mentioned: new balance),1
+shoes_07,running_shoes,claude,2,brooks,(mentioned: brooks),2
+shoes_07,running_shoes,claude,2,saucony,(mentioned: saucony),3
+shoes_07,running_shoes,claude,2,asics,(mentioned: asics),4
+shoes_07,running_shoes,claude,3,new balance,(mentioned: new balance),1
+shoes_07,running_shoes,claude,3,brooks,(mentioned: brooks),2
+shoes_07,running_shoes,claude,3,on running,(mentioned: on cloud),3
+shoes_07,running_shoes,claude,3,saucony,(mentioned: saucony),4
+shoes_07,running_shoes,claude,3,asics,(mentioned: asics),5
+shoes_07,running_shoes,deepseek,1,saucony,Saucony Guide 17,1
+shoes_07,running_shoes,deepseek,1,brooks,Brooks Adrenaline GTS 22/23,2
+shoes_07,running_shoes,deepseek,1,new balance,New Balance Fresh Foam X 880 v14,3
+shoes_07,running_shoes,deepseek,2,brooks,Brooks Adrenaline GTS 23,1
+shoes_07,running_shoes,deepseek,2,asics,ASICS GT,2
+shoes_07,running_shoes,deepseek,2,saucony,Saucony Guide 16,3
+shoes_07,running_shoes,deepseek,3,asics,ASICS GT,1
+shoes_07,running_shoes,deepseek,3,brooks,Brooks Adrenaline GTS 22,2
+shoes_07,running_shoes,deepseek,3,saucony,Saucony Guide 15,3
+shoes_07,running_shoes,deepseek,3,hoka,Hoka Arahi 6,4
+shoes_08,running_shoes,chatgpt,1,nike,Nike Alphafly 3,1
+shoes_08,running_shoes,chatgpt,1,adidas,adidas Adizero Adios Pro 4,2
+shoes_08,running_shoes,chatgpt,1,asics,ASICS Metaspeed Sky Tokyo / Edge Tokyo,3
+shoes_08,running_shoes,chatgpt,1,saucony,Saucony Endorphin Pro 4,4
+shoes_08,running_shoes,chatgpt,2,nike,Nike Alphafly 3,1
+shoes_08,running_shoes,chatgpt,2,adidas,adidas Adizero Adios Pro 4,2
+shoes_08,running_shoes,chatgpt,2,asics,ASICS METASPEED SKY TOKYO,3
+shoes_08,running_shoes,chatgpt,3,nike,Nike Alphafly 3,1
+shoes_08,running_shoes,chatgpt,3,asics,ASICS Metaspeed Sky Tokyo / Edge Tokyo,2
+shoes_08,running_shoes,chatgpt,3,adidas,Adidas Adizero Adios Pro 4,3
+shoes_08,running_shoes,chatgpt,3,puma,PUMA FAST,4
+shoes_08,running_shoes,chatgpt,3,saucony,Saucony Endorphin Pro 4,5
+shoes_08,running_shoes,chatgpt,3,hoka,Hoka Rocket X 2,6
+shoes_08,running_shoes,chatgpt,3,brooks,Brooks Hyperion Elite 4,7
+shoes_08,running_shoes,gemini,1,adidas,(mentioned: adidas),1
+shoes_08,running_shoes,gemini,1,hoka,(mentioned: hoka),2
+shoes_08,running_shoes,gemini,1,nike,(mentioned: nike),3
+shoes_08,running_shoes,gemini,1,saucony,(mentioned: saucony),4
+shoes_08,running_shoes,gemini,1,asics,(mentioned: asics),5
+shoes_08,running_shoes,gemini,2,nike,Nike Alphafly 3,1
+shoes_08,running_shoes,gemini,2,asics,ASICS Metaspeed Sky Paris,2
+shoes_08,running_shoes,gemini,2,saucony,Saucony Endorphin Pro 5,3
+shoes_08,running_shoes,gemini,2,new balance,New Balance FuelCell SuperComp Elite v5,4
+shoes_08,running_shoes,gemini,2,puma,Puma FAST,5
+shoes_08,running_shoes,gemini,3,adidas,(mentioned: adidas),1
+shoes_08,running_shoes,gemini,3,hoka,(mentioned: hoka),2
+shoes_08,running_shoes,gemini,3,nike,(mentioned: nike),3
+shoes_08,running_shoes,gemini,3,saucony,(mentioned: saucony),4
+shoes_08,running_shoes,gemini,3,asics,(mentioned: asics),5
+shoes_08,running_shoes,gemini,3,puma,(mentioned: puma),6
+shoes_08,running_shoes,perplexity,1,nike,Nike Alphafly 3,1
+shoes_08,running_shoes,perplexity,1,adidas,Adidas Adizero Adios Pro 4,2
+shoes_08,running_shoes,perplexity,1,asics,ASICS Metaspeed Sky Paris/Tokyo,3
+shoes_08,running_shoes,perplexity,1,puma,Puma Fast,4
+shoes_08,running_shoes,perplexity,1,saucony,Saucony Endorphin Pro 5,5
+shoes_08,running_shoes,perplexity,1,hoka,HOKA Rocket X2** or **Cielo X1 3.0,6
+shoes_08,running_shoes,perplexity,2,nike,Nike Alphafly 3** – ~$250,1
+shoes_08,running_shoes,perplexity,2,adidas,Adidas Adizero Adios Pro 4** – ~$240,2
+shoes_08,running_shoes,perplexity,2,puma,Puma Fast,3
+shoes_08,running_shoes,perplexity,2,asics,ASICS Metaspeed Sky Tokyo** – ~$230,4
+shoes_08,running_shoes,perplexity,2,saucony,Saucony Endorphin Elite** – ~$225,5
+shoes_08,running_shoes,perplexity,3,nike,Nike Alphafly 3,1
+shoes_08,running_shoes,perplexity,3,adidas,Adidas Adizero Adios Pro 4,2
+shoes_08,running_shoes,perplexity,3,puma,Puma Fast,3
+shoes_08,running_shoes,perplexity,3,asics,ASICS Metaspeed Sky Tokyo,4
+shoes_08,running_shoes,perplexity,3,new balance,New Balance SC Elite v5,5
+shoes_08,running_shoes,claude,1,hoka,(mentioned: hoka),1
+shoes_08,running_shoes,claude,1,nike,(mentioned: nike),2
+shoes_08,running_shoes,claude,1,asics,(mentioned: asics),3
+shoes_08,running_shoes,claude,1,puma,(mentioned: puma),4
+shoes_08,running_shoes,claude,2,asics,ASICS Metaspeed Sky Tokyo,1
+shoes_08,running_shoes,claude,2,nike,Nike Alphafly 3,2
+shoes_08,running_shoes,claude,2,puma,Puma Fast,3
+shoes_08,running_shoes,claude,2,hoka,Hoka Rocket X3,4
+shoes_08,running_shoes,claude,3,nike,Nike Alphafly 3,1
+shoes_08,running_shoes,claude,3,asics,Asics Metaspeed Sky Tokyo,2
+shoes_08,running_shoes,claude,3,puma,Puma Fast,3
+shoes_08,running_shoes,claude,3,hoka,Hoka Cielo X1 3.0,4
+shoes_08,running_shoes,deepseek,1,nike,Nike Alphafly 3,1
+shoes_08,running_shoes,deepseek,1,adidas,Adidas Adizero Adios Pro 3,2
+shoes_08,running_shoes,deepseek,1,saucony,Saucony Endorphin Pro 4,3
+shoes_08,running_shoes,deepseek,1,asics,ASICS Metaspeed Sky Paris,4
+shoes_08,running_shoes,deepseek,1,new balance,New Balance FuelCell Supercomp Elite v4,5
+shoes_08,running_shoes,deepseek,2,nike,Nike Alphafly 3,1
+shoes_08,running_shoes,deepseek,2,adidas,adidas Adizero Adios Pro 3,2
+shoes_08,running_shoes,deepseek,2,saucony,Saucony Endorphin Elite,3
+shoes_08,running_shoes,deepseek,2,asics,ASICS Metaspeed Sky Paris,4
+shoes_08,running_shoes,deepseek,2,hoka,Hoka Rocket X 2,5
+shoes_08,running_shoes,deepseek,2,new balance,New Balance FuelCell SuperComp Elite v4,6
+shoes_08,running_shoes,deepseek,3,nike,Nike Alphafly 3,1
+shoes_08,running_shoes,deepseek,3,adidas,Adidas Adizero Adios Pro 3,2
+shoes_08,running_shoes,deepseek,3,saucony,Saucony Endorphin Pro 4,3
+shoes_08,running_shoes,deepseek,3,asics,ASICS Metaspeed Sky+,4
+shoes_08,running_shoes,deepseek,3,puma,Puma Deviate Nitro Elite 3,5
+shoes_09,running_shoes,chatgpt,1,adidas,Adidas Adizero Adios Pro 4,1
+shoes_09,running_shoes,chatgpt,1,hoka,Hoka Cielo X1 3.0,2
+shoes_09,running_shoes,chatgpt,1,nike,Nike Alphafly 3,3
+shoes_09,running_shoes,chatgpt,1,asics,Asics Metaspeed Sky Tokyo / Edge Tokyo,4
+shoes_09,running_shoes,chatgpt,1,saucony,Saucony Endorphin Elite,5
+shoes_09,running_shoes,chatgpt,2,nike,Nike Alphafly 3,1
+shoes_09,running_shoes,chatgpt,2,asics,ASICS Novablast 5,2
+shoes_09,running_shoes,chatgpt,2,mizuno,Mizuno Neo Vista 2,3
+shoes_09,running_shoes,chatgpt,2,hoka,HOKA Cielo X1 3.0,4
+shoes_09,running_shoes,chatgpt,2,new balance,New Balance FuelCell SuperComp Trainer v3,5
+shoes_09,running_shoes,chatgpt,2,puma,Puma Deviate Nitro 4,6
+shoes_09,running_shoes,chatgpt,3,adidas,ASICS METASPEED SKY TOKYO,1
+shoes_09,running_shoes,chatgpt,3,nike,Nike Alphafly 3,2
+shoes_09,running_shoes,chatgpt,3,hoka,Hoka Cielo X1 3.0,3
+shoes_09,running_shoes,chatgpt,3,saucony,Saucony Endorphin Elite 2,4
+shoes_09,running_shoes,chatgpt,3,asics,ASICS Superblast 2,5
+shoes_09,running_shoes,chatgpt,3,new balance,New Balance Fresh Foam X 1080 v14,6
+shoes_09,running_shoes,gemini,1,mizuno,(mentioned: mizuno),1
+shoes_09,running_shoes,gemini,1,adidas,(mentioned: adidas),2
+shoes_09,running_shoes,gemini,1,new balance,(mentioned: new balance),3
+shoes_09,running_shoes,gemini,1,brooks,(mentioned: brooks),4
+shoes_09,running_shoes,gemini,1,nike,(mentioned: nike),5
+shoes_09,running_shoes,gemini,1,saucony,(mentioned: saucony),6
+shoes_09,running_shoes,gemini,1,asics,(mentioned: asics),7
+shoes_09,running_shoes,gemini,1,salomon,(mentioned: salomon),8
+shoes_09,running_shoes,gemini,2,mizuno,(mentioned: mizuno),1
+shoes_09,running_shoes,gemini,2,adidas,(mentioned: adidas),2
+shoes_09,running_shoes,gemini,2,new balance,(mentioned: new balance),3
+shoes_09,running_shoes,gemini,2,hoka,(mentioned: hoka),4
+shoes_09,running_shoes,gemini,2,nike,(mentioned: nike),5
+shoes_09,running_shoes,gemini,2,saucony,(mentioned: saucony),6
+shoes_09,running_shoes,gemini,2,asics,(mentioned: asics),7
+shoes_09,running_shoes,gemini,3,nike,Nike Alphafly 3,1
+shoes_09,running_shoes,gemini,3,adidas,Adidas Adizero Adios Pro 4 / Adizero Adios Pro Evo 3,2
+shoes_09,running_shoes,gemini,3,saucony,Saucony Endorphin Pro 5 / Endorphin Elite 2,3
+shoes_09,running_shoes,perplexity,1,adidas,Adidas Adizero Evo SL,1
+shoes_09,running_shoes,perplexity,1,asics,ASICS Megablast,2
+shoes_09,running_shoes,perplexity,1,hoka,Hoka Mach 7,3
+shoes_09,running_shoes,perplexity,1,new balance,New Balance Fresh Foam X 1080v15,4
+shoes_09,running_shoes,perplexity,2,adidas,Adidas Adizero Evo SL,1
+shoes_09,running_shoes,perplexity,2,asics,ASICS Superblast 3,2
+shoes_09,running_shoes,perplexity,2,hoka,Hoka Mach 7,3
+shoes_09,running_shoes,perplexity,2,new balance,New Balance Fresh Foam X 1080v15,4
+shoes_09,running_shoes,perplexity,3,adidas,(mentioned: adidas),1
+shoes_09,running_shoes,perplexity,3,brooks,(mentioned: brooks),2
+shoes_09,running_shoes,perplexity,3,nike,(mentioned: nike),3
+shoes_09,running_shoes,perplexity,3,saucony,(mentioned: saucony),4
+shoes_09,running_shoes,perplexity,3,asics,(mentioned: asics),5
+shoes_09,running_shoes,claude,1,adidas,(mentioned: adidas),1
+shoes_09,running_shoes,claude,1,new balance,(mentioned: new balance),2
+shoes_09,running_shoes,claude,1,hoka,(mentioned: hoka),3
+shoes_09,running_shoes,claude,1,brooks,(mentioned: brooks),4
+shoes_09,running_shoes,claude,1,nike,(mentioned: nike),5
+shoes_09,running_shoes,claude,1,asics,(mentioned: asics),6
+shoes_09,running_shoes,claude,1,puma,(mentioned: puma),7
+shoes_09,running_shoes,claude,2,adidas,(mentioned: adidas),1
+shoes_09,running_shoes,claude,2,new balance,(mentioned: new balance),2
+shoes_09,running_shoes,claude,2,brooks,(mentioned: brooks),3
+shoes_09,running_shoes,claude,2,nike,(mentioned: nike),4
+shoes_09,running_shoes,claude,2,asics,(mentioned: asics),5
+shoes_09,running_shoes,claude,2,puma,(mentioned: puma),6
+shoes_09,running_shoes,claude,3,nike,Nike Alphafly 3,1
+shoes_09,running_shoes,claude,3,brooks,Brooks Hyperion Elite 5,2
+shoes_09,running_shoes,claude,3,new balance,New Balance FuelCell SuperComp Elite v5,3
+shoes_09,running_shoes,claude,3,adidas,Adidas Adizero Adios Pro 4,4
+shoes_09,running_shoes,claude,3,asics,Asics Megablast,5
+shoes_09,running_shoes,deepseek,1,nike,Nike Alphafly 3,1
+shoes_09,running_shoes,deepseek,1,on running,On Running Cloudboom Echo 3 / 4,2
+shoes_09,running_shoes,deepseek,1,adidas,Adidas Adizero Adios Pro 4,3
+shoes_09,running_shoes,deepseek,1,asics,ASICS Metaspeed Sky Paris,4
+shoes_09,running_shoes,deepseek,1,hoka,Hoka Rocket X 3,5
+shoes_09,running_shoes,deepseek,2,adidas,(mentioned: adidas),1
+shoes_09,running_shoes,deepseek,2,nike,(mentioned: nike),2
+shoes_09,running_shoes,deepseek,2,saucony,(mentioned: saucony),3
+shoes_09,running_shoes,deepseek,2,asics,(mentioned: asics),4
+shoes_09,running_shoes,deepseek,2,on running,(mentioned: on running),5
+shoes_09,running_shoes,deepseek,3,adidas,(mentioned: adidas),1
+shoes_09,running_shoes,deepseek,3,new balance,(mentioned: new balance),2
+shoes_09,running_shoes,deepseek,3,hoka,(mentioned: hoka),3
+shoes_09,running_shoes,deepseek,3,nike,(mentioned: nike),4
+shoes_09,running_shoes,deepseek,3,saucony,(mentioned: saucony),5
+shoes_09,running_shoes,deepseek,3,asics,(mentioned: asics),6
+shoes_10,running_shoes,chatgpt,1,hoka,Hoka Speedgoat 6,1
+shoes_10,running_shoes,chatgpt,1,salomon,Salomon Ultra Glide 2 / Ultra Glide 3,2
+shoes_10,running_shoes,chatgpt,1,brooks,Brooks Cascadia 18,3
+shoes_10,running_shoes,chatgpt,1,la sportiva,La Sportiva Prodigio Pro,4
+shoes_10,running_shoes,chatgpt,1,on running,On Cloudultra Pro,5
+shoes_10,running_shoes,chatgpt,2,hoka,Hoka Speedgoat 6,1
+shoes_10,running_shoes,chatgpt,2,salomon,Salomon S/LAB Ultra,2
+shoes_10,running_shoes,chatgpt,2,la sportiva,La Sportiva Prodigio Pro,3
+shoes_10,running_shoes,chatgpt,2,brooks,Brooks Cascadia 18,4
+shoes_10,running_shoes,chatgpt,3,saucony,Saucony Xodus Ultra 4,1
+shoes_10,running_shoes,chatgpt,3,hoka,Hoka Speedgoat 6,2
+shoes_10,running_shoes,chatgpt,3,new balance,New Balance Fresh Foam X Hierro v9,3
+shoes_10,running_shoes,gemini,1,hoka,(mentioned: hoka),1
+shoes_10,running_shoes,gemini,1,brooks,(mentioned: brooks),2
+shoes_10,running_shoes,gemini,1,nike,(mentioned: nike),3
+shoes_10,running_shoes,gemini,1,saucony,(mentioned: saucony),4
+shoes_10,running_shoes,gemini,1,salomon,(mentioned: salomon),5
+shoes_10,running_shoes,gemini,2,hoka,Hoka Speedgoat 6,1
+shoes_10,running_shoes,gemini,2,brooks,Brooks Caldera 6,2
+shoes_10,running_shoes,gemini,2,salomon,Salomon Ultra Glide 2,3
+shoes_10,running_shoes,gemini,2,saucony,Saucony Xodus Ultra 2,4
+shoes_10,running_shoes,gemini,2,nike,Nike Ultrafly,5
+shoes_10,running_shoes,gemini,2,la sportiva,La Sportiva Prodigio Max,6
+shoes_10,running_shoes,gemini,3,adidas,(mentioned: adidas),1
+shoes_10,running_shoes,gemini,3,hoka,(mentioned: hoka),2
+shoes_10,running_shoes,gemini,3,brooks,(mentioned: brooks),3
+shoes_10,running_shoes,gemini,3,nike,(mentioned: nike),4
+shoes_10,running_shoes,gemini,3,saucony,(mentioned: saucony),5
+shoes_10,running_shoes,gemini,3,salomon,(mentioned: salomon),6
+shoes_10,running_shoes,gemini,3,altra,(mentioned: altra),7
+shoes_10,running_shoes,perplexity,1,hoka,Hoka Speedgoat 7,1
+shoes_10,running_shoes,perplexity,1,saucony,Saucony Xodus Ultra 4,2
+shoes_10,running_shoes,perplexity,1,nike,Nike ACG Pegasus Trail 4,3
+shoes_10,running_shoes,perplexity,1,altra,Altra Lone Peak 8,4
+shoes_10,running_shoes,perplexity,2,hoka,Hoka Speedgoat 7,1
+shoes_10,running_shoes,perplexity,2,saucony,Saucony Xodus Ultra 4,2
+shoes_10,running_shoes,perplexity,2,salomon,Salomon S/Lab Pulsar 4,3
+shoes_10,running_shoes,perplexity,2,la sportiva,La Sportiva Prodigio Pro,4
+shoes_10,running_shoes,perplexity,3,hoka,Hoka Speedgoat 7,1
+shoes_10,running_shoes,perplexity,3,saucony,Saucony Xodus Ultra 4,2
+shoes_10,running_shoes,perplexity,3,nike,Nike ACG Pegasus Trail,3
+shoes_10,running_shoes,perplexity,3,altra,Altra Lone Peak 8,4
+shoes_10,running_shoes,claude,1,hoka,Hoka Speedgoat 7,1
+shoes_10,running_shoes,claude,1,brooks,Brooks Cascadia 19 GTX,2
+shoes_10,running_shoes,claude,1,saucony,Saucony Xodus Ultra 4,3
+shoes_10,running_shoes,claude,1,la sportiva,La Sportiva Prodigio Pro,4
+shoes_10,running_shoes,claude,1,asics,ASICS Trabuco Max 4,5
+shoes_10,running_shoes,claude,2,la sportiva,(mentioned: la sportiva),1
+shoes_10,running_shoes,claude,2,hoka,(mentioned: hoka),2
+shoes_10,running_shoes,claude,2,brooks,(mentioned: brooks),3
+shoes_10,running_shoes,claude,2,saucony,(mentioned: saucony),4
+shoes_10,running_shoes,claude,3,la sportiva,La Sportiva Prodigio Pro – $225,1
+shoes_10,running_shoes,claude,3,hoka,Hoka Tecton X 3 – $275,2
+shoes_10,running_shoes,claude,3,salomon,Salomon S/Lab Ultra Glide Trail – $249.95,3
+shoes_10,running_shoes,claude,3,adidas,Adidas Terrex Agravic Speed Ultra – ~$200,4
+shoes_10,running_shoes,claude,3,new balance,New Balance Fresh Foam X Hierro V9 – $154.99,5
+shoes_10,running_shoes,claude,3,saucony,Saucony Xodus Ultra 4,6
+shoes_10,running_shoes,deepseek,1,hoka,Hoka Speedgoat 5,1
+shoes_10,running_shoes,deepseek,1,salomon,Salomon S/Lab Ultra 3,2
+shoes_10,running_shoes,deepseek,1,la sportiva,La Sportiva Akasha II,3
+shoes_10,running_shoes,deepseek,1,nike,Nike Ultrafly,4
+shoes_10,running_shoes,deepseek,2,la sportiva,(mentioned: la sportiva),1
+shoes_10,running_shoes,deepseek,2,hoka,(mentioned: hoka),2
+shoes_10,running_shoes,deepseek,2,brooks,(mentioned: brooks),3
+shoes_10,running_shoes,deepseek,2,nothing,(mentioned: nothing),4
+shoes_10,running_shoes,deepseek,2,merrell,(mentioned: merrell),5
+shoes_10,running_shoes,deepseek,2,salomon,(mentioned: salomon),6
+shoes_10,running_shoes,deepseek,3,hoka,Hoka Speedgoat 5,1
+shoes_10,running_shoes,deepseek,3,salomon,Salomon S/LAB Ultra 3,2
+shoes_10,running_shoes,deepseek,3,la sportiva,La Sportiva Akasha II,3
+shoes_10,running_shoes,deepseek,3,brooks,Brooks Cascadia 17,4
+shoes_10,running_shoes,deepseek,3,nike,Nike Ultrafly,5
+shoes_11,running_shoes,chatgpt,1,asics,ASICS GEL,1
+shoes_11,running_shoes,chatgpt,1,brooks,Brooks Adrenaline GTS 24,2
+shoes_11,running_shoes,chatgpt,1,hoka,HOKA Gaviota 5,3
+shoes_11,running_shoes,chatgpt,2,brooks,Brooks Glycerin GTS 22,1
+shoes_11,running_shoes,chatgpt,2,asics,ASICS Gel,2
+shoes_11,running_shoes,chatgpt,2,new balance,New Balance Fresh Foam X 860 v14,3
+shoes_11,running_shoes,chatgpt,3,brooks,Brooks Adrenaline GTS 25,1
+shoes_11,running_shoes,chatgpt,3,asics,ASICS Gel,2
+shoes_11,running_shoes,chatgpt,3,hoka,HOKA Arahi 8,3
+shoes_11,running_shoes,gemini,1,hoka,Hoka Bondi 9,1
+shoes_11,running_shoes,gemini,1,asics,ASICS Gel,2
+shoes_11,running_shoes,gemini,1,brooks,Brooks Glycerin Max,3
+shoes_11,running_shoes,gemini,1,saucony,Saucony Ride 18,4
+shoes_11,running_shoes,gemini,2,hoka,Hoka Bondi 9,1
+shoes_11,running_shoes,gemini,2,asics,ASICS Gel,2
+shoes_11,running_shoes,gemini,2,brooks,Brooks Glycerin Max,3
+shoes_11,running_shoes,gemini,2,saucony,Saucony Ride 18,4
+shoes_11,running_shoes,gemini,3,new balance,(mentioned: new balance),1
+shoes_11,running_shoes,gemini,3,hoka,(mentioned: hoka),2
+shoes_11,running_shoes,gemini,3,brooks,(mentioned: brooks),3
+shoes_11,running_shoes,gemini,3,nike,(mentioned: nike),4
+shoes_11,running_shoes,gemini,3,saucony,(mentioned: saucony),5
+shoes_11,running_shoes,gemini,3,asics,(mentioned: asics),6
+shoes_11,running_shoes,perplexity,1,brooks,Brooks Glycerin Max,1
+shoes_11,running_shoes,perplexity,1,hoka,Hoka Bondi 9,2
+shoes_11,running_shoes,perplexity,1,saucony,Saucony Triumph 23,3
+shoes_11,running_shoes,perplexity,1,asics,ASICS Gel,4
+shoes_11,running_shoes,perplexity,1,new balance,New Balance Fresh Foam More v6,5
+shoes_11,running_shoes,perplexity,2,brooks,Brooks Glycerin Max,1
+shoes_11,running_shoes,perplexity,2,hoka,Hoka Bondi 9,2
+shoes_11,running_shoes,perplexity,2,saucony,Saucony Triumph 23,3
+shoes_11,running_shoes,perplexity,2,asics,ASICS Gel,4
+shoes_11,running_shoes,perplexity,2,topo athletic,Topo Athletic Atmos,5
+shoes_11,running_shoes,perplexity,3,brooks,Brooks Glycerin Max,1
+shoes_11,running_shoes,perplexity,3,hoka,Hoka Bondi 9,2
+shoes_11,running_shoes,perplexity,3,saucony,Saucony Triumph 23,3
+shoes_11,running_shoes,perplexity,3,asics,ASICS Gel Kayano 32,4
+shoes_11,running_shoes,claude,1,hoka,Hoka Bondi 9,1
+shoes_11,running_shoes,claude,1,saucony,Saucony Triumph 23,2
+shoes_11,running_shoes,claude,1,brooks,Brooks Glycerin Max 2,3
+shoes_11,running_shoes,claude,1,asics,ASICS Gel,4
+shoes_11,running_shoes,claude,2,hoka,Hoka Bondi 9,1
+shoes_11,running_shoes,claude,2,asics,ASICS Gel Kayano 32,2
+shoes_11,running_shoes,claude,2,brooks,Brooks Glycerin Max,3
+shoes_11,running_shoes,claude,2,saucony,Saucony Triumph 23,4
+shoes_11,running_shoes,claude,3,saucony,Saucony Triumph 23,1
+shoes_11,running_shoes,claude,3,asics,ASICS Gel,2
+shoes_11,running_shoes,claude,3,hoka,Hoka Bondi 9,3
+shoes_11,running_shoes,claude,3,brooks,Brooks Glycerin Max 2,4
+shoes_11,running_shoes,deepseek,1,new balance,(mentioned: new balance),1
+shoes_11,running_shoes,deepseek,1,hoka,(mentioned: hoka),2
+shoes_11,running_shoes,deepseek,1,brooks,(mentioned: brooks),3
+shoes_11,running_shoes,deepseek,1,nike,(mentioned: nike),4
+shoes_11,running_shoes,deepseek,1,on running,(mentioned: on cloud),5
+shoes_11,running_shoes,deepseek,1,saucony,(mentioned: saucony),6
+shoes_11,running_shoes,deepseek,1,asics,(mentioned: asics),7
+shoes_11,running_shoes,deepseek,2,brooks,Brooks Glycerin GTS 21,1
+shoes_11,running_shoes,deepseek,2,asics,ASICS Kayano 30,2
+shoes_11,running_shoes,deepseek,2,hoka,Hoka Gaviota 5,3
+shoes_11,running_shoes,deepseek,2,saucony,Saucony Hurricane 23,4
+shoes_11,running_shoes,deepseek,2,new balance,New Balance Fresh Foam X 860v14,5
+shoes_11,running_shoes,deepseek,3,asics,ASICS Gel,1
+shoes_11,running_shoes,deepseek,3,brooks,Brooks Glycerin 21,2
+shoes_11,running_shoes,deepseek,3,new balance,New Balance Fresh Foam X 1080v14,3
+shoes_11,running_shoes,deepseek,3,hoka,Hoka Bondi 8,4
+shoes_11,running_shoes,deepseek,3,saucony,Saucony Triumph 22,5
+shoes_12,running_shoes,chatgpt,1,asics,ASICS GEL,1
+shoes_12,running_shoes,chatgpt,2,brooks,Brooks Glycerin 23 Wide / Extra Wide,1
+shoes_12,running_shoes,chatgpt,2,asics,ASICS GEL,2
+shoes_12,running_shoes,chatgpt,2,nike,Nike Structure 26 Women’s Road Running Shoes,3
+shoes_12,running_shoes,chatgpt,2,saucony,Saucony women’s wide running shoes,4
+shoes_12,running_shoes,chatgpt,3,asics,ASICS GEL,1
+shoes_12,running_shoes,chatgpt,3,brooks,Brooks Ghost Max 3,2
+shoes_12,running_shoes,gemini,1,brooks,Brooks Ghost 17,1
+shoes_12,running_shoes,gemini,1,new balance,New Balance Fresh Foam X 860v13,2
+shoes_12,running_shoes,gemini,1,hoka,Hoka Clifton 9,3
+shoes_12,running_shoes,gemini,1,saucony,Saucony Guide 16,4
+shoes_12,running_shoes,gemini,1,altra,Altra Paradigm 7,5
+shoes_12,running_shoes,gemini,2,brooks,Brooks Glycerin 23,1
+shoes_12,running_shoes,gemini,2,topo athletic,Topo Athletic Atmos,2
+shoes_12,running_shoes,gemini,2,asics,ASICS Novablast 5,3
+shoes_12,running_shoes,gemini,2,new balance,New Balance Fresh Foam 1080,4
+shoes_12,running_shoes,gemini,2,hoka,Hoka Clifton 10,5
+shoes_12,running_shoes,gemini,2,saucony,Saucony Kinvara Pro,6
+shoes_12,running_shoes,gemini,3,brooks,Brooks Ghost 17,1
+shoes_12,running_shoes,gemini,3,hoka,Hoka Clifton 9 or 10,2
+shoes_12,running_shoes,gemini,3,saucony,Saucony Guide 19,3
+shoes_12,running_shoes,gemini,3,asics,ASICS Novablast 5,4
+shoes_12,running_shoes,gemini,3,new balance,New Balance Fresh Foam X 860v13 or v14,5
+shoes_12,running_shoes,perplexity,1,asics,Asics Novablast 5,1
+shoes_12,running_shoes,perplexity,1,altra,Altra Torin 8,2
+shoes_12,running_shoes,perplexity,1,brooks,Brooks Glycerin 23,3
+shoes_12,running_shoes,perplexity,1,topo athletic,Topo Athletic Atmos,4
+shoes_12,running_shoes,perplexity,1,new balance,New Balance Fresh Foam X 1080v14,5
+shoes_12,running_shoes,perplexity,2,asics,Asics Novablast 5,1
+shoes_12,running_shoes,perplexity,2,brooks,Brooks Glycerin 23,2
+shoes_12,running_shoes,perplexity,2,new balance,New Balance Fresh Foam 1080v11,3
+shoes_12,running_shoes,perplexity,2,altra,Altra Torin 8,4
+shoes_12,running_shoes,perplexity,2,saucony,Saucony Guide 19,5
+shoes_12,running_shoes,perplexity,2,topo athletic,Topo Athletic Atmos,6
+shoes_12,running_shoes,perplexity,2,on running,On Cloudrunner 2,7
+shoes_12,running_shoes,perplexity,3,altra,Altra Torin 8,1
+shoes_12,running_shoes,perplexity,3,topo athletic,Topo Athletic Atmos,2
+shoes_12,running_shoes,perplexity,3,asics,Asics Novablast 5,3
+shoes_12,running_shoes,perplexity,3,brooks,Brooks Glycerin 23,4
+shoes_12,running_shoes,perplexity,3,saucony,Saucony Guide 19,5
+shoes_12,running_shoes,claude,1,new balance,(mentioned: new balance),1
+shoes_12,running_shoes,claude,1,hoka,(mentioned: hoka),2
+shoes_12,running_shoes,claude,1,brooks,(mentioned: brooks),3
+shoes_12,running_shoes,claude,1,on running,(mentioned: on cloud),4
+shoes_12,running_shoes,claude,1,saucony,(mentioned: saucony),5
+shoes_12,running_shoes,claude,2,new balance,New Balance 1080v15,1
+shoes_12,running_shoes,claude,2,hoka,HOKA Clifton 10,2
+shoes_12,running_shoes,claude,2,brooks,Brooks Ghost 17,3
+shoes_12,running_shoes,claude,2,on running,On Cloudmonster 2,4
+shoes_12,running_shoes,claude,2,saucony,Saucony Omni 21,5
+shoes_12,running_shoes,claude,3,hoka,HOKA Clifton 10,1
+shoes_12,running_shoes,claude,3,new balance,New Balance 1080v15,2
+shoes_12,running_shoes,claude,3,brooks,Brooks Ghost 17,3
+shoes_12,running_shoes,claude,3,on running,On Cloudmonster 2,4
+shoes_12,running_shoes,claude,3,saucony,Saucony Omni 21,5
+shoes_12,running_shoes,deepseek,1,new balance,(mentioned: new balance),1
+shoes_12,running_shoes,deepseek,1,hoka,(mentioned: hoka),2
+shoes_12,running_shoes,deepseek,1,brooks,(mentioned: brooks),3
+shoes_12,running_shoes,deepseek,1,saucony,(mentioned: saucony),4
+shoes_12,running_shoes,deepseek,1,asics,(mentioned: asics),5
+shoes_12,running_shoes,deepseek,2,new balance,New Balance Fresh Foam X 1080 v13,1
+shoes_12,running_shoes,deepseek,2,brooks,Brooks Ghost 15,2
+shoes_12,running_shoes,deepseek,2,hoka,Hoka Clifton 9,3
+shoes_12,running_shoes,deepseek,2,asics,ASICS Gel,4
+shoes_12,running_shoes,deepseek,2,saucony,Saucony Triumph 21,5
+shoes_12,running_shoes,deepseek,2,nike,Nike Pegasus 40,6
+shoes_12,running_shoes,deepseek,3,new balance,(mentioned: new balance),1
+shoes_12,running_shoes,deepseek,3,hoka,(mentioned: hoka),2
+shoes_12,running_shoes,deepseek,3,brooks,(mentioned: brooks),3
+shoes_12,running_shoes,deepseek,3,nike,(mentioned: nike),4
+shoes_12,running_shoes,deepseek,3,saucony,(mentioned: saucony),5
+shoes_12,running_shoes,deepseek,3,asics,(mentioned: asics),6
+shoes_12,running_shoes,deepseek,3,altra,(mentioned: altra),7
+shoes_12,running_shoes,deepseek,3,on running,(mentioned: on running),8
+shoes_13,running_shoes,chatgpt,1,brooks,Brooks Ghost 17,1
+shoes_13,running_shoes,chatgpt,1,asics,ASICS Gel,2
+shoes_13,running_shoes,chatgpt,1,hoka,Hoka Clifton 10,3
+shoes_13,running_shoes,chatgpt,1,nike,Nike Vomero Plus,4
+shoes_13,running_shoes,chatgpt,2,brooks,Brooks Ghost 17,1
+shoes_13,running_shoes,chatgpt,2,new balance,New Balance Fresh Foam X 1080 v14,2
+shoes_13,running_shoes,chatgpt,2,asics,ASICS Trabuco 14,3
+shoes_13,running_shoes,chatgpt,3,brooks,Brooks Ghost 17,1
+shoes_13,running_shoes,chatgpt,3,asics,ASICS GEL,2
+shoes_13,running_shoes,gemini,1,hoka,(mentioned: hoka),1
+shoes_13,running_shoes,gemini,1,brooks,(mentioned: brooks),2
+shoes_13,running_shoes,gemini,1,nike,(mentioned: nike),3
+shoes_13,running_shoes,gemini,1,saucony,(mentioned: saucony),4
+shoes_13,running_shoes,gemini,1,asics,(mentioned: asics),5
+shoes_13,running_shoes,gemini,2,hoka,(mentioned: hoka),1
+shoes_13,running_shoes,gemini,2,brooks,(mentioned: brooks),2
+shoes_13,running_shoes,gemini,2,saucony,(mentioned: saucony),3
+shoes_13,running_shoes,gemini,3,new balance,(mentioned: new balance),1
+shoes_13,running_shoes,gemini,3,hoka,(mentioned: hoka),2
+shoes_13,running_shoes,gemini,3,brooks,(mentioned: brooks),3
+shoes_13,running_shoes,gemini,3,asics,(mentioned: asics),4
+shoes_13,running_shoes,perplexity,1,brooks,Brooks Ghost 17,1
+shoes_13,running_shoes,perplexity,1,adidas,Adidas Adizero Evo SL,2
+shoes_13,running_shoes,perplexity,1,new balance,New Balance Ellipse v1,3
+shoes_13,running_shoes,perplexity,1,nike,Nike Vomero Plus,4
+shoes_13,running_shoes,perplexity,1,asics,ASICS Gel Kayano 32,5
+shoes_13,running_shoes,perplexity,2,brooks,Brooks Ghost 17,1
+shoes_13,running_shoes,perplexity,2,adidas,Adidas Adizero Evo SL,2
+shoes_13,running_shoes,perplexity,2,asics,Asics Novablast 5,3
+shoes_13,running_shoes,perplexity,2,nike,Nike Pegasus 41,4
+shoes_13,running_shoes,perplexity,2,new balance,New Balance Fresh Foam X 1080 v14,5
+shoes_13,running_shoes,perplexity,3,brooks,Brooks Ghost 17,1
+shoes_13,running_shoes,perplexity,3,adidas,Adidas Adizero Evo SL,2
+shoes_13,running_shoes,perplexity,3,asics,Asics Novablast 5,3
+shoes_13,running_shoes,perplexity,3,new balance,New Balance Ellipse v1,4
+shoes_13,running_shoes,perplexity,3,nike,Nike Vomero Plus,5
+shoes_13,running_shoes,claude,1,adidas,Any brand preferences?,1
+shoes_13,running_shoes,claude,3,new balance,Any brand preferences?,1
+shoes_13,running_shoes,deepseek,1,asics,Most recommended,1
+shoes_13,running_shoes,deepseek,1,saucony,Great value – Saucony Ride 17,2
+shoes_13,running_shoes,deepseek,1,new balance,Budget pick – New Balance Fresh Foam X 880v14,3
+shoes_13,running_shoes,deepseek,2,hoka,(mentioned: hoka),1
+shoes_13,running_shoes,deepseek,2,nike,(mentioned: nike),2
+shoes_13,running_shoes,deepseek,2,saucony,(mentioned: saucony),3
+shoes_13,running_shoes,deepseek,2,asics,(mentioned: asics),4
+shoes_13,running_shoes,deepseek,3,nike,Best All,1
+shoes_13,running_shoes,deepseek,3,hoka,Best Cushioning for Long Runs: Hoka Clifton 9,2
+shoes_13,running_shoes,deepseek,3,saucony,Best for Speed / Tempo Runs: Saucony Endorphin Speed 4,3
+shoes_13,running_shoes,deepseek,3,asics,Best Budget Pick: ASICS Gel,4
+shoes_13,running_shoes,deepseek,3,brooks,Best for Stability / Overpronation: Brooks Adrenaline GTS 23,5
+shoes_14,running_shoes,chatgpt,1,adidas,Adidas Adizero Evo SL,1
+shoes_14,running_shoes,chatgpt,1,brooks,Brooks Ghost 17,2
+shoes_14,running_shoes,chatgpt,1,asics,ASICS Novablast 5,3
+shoes_14,running_shoes,chatgpt,1,hoka,Hoka Clifton 10,4
+shoes_14,running_shoes,chatgpt,1,saucony,Saucony Endorphin Speed 5,5
+shoes_14,running_shoes,chatgpt,1,nike,Nike Vaporfly 4,6
+shoes_14,running_shoes,chatgpt,2,adidas,Adidas Adizero Evo SL,1
+shoes_14,running_shoes,chatgpt,2,brooks,Brooks Ghost 17,2
+shoes_14,running_shoes,chatgpt,2,hoka,Hoka Clifton 10,3
+shoes_14,running_shoes,chatgpt,2,asics,ASICS Novablast 5,4
+shoes_14,running_shoes,chatgpt,2,nike,Nike Vomero Plus,5
+shoes_14,running_shoes,chatgpt,3,brooks,Brooks Ghost 17,1
+shoes_14,running_shoes,chatgpt,3,asics,ASICS Novablast 5,2
+shoes_14,running_shoes,chatgpt,3,hoka,Hoka Clifton 10,3
+shoes_14,running_shoes,chatgpt,3,saucony,Saucony Guide 19,4
+shoes_14,running_shoes,gemini,1,adidas,(mentioned: adidas),1
+shoes_14,running_shoes,gemini,1,new balance,(mentioned: new balance),2
+shoes_14,running_shoes,gemini,1,hoka,(mentioned: hoka),3
+shoes_14,running_shoes,gemini,1,nike,(mentioned: nike),4
+shoes_14,running_shoes,gemini,1,asics,(mentioned: asics),5
+shoes_14,running_shoes,gemini,1,puma,(mentioned: puma),6
+shoes_14,running_shoes,gemini,2,asics,ASICS Novablast 5,1
+shoes_14,running_shoes,gemini,2,saucony,Saucony Endorphin Speed 5,2
+shoes_14,running_shoes,gemini,2,new balance,New Balance Fresh Foam X 1080v14,3
+shoes_14,running_shoes,gemini,2,adidas,Adidas Adizero EVO SL,4
+shoes_14,running_shoes,gemini,2,nike,Nike Pegasus 41,5
+shoes_14,running_shoes,gemini,3,new balance,(mentioned: new balance),1
+shoes_14,running_shoes,gemini,3,hoka,(mentioned: hoka),2
+shoes_14,running_shoes,gemini,3,brooks,(mentioned: brooks),3
+shoes_14,running_shoes,gemini,3,nike,(mentioned: nike),4
+shoes_14,running_shoes,gemini,3,saucony,(mentioned: saucony),5
+shoes_14,running_shoes,gemini,3,asics,(mentioned: asics),6
+shoes_14,running_shoes,perplexity,1,adidas,Adidas Adizero Evo SL,1
+shoes_14,running_shoes,perplexity,1,asics,Asics Novablast 5,2
+shoes_14,running_shoes,perplexity,1,brooks,Brooks Ghost 17,3
+shoes_14,running_shoes,perplexity,1,nike,Nike Vomero Plus,4
+shoes_14,running_shoes,perplexity,2,adidas,(mentioned: adidas),1
+shoes_14,running_shoes,perplexity,2,brooks,(mentioned: brooks),2
+shoes_14,running_shoes,perplexity,2,nike,(mentioned: nike),3
+shoes_14,running_shoes,perplexity,2,saucony,(mentioned: saucony),4
+shoes_14,running_shoes,perplexity,2,asics,(mentioned: asics),5
+shoes_14,running_shoes,perplexity,3,adidas,(mentioned: adidas),1
+shoes_14,running_shoes,perplexity,3,new balance,(mentioned: new balance),2
+shoes_14,running_shoes,perplexity,3,brooks,(mentioned: brooks),3
+shoes_14,running_shoes,perplexity,3,nike,(mentioned: nike),4
+shoes_14,running_shoes,perplexity,3,asics,(mentioned: asics),5
+shoes_14,running_shoes,claude,1,mizuno,(mentioned: mizuno),1
+shoes_14,running_shoes,claude,1,adidas,(mentioned: adidas),2
+shoes_14,running_shoes,claude,1,nike,(mentioned: nike),3
+shoes_14,running_shoes,claude,1,saucony,(mentioned: saucony),4
+shoes_14,running_shoes,claude,1,asics,(mentioned: asics),5
+shoes_14,running_shoes,claude,3,new balance,Any brand preferences?,1
+shoes_14,running_shoes,deepseek,1,saucony,Saucony Ride 17,1
+shoes_14,running_shoes,deepseek,1,asics,ASICS Gel,2
+shoes_14,running_shoes,deepseek,1,brooks,Brooks Ghost 16,3
+shoes_14,running_shoes,deepseek,1,nike,Nike Vomero 17,4
+shoes_14,running_shoes,deepseek,1,hoka,Hoka Clifton 9,5
+shoes_14,running_shoes,deepseek,2,nike,Nike Air Zoom Pegasus 41,1
+shoes_14,running_shoes,deepseek,2,brooks,Brooks Ghost 16,2
+shoes_14,running_shoes,deepseek,2,hoka,Hoka Clifton 9,3
+shoes_14,running_shoes,deepseek,3,hoka,(mentioned: hoka),1
+shoes_14,running_shoes,deepseek,3,brooks,(mentioned: brooks),2
+shoes_14,running_shoes,deepseek,3,nike,(mentioned: nike),3
+shoes_14,running_shoes,deepseek,3,saucony,(mentioned: saucony),4
+shoes_15,running_shoes,chatgpt,1,adidas,Adidas Adizero Evo SL,1
+shoes_15,running_shoes,chatgpt,1,brooks,Brooks Ghost 17,2
+shoes_15,running_shoes,chatgpt,1,nike,Nike Vomero Plus,3
+shoes_15,running_shoes,chatgpt,1,new balance,New Balance Ellipse v1,4
+shoes_15,running_shoes,chatgpt,2,brooks,Brooks Ghost 16,1
+shoes_15,running_shoes,chatgpt,2,asics,ASICS GEL,2
+shoes_15,running_shoes,chatgpt,2,nike,Nike Structure 26,3
+shoes_15,running_shoes,chatgpt,3,brooks,Brooks Ghost 16,1
+shoes_15,running_shoes,chatgpt,3,asics,ASICS GEL,2
+shoes_15,running_shoes,chatgpt,3,hoka,Hoka Clifton 10,3
+shoes_15,running_shoes,chatgpt,3,saucony,Saucony Ride 18,4
+shoes_15,running_shoes,chatgpt,3,nike,Nike Pegasus 41,5
+shoes_15,running_shoes,gemini,1,asics,ASICS Novablast 5,1
+shoes_15,running_shoes,gemini,1,new balance,New Balance FuelCell Rebel v4,2
+shoes_15,running_shoes,gemini,1,hoka,Hoka Mach 6,3
+shoes_15,running_shoes,gemini,1,saucony,Saucony Guide 17,4
+shoes_15,running_shoes,gemini,1,brooks,Brooks Adrenaline GTS 23,5
+shoes_15,running_shoes,gemini,1,adidas,Adidas Terrex Agravic Speed Ultra,6
+shoes_15,running_shoes,gemini,2,asics,ASICS Novablast 5,1
+shoes_15,running_shoes,gemini,2,hoka,Hoka Bondi 9,2
+shoes_15,running_shoes,gemini,2,saucony,Saucony Endorphin Speed 5,3
+shoes_15,running_shoes,gemini,3,hoka,(mentioned: hoka),1
+shoes_15,running_shoes,gemini,3,brooks,(mentioned: brooks),2
+shoes_15,running_shoes,gemini,3,nike,(mentioned: nike),3
+shoes_15,running_shoes,gemini,3,saucony,(mentioned: saucony),4
+shoes_15,running_shoes,gemini,3,asics,(mentioned: asics),5
+shoes_15,running_shoes,perplexity,1,brooks,Brooks Ghost 17,1
+shoes_15,running_shoes,perplexity,1,adidas,Adidas Adizero Evo SL,2
+shoes_15,running_shoes,perplexity,1,asics,Asics Novablast 5,3
+shoes_15,running_shoes,perplexity,1,puma,Puma Velocity Nitro 4,4
+shoes_15,running_shoes,perplexity,1,saucony,Saucony Ride 18,5
+shoes_15,running_shoes,perplexity,2,brooks,Brooks Ghost 17,1
+shoes_15,running_shoes,perplexity,2,adidas,Adidas Adizero Evo SL,2
+shoes_15,running_shoes,perplexity,2,asics,ASICS Megablast,3
+shoes_15,running_shoes,perplexity,2,puma,Puma Velocity Nitro 4,4
+shoes_15,running_shoes,perplexity,2,saucony,Saucony Endorphin Speed 5,5
+shoes_15,running_shoes,perplexity,3,brooks,Brooks Ghost 17,1
+shoes_15,running_shoes,perplexity,3,adidas,Adidas Adizero Evo SL,2
+shoes_15,running_shoes,perplexity,3,asics,ASICS Megablast,3
+shoes_15,running_shoes,perplexity,3,puma,Puma Velocity Nitro 4,4
+shoes_15,running_shoes,perplexity,3,saucony,Saucony Endorphin Speed 5,5
+shoes_15,running_shoes,claude,2,new balance,Any preference for brand?,1
+shoes_15,running_shoes,claude,3,adidas,Any brand preferences?,1
+shoes_15,running_shoes,deepseek,1,saucony,Saucony Triumph 22,1
+shoes_15,running_shoes,deepseek,1,asics,ASICS Novablast 4,2
+shoes_15,running_shoes,deepseek,1,brooks,Brooks Ghost 16,3
+shoes_15,running_shoes,deepseek,1,nike,Nike Pegasus Plus,4
+shoes_15,running_shoes,deepseek,1,hoka,Hoka Clifton 9,5
+shoes_15,running_shoes,deepseek,1,new balance,New Balance Fresh Foam X 1080v13,6
+shoes_15,running_shoes,deepseek,2,saucony,Saucony Endorphin Speed 4,1
+shoes_15,running_shoes,deepseek,2,asics,ASICS Gel,2
+shoes_15,running_shoes,deepseek,2,nike,Nike Vomero 17,3
+shoes_15,running_shoes,deepseek,2,brooks,Brooks Ghost 16,4
+shoes_15,running_shoes,deepseek,2,hoka,HOKA Clifton 9,5
+shoes_15,running_shoes,deepseek,3,hoka,Hoka Clifton 9,1
+shoes_15,running_shoes,deepseek,3,asics,ASICS Gel,2
+shoes_15,running_shoes,deepseek,3,saucony,Saucony Endorphin Speed 3,3
+skin_01,skincare,chatgpt,1,neutrogena,Neutrogena Hydro Boost Water Gel / Gel,1
+skin_01,skincare,chatgpt,1,cerave,CeraVe PM Facial Moisturizing Lotion,2
+skin_01,skincare,chatgpt,1,la roche-posay,La Roche,3
+skin_01,skincare,chatgpt,2,cerave,CeraVe Oil Control Moisturizing Gel,1
+skin_01,skincare,chatgpt,2,neutrogena,Neutrogena Hydro Boost Water Gel / Gel,2
+skin_01,skincare,chatgpt,2,la roche-posay,La Roche,3
+skin_01,skincare,chatgpt,3,neutrogena,Neutrogena Hydro Boost Gel,1
+skin_01,skincare,chatgpt,3,cerave,CeraVe PM Facial Moisturizing Lotion,2
+skin_01,skincare,gemini,1,cerave,CeraVe Oil Control Moisturizing Gel,1
+skin_01,skincare,gemini,1,neutrogena,Neutrogena Hydro Boost Water Gel,2
+skin_01,skincare,gemini,1,aveeno,Aveeno Calm + Restore Oat Gel Moisturizer,3
+skin_01,skincare,gemini,1,cetaphil,Cetaphil Oil Absorbing Moisturizer SPF 30,4
+skin_01,skincare,gemini,2,niacinamide,The INKEY List Omega Water Cream Oil,1
+skin_01,skincare,gemini,2,versed,Versed Dew Point Moisturizing Gel,2
+skin_01,skincare,gemini,2,cerave,CeraVe Daily Moisturizing Lotion,3
+skin_01,skincare,gemini,2,neutrogena,Neutrogena Hydro Boost Hyaluronic Acid Face Gel,4
+skin_01,skincare,gemini,2,differin,Differin Oil Absorbing Moisturizer With Sunscreen,5
+skin_01,skincare,gemini,3,neutrogena,Neutrogena Hydro Boost Water Gel/Gel,1
+skin_01,skincare,gemini,3,cetaphil,Cetaphil Oil Absorbing Moisturizer SPF 30,2
+skin_01,skincare,gemini,3,cerave,CeraVe PM Facial Moisturizing Lotion,3
+skin_01,skincare,gemini,3,aveeno,Aveeno Calm + Restore Oat Gel Moisturizer,4
+skin_01,skincare,gemini,3,versed,Versed Dew Point Moisturizing Gel,5
+skin_01,skincare,perplexity,1,cetaphil,Cetaphil Oil Absorbing Moisturizer,1
+skin_01,skincare,perplexity,1,la roche-posay,La Roche,2
+skin_01,skincare,perplexity,1,neutrogena,Neutrogena Hydro Boost Gel,3
+skin_01,skincare,perplexity,1,cerave,CeraVe PM Facial Moisturizing Lotion,4
+skin_01,skincare,perplexity,1,good molecules,Good Molecules Lightweight Daily Moisturizer,5
+skin_01,skincare,perplexity,2,cerave,(mentioned: cerave),1
+skin_01,skincare,perplexity,2,la roche-posay,(mentioned: la roche-posay),2
+skin_01,skincare,perplexity,2,cetaphil,(mentioned: cetaphil),3
+skin_01,skincare,perplexity,2,neutrogena,(mentioned: neutrogena),4
+skin_01,skincare,perplexity,2,good molecules,(mentioned: good molecules),5
+skin_01,skincare,perplexity,3,cetaphil,Cetaphil Oil Absorbing Moisturizer,1
+skin_01,skincare,perplexity,3,la roche-posay,La Roche,2
+skin_01,skincare,perplexity,3,neutrogena,Neutrogena Hydro Boost Gel,3
+skin_01,skincare,perplexity,3,cerave,CeraVe Skin Renewing Night Cream,4
+skin_01,skincare,claude,1,neutrogena,Neutrogena Hydro Boost Water Gel – ~$8,1
+skin_01,skincare,claude,1,cerave,CeraVe Mattifying Lotion with 0.5% Salicylic Acid – ~$15,2
+skin_01,skincare,claude,2,cerave,(mentioned: cerave),1
+skin_01,skincare,claude,2,neutrogena,(mentioned: neutrogena),2
+skin_01,skincare,claude,3,cerave,(mentioned: cerave),1
+skin_01,skincare,claude,3,neutrogena,(mentioned: neutrogena),2
+skin_01,skincare,deepseek,1,cerave,CeraVe AM Facial Moisturizing Lotion with SPF 30,1
+skin_01,skincare,deepseek,1,neutrogena,Neutrogena Hydro Boost Water Gel,2
+skin_01,skincare,deepseek,1,the ordinary,The Ordinary Natural Moisturizing Factors + HA,3
+skin_01,skincare,deepseek,1,cetaphil,Cetaphil Daily Oil,4
+skin_01,skincare,deepseek,1,la roche-posay,La Roche,5
+skin_01,skincare,deepseek,2,la roche-posay,La Roche,1
+skin_01,skincare,deepseek,2,cerave,CeraVe PM Facial Moisturizing Lotion** – Approx. $13–$15. This non,2
+skin_01,skincare,deepseek,2,neutrogena,Neutrogena Oil,3
+skin_01,skincare,deepseek,2,the ordinary,"The Ordinary Natural Moisturizing Factors + HA** – Approx. $6–$9. This is a very basic, no",4
+skin_01,skincare,deepseek,3,cerave,CeraVe PM Facial Moisturizing Lotion,1
+skin_01,skincare,deepseek,3,neutrogena,Neutrogena Hydro Boost Water Gel,2
+skin_01,skincare,deepseek,3,la roche-posay,La Roche,3
+skin_02,skincare,chatgpt,1,neutrogena,Neutrogena Ultra Sheer Dry,1
+skin_02,skincare,chatgpt,1,la roche-posay,La Roche,2
+skin_02,skincare,chatgpt,2,eucerin,Eucerin Daily Protection Face Lotion SPF 30,1
+skin_02,skincare,chatgpt,2,cerave,CeraVe AM Facial Moisturizing Lotion SPF 30,2
+skin_02,skincare,chatgpt,2,la roche-posay,La Roche,3
+skin_02,skincare,chatgpt,3,olay,Olay Complete+ Daily Facial Moisturizer with Sunscreen SPF 40,1
+skin_02,skincare,chatgpt,3,neutrogena,Neutrogena Ultra Sheer Dry,2
+skin_02,skincare,chatgpt,3,la roche-posay,La Roche,3
+skin_02,skincare,chatgpt,3,cerave,CeraVe AM Facial Moisturizing Lotion SPF 30,4
+skin_02,skincare,gemini,1,cerave,CeraVe AM Facial Moisturizing Lotion with Sunscreen SPF 30,1
+skin_02,skincare,gemini,1,cetaphil,Cetaphil Daily Face Moisturizer Sunscreen SPF 50+,2
+skin_02,skincare,gemini,1,neutrogena,Neutrogena Invisible Daily Defense SPF 60,3
+skin_02,skincare,gemini,1,eucerin,Eucerin Daily Protection Face Lotion SPF 30,4
+skin_02,skincare,gemini,2,cerave,CeraVe AM Facial Moisturizing Lotion with Sunscreen SPF 30,1
+skin_02,skincare,gemini,2,cetaphil,Cetaphil Daily Facial Moisturizer Sunscreen SPF 50+,2
+skin_02,skincare,gemini,2,eucerin,Eucerin Daily Protection Face Lotion SPF 30,3
+skin_02,skincare,gemini,2,neutrogena,Neutrogena Invisible Daily Defense SPF 60,4
+skin_02,skincare,gemini,3,cerave,CeraVe AM Facial Moisturizing Lotion with Sunscreen SPF 30,1
+skin_02,skincare,gemini,3,neutrogena,Neutrogena Invisible Daily Defense SPF 60,2
+skin_02,skincare,gemini,3,cetaphil,Cetaphil Daily Facial Moisturizer Sunscreen SPF 50+,3
+skin_02,skincare,gemini,3,eucerin,Eucerin Daily Protection Face Lotion SPF 30,4
+skin_02,skincare,perplexity,1,eucerin,Eucerin Daily Protection Face Lotion SPF 30,1
+skin_02,skincare,perplexity,1,olay,Olay Complete All Day Moisturizer SPF 30,2
+skin_02,skincare,perplexity,1,neutrogena,Neutrogena Invisible Daily Defense Face Serum SPF 60,3
+skin_02,skincare,perplexity,2,eucerin,Eucerin Daily Protection Face Lotion SPF 30,1
+skin_02,skincare,perplexity,2,olay,Olay Complete All Day Moisturizer SPF 30,2
+skin_02,skincare,perplexity,2,neutrogena,Neutrogena Invisible Daily Defense SPF 60,3
+skin_02,skincare,perplexity,2,la roche-posay,La Roche,4
+skin_02,skincare,perplexity,3,olay,(mentioned: olay),1
+skin_02,skincare,perplexity,3,cerave,(mentioned: cerave),2
+skin_02,skincare,perplexity,3,niacinamide,(mentioned: niacinamide),3
+skin_02,skincare,perplexity,3,eucerin,(mentioned: eucerin),4
+skin_02,skincare,perplexity,3,neutrogena,(mentioned: neutrogena),5
+skin_02,skincare,claude,1,cerave,(mentioned: cerave),1
+skin_02,skincare,claude,1,niacinamide,(mentioned: niacinamide),2
+skin_02,skincare,claude,1,eucerin,(mentioned: eucerin),3
+skin_02,skincare,claude,2,cerave,(mentioned: cerave),1
+skin_02,skincare,claude,2,neutrogena,(mentioned: neutrogena),2
+skin_02,skincare,claude,2,the ordinary,(mentioned: the ordinary),3
+skin_02,skincare,claude,3,cerave,(mentioned: cerave),1
+skin_02,skincare,claude,3,niacinamide,(mentioned: niacinamide),2
+skin_02,skincare,deepseek,1,neutrogena,Neutrogena Ultra Sheer Dry,1
+skin_02,skincare,deepseek,1,cetaphil,Cetaphil Daily Oil,2
+skin_02,skincare,deepseek,2,neutrogena,Neutrogena Ultra Sheer Dry,1
+skin_02,skincare,deepseek,2,cerave,CeraVe Hydrating Mineral Sunscreen SPF 30,2
+skin_02,skincare,deepseek,3,neutrogena,Neutrogena Ultra Sheer Dry,1
+skin_02,skincare,deepseek,3,supergoop,Supergoop Play SPF 50** – only if you can stretch the budget slightly; it's very cosmetically elegant.,2
+skin_03,skincare,chatgpt,1,cerave,CeraVe Resurfacing Retinol Serum,1
+skin_03,skincare,chatgpt,1,la roche-posay,La Roche,2
+skin_03,skincare,chatgpt,1,retinol,The Ordinary Retinol 0.2% in Squalane,3
+skin_03,skincare,chatgpt,2,retinol,Good Molecules Gentle Retinol Cream,1
+skin_03,skincare,chatgpt,2,cerave,CeraVe Resurfacing Retinol Face Serum,2
+skin_03,skincare,chatgpt,3,cerave,CeraVe Resurfacing Retinol Serum,1
+skin_03,skincare,chatgpt,3,retinol,RoC Retinol Correxion Deep Wrinkle Night Cream,2
+skin_03,skincare,gemini,1,retinol,RoC Retinol Correxion Capsules Night Serum,1
+skin_03,skincare,gemini,1,cerave,CeraVe Skin Renewing Retinol Serum,2
+skin_03,skincare,gemini,1,olay,Olay Regenerist Retinol24 Night Moisturizer,3
+skin_03,skincare,gemini,2,cerave,CeraVe Resurfacing Retinol Serum,1
+skin_03,skincare,gemini,2,olay,Olay Regenerist Retinol24 Night Serum/Moisturizer,2
+skin_03,skincare,gemini,2,retinol,RoC Retinol Correxion Anti,3
+skin_03,skincare,gemini,3,cerave,CeraVe Resurfacing Retinol Serum,1
+skin_03,skincare,gemini,3,retinol,RoC Retinol Correxion Deep Wrinkle Night Cream,2
+skin_03,skincare,gemini,3,la roche-posay,La Roche,3
+skin_03,skincare,gemini,3,olay,Olay Regenerist Retinol 24 Night Moisturizer,4
+skin_03,skincare,perplexity,1,retinol,RoC Retinol Correxion Deep Wrinkle Night Cream,1
+skin_03,skincare,perplexity,1,olay,Olay Regenerist Retinol 24 Night Moisturizer,2
+skin_03,skincare,perplexity,2,differin,Differin Acne Treatment Gel,1
+skin_03,skincare,perplexity,2,olay,Olay Regenerist Retinol 24 Night Moisturizer,2
+skin_03,skincare,perplexity,2,retinol,L'Oréal Revitalift Derm Intensives Night Serum 0.3% Pure Retinol,3
+skin_03,skincare,perplexity,2,neutrogena,Neutrogena Rapid Wrinkle Repair Regenerating Cream,4
+skin_03,skincare,perplexity,3,retinol,RoC Retinol Correxion Deep Wrinkle Night Cream,1
+skin_03,skincare,perplexity,3,the ordinary,The Ordinary Retinal 0.2% Emulsion,2
+skin_03,skincare,claude,1,cerave,CeraVe Resurfacing Retinol Serum,1
+skin_03,skincare,claude,1,adapalene,Differin Adapalene Gel 0.1%,2
+skin_03,skincare,claude,1,retinol,RoC Retinol Serum,3
+skin_03,skincare,claude,1,olay,Olay Regenerist Retinol Night Serum,4
+skin_03,skincare,claude,2,cerave,(mentioned: cerave),1
+skin_03,skincare,claude,2,niacinamide,(mentioned: niacinamide),2
+skin_03,skincare,claude,2,adapalene,(mentioned: adapalene),3
+skin_03,skincare,claude,2,retinol,(mentioned: retinol),4
+skin_03,skincare,claude,2,differin,(mentioned: differin),5
+skin_03,skincare,claude,2,neutrogena,(mentioned: neutrogena),6
+skin_03,skincare,claude,3,cerave,CeraVe Resurfacing Retinol Serum,1
+skin_03,skincare,claude,3,adapalene,Differin Gel,2
+skin_03,skincare,claude,3,retinol,RoC Retinol Serum,3
+skin_03,skincare,claude,3,olay,Olay Retinol 24 Night Serum,4
+skin_03,skincare,deepseek,1,retinol,Neutrogena Rapid Wrinkle Repair Retinol Pro+ .3% Retinol Serum,1
+skin_03,skincare,deepseek,1,cerave,CeraVe Resurfacing Retinol Serum,2
+skin_03,skincare,deepseek,1,olay,Olay Regenerist Retinol24 Night Moisturizer,3
+skin_03,skincare,deepseek,2,la roche-posay,La Roche,1
+skin_03,skincare,deepseek,2,cerave,Neutrogena Rapid Wrinkle Repair Retinol Oil,2
+skin_03,skincare,deepseek,2,retinol,The Ordinary Retinol 0.2% in Squalane,3
+skin_03,skincare,deepseek,3,cerave,CeraVe Resurfacing Retinol Serum,1
+skin_03,skincare,deepseek,3,la roche-posay,La Roche,2
+skin_03,skincare,deepseek,3,retinol,The Ordinary Retinol 0.2% in Squalane,3
+skin_04,skincare,chatgpt,1,cerave,CeraVe Skin Renewing Vitamin C Serum,1
+skin_04,skincare,chatgpt,2,cerave,CeraVe Skin Renewing Vitamin C Serum,1
+skin_04,skincare,chatgpt,2,vanicream,Vanicream Vitamin C Facial Serum for Sensitive Skin,2
+skin_04,skincare,chatgpt,2,the ordinary,The Ordinary Multi,3
+skin_04,skincare,chatgpt,3,la roche-posay,La Roche,1
+skin_04,skincare,chatgpt,3,cerave,CeraVe Vitamin C Serum,2
+skin_04,skincare,chatgpt,3,neutrogena,Neutrogena Collagen Bank Vitamin C Serum,3
+skin_04,skincare,gemini,1,cerave,CeraVe Skin Renewing Vitamin C Serum,1
+skin_04,skincare,gemini,1,the ordinary,The Ordinary Vitamin C Suspension 23% + HA Spheres 2%,2
+skin_04,skincare,gemini,2,skinceuticals,(mentioned: skinceuticals),1
+skin_04,skincare,perplexity,1,cerave,CeraVe Skin Renewing Vitamin C Serum,1
+skin_04,skincare,perplexity,1,the ordinary,The Ordinary Vitamin C Suspension 23% + HA Spheres 2%,2
+skin_04,skincare,perplexity,2,cerave,CeraVe Skin Renewing Vitamin C Serum,1
+skin_04,skincare,perplexity,2,the ordinary,The Ordinary Vitamin C Suspension 23% + HA Spheres 2%,2
+skin_04,skincare,perplexity,3,the ordinary,The Ordinary Vitamin C Suspension 23% + HA Spheres 2%,1
+skin_04,skincare,claude,1,cerave,CeraVe Skin Renewing Vitamin C Serum,1
+skin_04,skincare,claude,2,cerave,CeraVe Skin Renewing Vitamin C Serum,1
+skin_04,skincare,claude,3,cerave,(mentioned: cerave),1
+skin_04,skincare,claude,3,skinceuticals,(mentioned: skinceuticals),2
+skin_04,skincare,deepseek,1,vanicream,Vanicream Vitamin C Serum,1
+skin_04,skincare,deepseek,1,cosrx,COSRX Vitamin C 23 Serum,2
+skin_04,skincare,deepseek,1,cerave,CeraVe Skin Renewing Vitamin C Serum,3
+skin_04,skincare,deepseek,2,cerave,CeraVe Vitamin C Serum with Hyaluronic Acid,1
+skin_04,skincare,deepseek,2,vichy,Vichy LiftActiv Vitamin C Serum,2
+skin_04,skincare,deepseek,2,the ordinary,The Ordinary Vitamin C Suspension 23% + HA Spheres 2%,3
+skin_04,skincare,deepseek,2,la roche-posay,La Roche,4
+skin_04,skincare,deepseek,3,cerave,(mentioned: cerave),1
+skin_04,skincare,deepseek,3,la roche-posay,(mentioned: la roche-posay),2
+skin_04,skincare,deepseek,3,vanicream,(mentioned: vanicream),3
+skin_04,skincare,deepseek,3,skinceuticals,(mentioned: skinceuticals),4
+skin_04,skincare,deepseek,3,the ordinary,(mentioned: the ordinary),5
+skin_05,skincare,chatgpt,1,cerave,Cleanser:** CeraVe Hydrating Cleanser,1
+skin_05,skincare,chatgpt,1,vanicream,Moisturizer:** Vanicream Daily Facial Moisturizer,2
+skin_05,skincare,chatgpt,1,la roche-posay,Sunscreen:** La Roche,3
+skin_05,skincare,chatgpt,1,adapalene,Retinoid:** Differin Gel,4
+skin_05,skincare,chatgpt,1,differin,Differin Gel,5
+skin_05,skincare,chatgpt,2,niacinamide,Optional niacinamide serum,1
+skin_05,skincare,chatgpt,2,differin,Differin Gel,2
+skin_05,skincare,chatgpt,3,cerave,(mentioned: cerave),1
+skin_05,skincare,chatgpt,3,niacinamide,(mentioned: niacinamide),2
+skin_05,skincare,chatgpt,3,la roche-posay,(mentioned: la roche-posay),3
+skin_05,skincare,chatgpt,3,adapalene,(mentioned: adapalene),4
+skin_05,skincare,chatgpt,3,differin,(mentioned: differin),5
+skin_05,skincare,chatgpt,3,the ordinary,(mentioned: the ordinary),6
+skin_05,skincare,gemini,1,cerave,(mentioned: cerave),1
+skin_05,skincare,gemini,1,niacinamide,(mentioned: niacinamide),2
+skin_05,skincare,gemini,1,versed,(mentioned: versed),3
+skin_05,skincare,gemini,1,retinol,(mentioned: retinol),4
+skin_05,skincare,gemini,1,the ordinary,(mentioned: the ordinary),5
+skin_05,skincare,gemini,2,cerave,(mentioned: cerave),1
+skin_05,skincare,gemini,2,niacinamide,(mentioned: niacinamide),2
+skin_05,skincare,gemini,2,vanicream,(mentioned: vanicream),3
+skin_05,skincare,gemini,2,retinol,(mentioned: retinol),4
+skin_05,skincare,gemini,3,retinol,"Treat:** Apply a retinol serum to target fine lines, texture, and promote cell turnover.",1
+skin_05,skincare,perplexity,1,cerave,(mentioned: cerave),1
+skin_05,skincare,perplexity,1,la roche-posay,(mentioned: la roche-posay),2
+skin_05,skincare,perplexity,1,eltamd,(mentioned: eltamd),3
+skin_05,skincare,perplexity,1,vanicream,(mentioned: vanicream),4
+skin_05,skincare,perplexity,1,bioderma,(mentioned: bioderma),5
+skin_05,skincare,perplexity,1,retinol,(mentioned: retinol),6
+skin_05,skincare,perplexity,1,cetaphil,(mentioned: cetaphil),7
+skin_05,skincare,perplexity,1,the inkey list,(mentioned: inkey list),8
+skin_05,skincare,perplexity,1,neutrogena,(mentioned: neutrogena),9
+skin_05,skincare,perplexity,1,the ordinary,(mentioned: the ordinary),10
+skin_05,skincare,perplexity,2,cerave,Cleanser: CeraVe Foaming Facial Cleanser,1
+skin_05,skincare,perplexity,2,the inkey list,Vitamin C Serum: The INKEY List Vitamin C Serum,2
+skin_05,skincare,perplexity,2,la roche-posay,Moisturizer + SPF: La Roche,3
+skin_05,skincare,perplexity,2,retinol,Retinol Treatment: The Ordinary Retinol 0.2% in Squalane,4
+skin_05,skincare,perplexity,2,cetaphil,Night Moisturizer: Cetaphil Daily Facial Moisturizer,5
+skin_05,skincare,perplexity,3,cerave,CeraVe Foaming Facial Cleanser,1
+skin_05,skincare,perplexity,3,the inkey list,The INKEY List Vitamin C Serum,2
+skin_05,skincare,perplexity,3,niacinamide,La Roche,3
+skin_05,skincare,perplexity,3,retinol,e.l.f. SKIN Youth Boosting Advanced Night Retinoid Serum,4
+skin_05,skincare,claude,1,cetaphil,Cleanser,1
+skin_05,skincare,claude,1,cerave,Retinol,2
+skin_05,skincare,claude,1,the ordinary,Vitamin C Serum,3
+skin_05,skincare,claude,1,neutrogena,Sunscreen,4
+skin_05,skincare,claude,2,cerave,Cleanser: CeraVe Hydrating Facial Cleanser,1
+skin_05,skincare,claude,2,neutrogena,Sunscreen: Neutrogena Ultra Sheer Dry,2
+skin_05,skincare,claude,2,retinol,Retinol: Neutrogena Rapid Wrinkle Repair,3
+skin_05,skincare,claude,2,the ordinary,Vitamin C Serum: The Ordinary Vitamin C Suspension 23% + HA Spheres 2%,4
+skin_05,skincare,claude,3,cetaphil,Cleanser,1
+skin_05,skincare,claude,3,the ordinary,Exfoliant,2
+skin_05,skincare,claude,3,cerave,Moisturizer with Sunscreen,3
+skin_05,skincare,deepseek,1,cerave,Cleanser: CeraVe Hydrating Facial Cleanser,1
+skin_05,skincare,deepseek,1,the ordinary,Active Serum,2
+skin_05,skincare,deepseek,1,beauty of joseon,Sunscreen,3
+skin_05,skincare,deepseek,1,la roche-posay,Moisturizer: La Roche,4
+skin_05,skincare,deepseek,1,cetaphil,Sunscreen: Cetaphil Daily Facial Moisturizer SPF 35,5
+skin_05,skincare,deepseek,1,the inkey list,Vitamin C: Inkey List 15% Vitamin C + EGF Serum,6
+skin_05,skincare,deepseek,1,adapalene,Retinol: Differin Gel,7
+skin_05,skincare,deepseek,1,neutrogena,Sunscreen: Neutrogena Ultra Sheer Dry,8
+skin_05,skincare,deepseek,1,vanicream,Moisturizer: Vanicream Moisturizing Cream,9
+skin_05,skincare,deepseek,2,differin,"Start slow.** If you choose the Differin or ROC routine, use the retinoid only twice a week for the first 2 weeks, then 3x/week, then eventually nightly. Always on dry skin.",1
+skin_05,skincare,deepseek,2,cerave,Skip the eye cream.** A good moisturizer,2
+skin_05,skincare,deepseek,3,the ordinary,Apply **The Ordinary Vitamin C,1
+skin_05,skincare,deepseek,3,cerave,Apply **CeraVe Moisturizer**.,2
+skin_05,skincare,deepseek,3,neutrogena,Apply **Neutrogena Sunscreen,3
+skin_05,skincare,deepseek,3,retinol,Apply **Neutrogena Retinol Serum,4
+skin_06,skincare,chatgpt,1,la roche-posay,(mentioned: la roche-posay),1
+skin_06,skincare,chatgpt,1,vichy,(mentioned: vichy),2
+skin_06,skincare,chatgpt,1,the ordinary,(mentioned: the ordinary),3
+skin_06,skincare,chatgpt,2,the ordinary,The Ordinary Hyaluronic Acid 2% + B5,1
+skin_06,skincare,chatgpt,2,cerave,CeraVe Hydrating Hyaluronic Acid Serum,2
+skin_06,skincare,chatgpt,2,vichy,Vichy Minéral 89 Hyaluronic Acid Serum,3
+skin_06,skincare,chatgpt,3,la roche-posay,La Roche,1
+skin_06,skincare,chatgpt,3,cerave,CeraVe Hydrating Hyaluronic Acid Serum,2
+skin_06,skincare,chatgpt,3,the ordinary,The Ordinary Hyaluronic Acid 2% + B5,3
+skin_06,skincare,gemini,1,the ordinary,The Ordinary Hyaluronic Acid 2% + B5,1
+skin_06,skincare,gemini,1,vichy,Vichy Mineral 89 Hyaluronic Acid Face Serum,2
+skin_06,skincare,gemini,1,cerave,CeraVe Hydrating Hyaluronic Acid Serum,3
+skin_06,skincare,gemini,1,la roche-posay,La Roche,4
+skin_06,skincare,gemini,1,good molecules,Good Molecules Hyaluronic Acid Serum,5
+skin_06,skincare,gemini,2,the ordinary,The Ordinary Hyaluronic Acid 2% + B5,1
+skin_06,skincare,gemini,2,good molecules,Good Molecules Hyaluronic Acid Serum,2
+skin_06,skincare,gemini,2,the inkey list,The INKEY List Hyaluronic Acid Serum,3
+skin_06,skincare,gemini,2,vichy,Vichy Mineral 89 Serum,4
+skin_06,skincare,gemini,2,cerave,CeraVe Hydrating Hyaluronic Acid Serum,5
+skin_06,skincare,gemini,3,cosrx,(mentioned: cosrx),1
+skin_06,skincare,gemini,3,vichy,(mentioned: vichy),2
+skin_06,skincare,gemini,3,good molecules,(mentioned: good molecules),3
+skin_06,skincare,gemini,3,the ordinary,(mentioned: the ordinary),4
+skin_06,skincare,perplexity,1,cerave,CeraVe Hydrating Hyaluronic Acid Serum,1
+skin_06,skincare,perplexity,1,neutrogena,Neutrogena Hydro Boost Hydrating Serum,2
+skin_06,skincare,perplexity,1,la roche-posay,La Roche,3
+skin_06,skincare,perplexity,1,vichy,Vichy Mineral 89 Hyaluronic Acid Booster Serum,4
+skin_06,skincare,perplexity,2,cerave,CeraVe Hydrating Hyaluronic Acid Serum,1
+skin_06,skincare,perplexity,2,good molecules,Good Molecules Hyaluronic Acid Face Serum,2
+skin_06,skincare,perplexity,2,neutrogena,Neutrogena Hydro Boost Hydrating Serum,3
+skin_06,skincare,perplexity,2,vichy,Vichy Mineral 89 Serum,4
+skin_06,skincare,perplexity,2,la roche-posay,La Roche,5
+skin_06,skincare,perplexity,3,la roche-posay,La Roche,1
+skin_06,skincare,perplexity,3,vichy,Vichy Mineral 89 Hyaluronic Acid Booster Serum,2
+skin_06,skincare,claude,1,the ordinary,The Ordinary Hyaluronic Acid 2% + B5,1
+skin_06,skincare,claude,1,neutrogena,Neutrogena Hydro Boost Hyaluronic Acid Serum,2
+skin_06,skincare,claude,1,cerave,CeraVe Hydrating Hyaluronic Acid Serum,3
+skin_06,skincare,claude,1,good molecules,Good Molecules Hyaluronic Acid Serum,4
+skin_06,skincare,claude,1,vichy,Vichy Minéral 89 Serum,5
+skin_06,skincare,claude,2,cerave,(mentioned: cerave),1
+skin_06,skincare,claude,2,neutrogena,(mentioned: neutrogena),2
+skin_06,skincare,claude,2,good molecules,(mentioned: good molecules),3
+skin_06,skincare,claude,2,the ordinary,(mentioned: the ordinary),4
+skin_06,skincare,claude,3,the ordinary,The Ordinary Hyaluronic Acid 2% + B5,1
+skin_06,skincare,claude,3,cerave,CeraVe Hydrating Hyaluronic Acid Serum,2
+skin_06,skincare,deepseek,1,the ordinary,The Ordinary Hyaluronic Acid 2% + B5,1
+skin_06,skincare,deepseek,1,cosrx,Cosrx Hyaluronic Acid Hydra Power Essence,2
+skin_06,skincare,deepseek,1,neutrogena,Neutrogena Hydro Boost Hyaluronic Acid Serum,3
+skin_06,skincare,deepseek,1,la roche-posay,La Roche,4
+skin_06,skincare,deepseek,1,cerave,CeraVe Hydrating Hyaluronic Acid Serum,5
+skin_06,skincare,deepseek,2,the ordinary,The Ordinary Hyaluronic Acid 2% + B5,1
+skin_06,skincare,deepseek,2,cosrx,COSRX Hyaluronic Acid Hydra Power Essence,2
+skin_06,skincare,deepseek,2,vichy,Vichy Mineral 89 Hyaluronic Acid Serum,3
+skin_06,skincare,deepseek,2,la roche-posay,La Roche,4
+skin_06,skincare,deepseek,2,the inkey list,The Inkey List Hyaluronic Acid Serum,5
+skin_06,skincare,deepseek,3,the ordinary,The Ordinary Hyaluronic Acid 2% + B5,1
+skin_06,skincare,deepseek,3,cosrx,Cosrx Hyaluronic Acid Hydra Power Essence,2
+skin_06,skincare,deepseek,3,la roche-posay,La Roche,3
+skin_07,skincare,chatgpt,1,vanicream,Vanicream Daily Facial Moisturizer,1
+skin_07,skincare,chatgpt,1,cerave,CeraVe PM Facial Moisturizing Lotion,2
+skin_07,skincare,chatgpt,1,la roche-posay,La Roche,3
+skin_07,skincare,chatgpt,2,cerave,(mentioned: cerave),1
+skin_07,skincare,chatgpt,2,niacinamide,(mentioned: niacinamide),2
+skin_07,skincare,chatgpt,2,la roche-posay,(mentioned: la roche-posay),3
+skin_07,skincare,chatgpt,2,vanicream,(mentioned: vanicream),4
+skin_07,skincare,chatgpt,2,aveeno,(mentioned: aveeno),5
+skin_07,skincare,chatgpt,3,vanicream,Vanicream Daily Facial Moisturizer,1
+skin_07,skincare,chatgpt,3,cerave,CeraVe PM Facial Moisturizing Lotion,2
+skin_07,skincare,chatgpt,3,la roche-posay,La Roche,3
+skin_07,skincare,gemini,1,cerave,CeraVe PM Facial Moisturizing Lotion,1
+skin_07,skincare,gemini,1,vanicream,Vanicream Daily Facial Moisturizer,2
+skin_07,skincare,gemini,1,la roche-posay,La Roche,3
+skin_07,skincare,gemini,1,neutrogena,Neutrogena Hydro Boost Hyaluronic Acid Water Gel,4
+skin_07,skincare,gemini,2,la roche-posay,La Roche,1
+skin_07,skincare,gemini,2,cerave,CeraVe PM Facial Moisturizing Lotion,2
+skin_07,skincare,gemini,2,vanicream,Vanicream Moisturizing Cream,3
+skin_07,skincare,gemini,2,neutrogena,Neutrogena Hydro Boost Water Gel,4
+skin_07,skincare,gemini,3,la roche-posay,La Roche,1
+skin_07,skincare,gemini,3,cerave,CeraVe Daily Moisturizing Lotion / CeraVe Ultra,2
+skin_07,skincare,gemini,3,neutrogena,Neutrogena Hydro Boost Water Gel,3
+skin_07,skincare,gemini,3,vanicream,Vanicream Daily Facial Moisturizer with Hyaluronic Acid & Ceramides,4
+skin_07,skincare,perplexity,1,cerave,(mentioned: cerave),1
+skin_07,skincare,perplexity,1,niacinamide,(mentioned: niacinamide),2
+skin_07,skincare,perplexity,1,la roche-posay,(mentioned: la roche-posay),3
+skin_07,skincare,perplexity,1,vanicream,(mentioned: vanicream),4
+skin_07,skincare,perplexity,1,cetaphil,(mentioned: cetaphil),5
+skin_07,skincare,perplexity,2,la roche-posay,La Roche,1
+skin_07,skincare,perplexity,2,cerave,CeraVe Ultra,2
+skin_07,skincare,perplexity,2,neutrogena,Neutrogena Hydro Boost Water Gel Moisturizer with Hyaluronic Acid,3
+skin_07,skincare,perplexity,2,vanicream,Vanicream Moisturizing Cream,4
+skin_07,skincare,perplexity,3,cerave,CeraVe PM Facial Moisturizing Lotion,1
+skin_07,skincare,perplexity,3,vanicream,Vanicream Daily Facial Moisturizer,2
+skin_07,skincare,perplexity,3,la roche-posay,La Roche Posay Toleriane Double Repair Face Moisturizer,3
+skin_07,skincare,perplexity,3,cetaphil,Cetaphil Rough and Bumpy Daily Smoothing Moisturizer,4
+skin_07,skincare,perplexity,3,neutrogena,Neutrogena Hydro Boost Water Cream,5
+skin_07,skincare,claude,1,cerave,CeraVe Daily Moisturizing Lotion,1
+skin_07,skincare,claude,1,cetaphil,Cetaphil Hydrating Face Lotion,2
+skin_07,skincare,claude,1,la roche-posay,La Roche,3
+skin_07,skincare,claude,2,cerave,CeraVe Moisturizing Cream,1
+skin_07,skincare,claude,2,la roche-posay,La Roche,2
+skin_07,skincare,claude,2,vanicream,Vanicream Daily Facial Moisturizer,3
+skin_07,skincare,claude,2,neutrogena,Neutrogena Hydro Boost Water Gel,4
+skin_07,skincare,claude,3,cerave,CeraVe Daily Moisturizing Lotion,1
+skin_07,skincare,claude,3,cetaphil,Cetaphil Hydrating Face Lotion Moisturizer,2
+skin_07,skincare,claude,3,la roche-posay,La Roche,3
+skin_07,skincare,claude,3,olay,Olay Sensitive Skin Moisturizer with SPF 30,4
+skin_07,skincare,deepseek,1,la roche-posay,La Roche,1
+skin_07,skincare,deepseek,1,aveeno,Aveeno Calm + Restore Oat Gel Moisturizer,2
+skin_07,skincare,deepseek,1,cerave,CeraVe PM Facial Moisturizing Lotion,3
+skin_07,skincare,deepseek,2,cerave,CeraVe Moisturizing Cream,1
+skin_07,skincare,deepseek,2,la roche-posay,La Roche,2
+skin_07,skincare,deepseek,2,vanicream,Vanicream Daily Facial Moisturizer** – ~$14,3
+skin_07,skincare,deepseek,3,la roche-posay,La Roche,1
+skin_07,skincare,deepseek,3,vanicream,Vanicream Daily Facial Moisturizer,2
+skin_07,skincare,deepseek,3,aveeno,Aveeno Calm + Restore Redness Relief Moisturizer,3
+skin_08,skincare,chatgpt,1,skinceuticals,SkinCeuticals,1
+skin_08,skincare,chatgpt,2,skinceuticals,SkinCeuticals,1
+skin_08,skincare,chatgpt,3,skinceuticals,SkinCeuticals,1
+skin_08,skincare,gemini,1,sk-ii,(mentioned: sk-ii),1
+skin_08,skincare,gemini,2,retinol,(mentioned: retinol),1
+skin_08,skincare,gemini,2,sk-ii,(mentioned: sk-ii),2
+skin_08,skincare,gemini,3,niacinamide,(mentioned: niacinamide),1
+skin_08,skincare,gemini,3,skinceuticals,(mentioned: skinceuticals),2
+skin_08,skincare,perplexity,1,skinceuticals,SkinCeuticals,1
+skin_08,skincare,perplexity,2,skinceuticals,SkinCeuticals,1
+skin_08,skincare,perplexity,3,skinceuticals,SkinCeuticals,1
+skin_08,skincare,claude,1,sulwhasoo,Sulwhasoo,1
+skin_08,skincare,claude,2,sulwhasoo,Sulwhasoo,1
+skin_08,skincare,claude,3,sulwhasoo,Sulwhasoo,1
+skin_08,skincare,deepseek,1,retinol,(mentioned: retinol),1
+skin_08,skincare,deepseek,3,skinceuticals,SkinCeuticals,1
+skin_09,skincare,chatgpt,1,sulwhasoo,(mentioned: sulwhasoo),1
+skin_09,skincare,chatgpt,1,sk-ii,(mentioned: sk-ii),2
+skin_09,skincare,chatgpt,1,skinceuticals,(mentioned: skinceuticals),3
+skin_09,skincare,chatgpt,1,tatcha,(mentioned: tatcha),4
+skin_09,skincare,chatgpt,2,skinceuticals,SkinCeuticals C E Ferulic,1
+skin_09,skincare,chatgpt,2,tatcha,Tatcha The Dewy Skin Cream,2
+skin_09,skincare,chatgpt,2,shiseido,Shiseido ULTIMUNE Power Infusing Serum,3
+skin_09,skincare,chatgpt,3,skinceuticals,SkinCeuticals C E Ferulic,1
+skin_09,skincare,gemini,1,skinceuticals,SkinCeuticals C E Ferulic Serum,1
+skin_09,skincare,gemini,2,skinceuticals,(mentioned: skinceuticals),1
+skin_09,skincare,gemini,3,sk-ii,SK,1
+skin_09,skincare,gemini,3,skinceuticals,SkinCeuticals C E Ferulic,2
+skin_09,skincare,gemini,3,drunk elephant,Drunk Elephant C,3
+skin_09,skincare,perplexity,3,skinceuticals,SkinCeuticals C E Ferulic,1
+skin_09,skincare,claude,1,sk-ii,SK,1
+skin_09,skincare,claude,2,sk-ii,(mentioned: sk-ii),1
+skin_09,skincare,claude,2,tatcha,(mentioned: tatcha),2
+skin_09,skincare,claude,3,skinceuticals,(mentioned: skinceuticals),1
+skin_09,skincare,claude,3,tatcha,(mentioned: tatcha),2
+skin_09,skincare,deepseek,1,sk-ii,SK,1
+skin_09,skincare,deepseek,2,skinceuticals,SkinCeuticals C E Ferulic,1
+skin_09,skincare,deepseek,3,sk-ii,SK,1
+skin_10,skincare,chatgpt,1,retinol,Augustinus Bader The Retinol Serum,1
+skin_10,skincare,chatgpt,2,retinol,SkinCeuticals Retinol 1.0,1
+skin_10,skincare,chatgpt,3,retinol,SkinCeuticals Retinol 1.0,1
+skin_10,skincare,gemini,1,retinol,Augustinus Bader The Retinol Serum,1
+skin_10,skincare,gemini,2,retinol,Augustinus Bader The Retinol Serum,1
+skin_10,skincare,gemini,3,retinol,SkinCeuticals Retinol 1.0,1
+skin_10,skincare,gemini,3,murad,Murad Retinol Youth Renewal Night Cream / Serum,2
+skin_10,skincare,perplexity,1,retinol,Augustinus Bader The Retinol Serum,1
+skin_10,skincare,perplexity,2,retinol,(mentioned: retinol),1
+skin_10,skincare,perplexity,2,clinique,(mentioned: clinique),2
+skin_10,skincare,perplexity,3,retinol,Augustinus Bader The Retinol Serum,1
+skin_10,skincare,claude,1,retinol,(mentioned: retinol),1
+skin_10,skincare,claude,1,skinceuticals,(mentioned: skinceuticals),2
+skin_10,skincare,claude,2,retinol,(mentioned: retinol),1
+skin_10,skincare,claude,3,retinol,(mentioned: retinol),1
+skin_10,skincare,claude,3,skinceuticals,(mentioned: skinceuticals),2
+skin_10,skincare,deepseek,1,retinol,SkinMedica Retinol Complex 1.0,1
+skin_10,skincare,deepseek,2,retinol,SkinMedica Retinol 0.5 or 1.0,1
+skin_10,skincare,deepseek,3,retinol,SkinCeuticals Retinol 0.5 Refining Night Cream,1
+skin_11,skincare,chatgpt,1,differin,Differin Gel,1
+skin_11,skincare,chatgpt,1,cerave,CeraVe Foaming Facial Cleanser,2
+skin_11,skincare,chatgpt,1,la roche-posay,La Roche,3
+skin_11,skincare,chatgpt,2,cerave,(mentioned: cerave),1
+skin_11,skincare,chatgpt,2,la roche-posay,(mentioned: la roche-posay),2
+skin_11,skincare,chatgpt,2,eltamd,(mentioned: eltamd),3
+skin_11,skincare,chatgpt,2,adapalene,(mentioned: adapalene),4
+skin_11,skincare,chatgpt,2,differin,(mentioned: differin),5
+skin_11,skincare,chatgpt,2,neutrogena,(mentioned: neutrogena),6
+skin_11,skincare,chatgpt,3,cerave,(mentioned: cerave),1
+skin_11,skincare,chatgpt,3,la roche-posay,(mentioned: la roche-posay),2
+skin_11,skincare,chatgpt,3,eltamd,(mentioned: eltamd),3
+skin_11,skincare,chatgpt,3,vanicream,(mentioned: vanicream),4
+skin_11,skincare,chatgpt,3,adapalene,(mentioned: adapalene),5
+skin_11,skincare,chatgpt,3,differin,(mentioned: differin),6
+skin_11,skincare,chatgpt,3,neutrogena,(mentioned: neutrogena),7
+skin_11,skincare,gemini,1,cerave,(mentioned: cerave),1
+skin_11,skincare,gemini,1,niacinamide,(mentioned: niacinamide),2
+skin_11,skincare,gemini,1,la roche-posay,(mentioned: la roche-posay),3
+skin_11,skincare,gemini,1,paula's choice,(mentioned: paula's choice),4
+skin_11,skincare,gemini,1,neutrogena,(mentioned: neutrogena),5
+skin_11,skincare,gemini,1,the ordinary,(mentioned: the ordinary),6
+skin_11,skincare,gemini,2,adapalene,Acne Treatment,1
+skin_11,skincare,gemini,2,niacinamide,Niacinamide Serum,2
+skin_11,skincare,gemini,3,cerave,(mentioned: cerave),1
+skin_11,skincare,gemini,3,niacinamide,(mentioned: niacinamide),2
+skin_11,skincare,gemini,3,la roche-posay,(mentioned: la roche-posay),3
+skin_11,skincare,gemini,3,adapalene,(mentioned: adapalene),4
+skin_11,skincare,gemini,3,differin,(mentioned: differin),5
+skin_11,skincare,gemini,3,paula's choice,(mentioned: paula's choice),6
+skin_11,skincare,gemini,3,neutrogena,(mentioned: neutrogena),7
+skin_11,skincare,gemini,3,the ordinary,(mentioned: the ordinary),8
+skin_11,skincare,perplexity,1,cerave,(mentioned: cerave),1
+skin_11,skincare,perplexity,1,niacinamide,(mentioned: niacinamide),2
+skin_11,skincare,perplexity,1,la roche-posay,(mentioned: la roche-posay),3
+skin_11,skincare,perplexity,1,adapalene,(mentioned: adapalene),4
+skin_11,skincare,perplexity,1,beats,(mentioned: beats),5
+skin_11,skincare,perplexity,2,cerave,CeraVe Acne Foaming Cream Cleanser,1
+skin_11,skincare,perplexity,2,la roche-posay,La Roche,2
+skin_11,skincare,perplexity,3,dermalogica,Chemical Exfoliant: Dermalogica Clear Start Clarifying Toner,1
+skin_11,skincare,claude,1,cerave,(mentioned: cerave),1
+skin_11,skincare,claude,1,niacinamide,(mentioned: niacinamide),2
+skin_11,skincare,claude,1,la roche-posay,(mentioned: la roche-posay),3
+skin_11,skincare,claude,1,adapalene,(mentioned: adapalene),4
+skin_11,skincare,claude,1,differin,(mentioned: differin),5
+skin_11,skincare,claude,1,cetaphil,(mentioned: cetaphil),6
+skin_11,skincare,claude,1,neutrogena,(mentioned: neutrogena),7
+skin_11,skincare,claude,2,cerave,(mentioned: cerave),1
+skin_11,skincare,claude,2,adapalene,(mentioned: adapalene),2
+skin_11,skincare,claude,2,differin,(mentioned: differin),3
+skin_11,skincare,claude,2,cetaphil,(mentioned: cetaphil),4
+skin_11,skincare,claude,2,neutrogena,(mentioned: neutrogena),5
+skin_11,skincare,claude,3,cerave,(mentioned: cerave),1
+skin_11,skincare,claude,3,adapalene,(mentioned: adapalene),2
+skin_11,skincare,claude,3,differin,(mentioned: differin),3
+skin_11,skincare,claude,3,cetaphil,(mentioned: cetaphil),4
+skin_11,skincare,claude,3,asics,(mentioned: asics),5
+skin_11,skincare,claude,3,neutrogena,(mentioned: neutrogena),6
+skin_11,skincare,deepseek,1,cerave,(mentioned: cerave),1
+skin_11,skincare,deepseek,1,niacinamide,(mentioned: niacinamide),2
+skin_11,skincare,deepseek,1,la roche-posay,(mentioned: la roche-posay),3
+skin_11,skincare,deepseek,1,adapalene,(mentioned: adapalene),4
+skin_11,skincare,deepseek,1,differin,(mentioned: differin),5
+skin_11,skincare,deepseek,1,neutrogena,(mentioned: neutrogena),6
+skin_11,skincare,deepseek,1,the ordinary,(mentioned: the ordinary),7
+skin_11,skincare,deepseek,1,supergoop,(mentioned: supergoop),8
+skin_11,skincare,deepseek,2,cerave,CeraVe Foaming Facial Cleanser,1
+skin_11,skincare,deepseek,2,la roche-posay,La Roche,2
+skin_11,skincare,deepseek,2,adapalene,Differin Adapalene Gel 0.1%,3
+skin_11,skincare,deepseek,2,neutrogena,Neutrogena Oil,4
+skin_11,skincare,deepseek,2,niacinamide,The Ordinary Niacinamide 10% + Zinc 1%,5
+skin_11,skincare,deepseek,3,cerave,(mentioned: cerave),1
+skin_11,skincare,deepseek,3,niacinamide,(mentioned: niacinamide),2
+skin_11,skincare,deepseek,3,la roche-posay,(mentioned: la roche-posay),3
+skin_11,skincare,deepseek,3,adapalene,(mentioned: adapalene),4
+skin_11,skincare,deepseek,3,differin,(mentioned: differin),5
+skin_11,skincare,deepseek,3,neutrogena,(mentioned: neutrogena),6
+skin_11,skincare,deepseek,3,the ordinary,(mentioned: the ordinary),7
+skin_12,skincare,chatgpt,1,cerave,(mentioned: cerave),1
+skin_12,skincare,chatgpt,1,niacinamide,(mentioned: niacinamide),2
+skin_12,skincare,chatgpt,1,la roche-posay,(mentioned: la roche-posay),3
+skin_12,skincare,chatgpt,1,retinol,(mentioned: retinol),4
+skin_12,skincare,chatgpt,1,asics,(mentioned: asics),5
+skin_12,skincare,chatgpt,1,neutrogena,(mentioned: neutrogena),6
+skin_12,skincare,chatgpt,2,cerave,(mentioned: cerave),1
+skin_12,skincare,chatgpt,2,niacinamide,(mentioned: niacinamide),2
+skin_12,skincare,chatgpt,2,la roche-posay,(mentioned: la roche-posay),3
+skin_12,skincare,chatgpt,2,eltamd,(mentioned: eltamd),4
+skin_12,skincare,chatgpt,2,neutrogena,(mentioned: neutrogena),5
+skin_12,skincare,chatgpt,3,cerave,CeraVe Hydrating Facial Cleanser,1
+skin_12,skincare,chatgpt,3,la roche-posay,La Roche,2
+skin_12,skincare,chatgpt,3,eltamd,EltaMD UV Clear SPF 46,3
+skin_12,skincare,chatgpt,3,neutrogena,Neutrogena Ultra Sheer Dry,4
+skin_12,skincare,gemini,1,cerave,CeraVe Hydrating Facial Cleanser,1
+skin_12,skincare,gemini,1,vanicream,Vanicream Gentle Facial Cleanser,2
+skin_12,skincare,gemini,1,kiehl's,Kiehl's Ultra Facial Cleanser,3
+skin_12,skincare,gemini,1,neutrogena,Neutrogena Hydro Boost Water Gel,4
+skin_12,skincare,gemini,2,cerave,CeraVe Hydrating Foaming Oil Cleanser,1
+skin_12,skincare,gemini,2,eltamd,EltaMD UV Clear Broad,2
+skin_12,skincare,gemini,2,la roche-posay,La Roche,3
+skin_12,skincare,gemini,2,neutrogena,Neutrogena Hydro Boost Water Gel with SPF 25,4
+skin_12,skincare,perplexity,1,cerave,(mentioned: cerave),1
+skin_12,skincare,perplexity,2,cerave,(mentioned: cerave),1
+skin_12,skincare,perplexity,2,asics,(mentioned: asics),2
+skin_12,skincare,perplexity,3,cerave,(mentioned: cerave),1
+skin_12,skincare,perplexity,3,niacinamide,(mentioned: niacinamide),2
+skin_12,skincare,claude,1,cerave,(mentioned: cerave),1
+skin_12,skincare,claude,1,niacinamide,(mentioned: niacinamide),2
+skin_12,skincare,claude,1,cetaphil,(mentioned: cetaphil),3
+skin_12,skincare,claude,1,neutrogena,(mentioned: neutrogena),4
+skin_12,skincare,claude,2,cerave,(mentioned: cerave),1
+skin_12,skincare,claude,2,eltamd,(mentioned: eltamd),2
+skin_12,skincare,claude,2,retinol,(mentioned: retinol),3
+skin_12,skincare,claude,2,cetaphil,(mentioned: cetaphil),4
+skin_12,skincare,claude,2,neutrogena,(mentioned: neutrogena),5
+skin_12,skincare,claude,3,cerave,CeraVe Skincare Products,1
+skin_12,skincare,claude,3,la roche-posay,La Roche,2
+skin_12,skincare,deepseek,1,cerave,(mentioned: cerave),1
+skin_12,skincare,deepseek,1,la roche-posay,(mentioned: la roche-posay),2
+skin_12,skincare,deepseek,1,vanicream,(mentioned: vanicream),3
+skin_12,skincare,deepseek,1,the inkey list,(mentioned: inkey list),4
+skin_12,skincare,deepseek,1,paula's choice,(mentioned: paula's choice),5
+skin_12,skincare,deepseek,1,nothing,(mentioned: nothing),6
+skin_12,skincare,deepseek,1,neutrogena,(mentioned: neutrogena),7
+skin_12,skincare,deepseek,1,the ordinary,(mentioned: the ordinary),8
+skin_12,skincare,deepseek,1,supergoop,(mentioned: supergoop),9
+skin_12,skincare,deepseek,2,cerave,(mentioned: cerave),1
+skin_12,skincare,deepseek,2,la roche-posay,(mentioned: la roche-posay),2
+skin_12,skincare,deepseek,2,eltamd,(mentioned: eltamd),3
+skin_12,skincare,deepseek,2,cetaphil,(mentioned: cetaphil),4
+skin_12,skincare,deepseek,2,paula's choice,(mentioned: paula's choice),5
+skin_12,skincare,deepseek,2,neutrogena,(mentioned: neutrogena),6
+skin_12,skincare,deepseek,2,the ordinary,(mentioned: the ordinary),7
+skin_12,skincare,deepseek,2,supergoop,(mentioned: supergoop),8
+skin_12,skincare,deepseek,3,cerave,Massage** 1 pump of **CeraVe Hydrating Cleanser** into wet skin for 30 seconds.,1
+skin_13,skincare,chatgpt,1,cerave,CeraVe Hydrating Facial Cleanser,1
+skin_13,skincare,chatgpt,1,vanicream,Vanicream Moisturizing Cream,2
+skin_13,skincare,chatgpt,1,eltamd,EltaMD UV Clear Broad,3
+skin_13,skincare,chatgpt,1,la roche-posay,La Roche,4
+skin_13,skincare,chatgpt,2,cerave,Gentle cleanser,1
+skin_13,skincare,chatgpt,2,la roche-posay,Sunscreen SPF 30+,2
+skin_13,skincare,chatgpt,3,cerave,(mentioned: cerave),1
+skin_13,skincare,chatgpt,3,niacinamide,(mentioned: niacinamide),2
+skin_13,skincare,chatgpt,3,la roche-posay,(mentioned: la roche-posay),3
+skin_13,skincare,chatgpt,3,eltamd,(mentioned: eltamd),4
+skin_13,skincare,chatgpt,3,vanicream,(mentioned: vanicream),5
+skin_13,skincare,chatgpt,3,adapalene,(mentioned: adapalene),6
+skin_13,skincare,chatgpt,3,differin,(mentioned: differin),7
+skin_13,skincare,chatgpt,3,asics,(mentioned: asics),8
+skin_13,skincare,chatgpt,3,neutrogena,(mentioned: neutrogena),9
+skin_13,skincare,chatgpt,3,the ordinary,(mentioned: the ordinary),10
+skin_13,skincare,gemini,1,cerave,(mentioned: cerave),1
+skin_13,skincare,gemini,1,niacinamide,(mentioned: niacinamide),2
+skin_13,skincare,gemini,1,la roche-posay,(mentioned: la roche-posay),3
+skin_13,skincare,gemini,1,eltamd,(mentioned: eltamd),4
+skin_13,skincare,gemini,3,cerave,(mentioned: cerave),1
+skin_13,skincare,gemini,3,la roche-posay,(mentioned: la roche-posay),2
+skin_13,skincare,gemini,3,eltamd,(mentioned: eltamd),3
+skin_13,skincare,gemini,3,kiehl's,(mentioned: kiehl's),4
+skin_13,skincare,gemini,3,neutrogena,(mentioned: neutrogena),5
+skin_13,skincare,gemini,3,supergoop,(mentioned: supergoop),6
+skin_13,skincare,perplexity,1,cerave,Cleanser: CeraVe Hydrating Facial Cleanser,1
+skin_13,skincare,perplexity,1,niacinamide,Serum: The Ordinary Niacinamide 10% + Zinc 1%,2
+skin_13,skincare,perplexity,1,la roche-posay,Sunscreen,3
+skin_13,skincare,perplexity,1,paula's choice,Exfoliator,4
+skin_13,skincare,perplexity,1,retinol,Eye Cream,5
+skin_13,skincare,perplexity,2,cerave,CeraVe Hydrating Facial Cleanser,1
+skin_13,skincare,perplexity,2,la roche-posay,La Roche,2
+skin_13,skincare,perplexity,2,niacinamide,The Ordinary Niacinamide 10% + Zinc 1% Serum,3
+skin_13,skincare,perplexity,2,retinol,The Ordinary Retinol 0.5% in Squalane,4
+skin_13,skincare,perplexity,3,cerave,(mentioned: cerave),1
+skin_13,skincare,perplexity,3,retinol,(mentioned: retinol),2
+skin_13,skincare,perplexity,3,skinceuticals,(mentioned: skinceuticals),3
+skin_13,skincare,perplexity,3,the ordinary,(mentioned: the ordinary),4
+skin_13,skincare,deepseek,1,cerave,Cleanser:** *CeraVe Hydrating Facial Cleanser,1
+skin_13,skincare,deepseek,1,skinceuticals,Vitamin C Serum,2
+skin_13,skincare,deepseek,1,neutrogena,Sunscreen,3
+skin_13,skincare,deepseek,1,la roche-posay,"Moisturizer:** same as morning, but you can use a richer one like *Vanicream Moisturizing Cream",4
+skin_13,skincare,deepseek,1,vanicream,Vanicream Daily Facial Moisturizer,5
+skin_13,skincare,deepseek,2,cerave,(mentioned: cerave),1
+skin_13,skincare,deepseek,2,niacinamide,(mentioned: niacinamide),2
+skin_13,skincare,deepseek,2,la roche-posay,(mentioned: la roche-posay),3
+skin_13,skincare,deepseek,2,eltamd,(mentioned: eltamd),4
+skin_13,skincare,deepseek,2,adapalene,(mentioned: adapalene),5
+skin_13,skincare,deepseek,2,differin,(mentioned: differin),6
+skin_13,skincare,deepseek,2,neutrogena,(mentioned: neutrogena),7
+skin_13,skincare,deepseek,2,the ordinary,(mentioned: the ordinary),8
+skin_13,skincare,deepseek,2,supergoop,(mentioned: supergoop),9
+skin_13,skincare,deepseek,3,cerave,Cleanser: CeraVe Hydrating Facial Cleanser,1
+skin_13,skincare,deepseek,3,la roche-posay,Moisturizer: La Roche,2
+skin_13,skincare,deepseek,3,supergoop,Sunscreen,3
+skin_13,skincare,deepseek,3,skinceuticals,Vitamin C Serum,4
+skin_13,skincare,deepseek,3,retinol,Retinol,5
+skin_14,skincare,chatgpt,1,cerave,CeraVe Moisturizing Cream,1
+skin_14,skincare,chatgpt,1,la roche-posay,La Roche,2
+skin_14,skincare,chatgpt,2,cerave,CeraVe Moisturizing Cream,1
+skin_14,skincare,chatgpt,2,la roche-posay,La Roche,2
+skin_14,skincare,chatgpt,2,vanicream,Vanicream Moisturizing Cream,3
+skin_14,skincare,chatgpt,3,cerave,CeraVe Moisturizing Cream,1
+skin_14,skincare,chatgpt,3,la roche-posay,La Roche,2
+skin_14,skincare,chatgpt,3,neutrogena,Neutrogena Hydro Boost Gel,3
+skin_14,skincare,chatgpt,3,vanicream,Vanicream Daily Facial Moisturizer,4
+skin_14,skincare,gemini,1,cerave,CeraVe Moisturizing Cream,1
+skin_14,skincare,gemini,1,la roche-posay,La Roche,2
+skin_14,skincare,gemini,1,neutrogena,Neutrogena Hydro Boost Water Gel with Hyaluronic Acid,3
+skin_14,skincare,gemini,1,cetaphil,Cetaphil Moisturizing Cream for Dry to Very Dry Skin,4
+skin_14,skincare,gemini,1,kiehl's,Kiehl's Ultra Facial Cream,5
+skin_14,skincare,gemini,1,aveeno,Aveeno Calm + Restore Oat Gel Moisturizer,6
+skin_14,skincare,gemini,1,vanicream,Vanicream Moisturizing Cream,7
+skin_14,skincare,gemini,1,vichy,Vichy Aqualia Thermal Water Gel Hydrating Gel Moisturizer,8
+skin_14,skincare,gemini,1,skinceuticals,SkinCeuticals Daily Moisture,9
+skin_14,skincare,gemini,2,cerave,(mentioned: cerave),1
+skin_14,skincare,gemini,2,niacinamide,(mentioned: niacinamide),2
+skin_14,skincare,gemini,2,la roche-posay,(mentioned: la roche-posay),3
+skin_14,skincare,gemini,2,kiehl's,(mentioned: kiehl's),4
+skin_14,skincare,gemini,2,neutrogena,(mentioned: neutrogena),5
+skin_14,skincare,gemini,2,skinceuticals,(mentioned: skinceuticals),6
+skin_14,skincare,gemini,3,cerave,(mentioned: cerave),1
+skin_14,skincare,gemini,3,niacinamide,(mentioned: niacinamide),2
+skin_14,skincare,gemini,3,la roche-posay,(mentioned: la roche-posay),3
+skin_14,skincare,gemini,3,kiehl's,(mentioned: kiehl's),4
+skin_14,skincare,gemini,3,tatcha,(mentioned: tatcha),5
+skin_14,skincare,perplexity,1,cerave,CeraVe Moisturizing Cream,1
+skin_14,skincare,perplexity,1,la roche-posay,La Roche,2
+skin_14,skincare,perplexity,1,skinceuticals,SkinCeuticals Triple Lipid Restore 2:4:2,3
+skin_14,skincare,perplexity,1,cetaphil,Cetaphil Rich Hydrating Cream,4
+skin_14,skincare,perplexity,2,cerave,CeraVe Moisturizing Cream,1
+skin_14,skincare,perplexity,2,la roche-posay,La Roche,2
+skin_14,skincare,perplexity,2,cetaphil,Cetaphil Rich Hydrating Cream,3
+skin_14,skincare,perplexity,2,skinceuticals,SkinCeuticals Triple Lipid Restore 2:4:2,4
+skin_14,skincare,perplexity,3,cerave,CeraVe Moisturizing Cream,1
+skin_14,skincare,perplexity,3,la roche-posay,La Roche,2
+skin_14,skincare,perplexity,3,cetaphil,Cetaphil Rich Hydrating Cream,3
+skin_14,skincare,perplexity,3,skinceuticals,SkinCeuticals Triple Lipid Restore 2:4:2,4
+skin_14,skincare,deepseek,1,cerave,CeraVe Moisturizing Cream,1
+skin_14,skincare,deepseek,1,niacinamide,La Roche,2
+skin_14,skincare,deepseek,1,neutrogena,Neutrogena Hydro Boost Water Gel,3
+skin_14,skincare,deepseek,2,niacinamide,La Roche,1
+skin_14,skincare,deepseek,2,cerave,CeraVe Moisturizing Cream,2
+skin_14,skincare,deepseek,2,neutrogena,Neutrogena Hydro Boost Water Gel,3
+skin_14,skincare,deepseek,3,cerave,CeraVe Moisturizing Cream,1
+skin_14,skincare,deepseek,3,la roche-posay,La Roche,2
+skin_14,skincare,deepseek,3,vanicream,Vanicream Moisturizing Cream,3
+skin_14,skincare,deepseek,3,neutrogena,Neutrogena Hydro Boost Water Gel,4
+skin_14,skincare,deepseek,3,kiehl's,Kiehl's Ultra Facial Cream,5
+skin_15,skincare,chatgpt,1,niacinamide,"Any allergies or ingredients you want to avoid:** fragrance, retinoids, acids, niacinamide, etc.",1
+skin_15,skincare,chatgpt,2,niacinamide,(mentioned: niacinamide),1
+skin_15,skincare,chatgpt,3,cerave,(mentioned: cerave),1
+skin_15,skincare,chatgpt,3,niacinamide,(mentioned: niacinamide),2
+skin_15,skincare,chatgpt,3,la roche-posay,(mentioned: la roche-posay),3
+skin_15,skincare,chatgpt,3,eltamd,(mentioned: eltamd),4
+skin_15,skincare,chatgpt,3,retinol,(mentioned: retinol),5
+skin_15,skincare,chatgpt,3,asics,(mentioned: asics),6
+skin_15,skincare,gemini,1,retinol,Treatment,1
+skin_15,skincare,gemini,2,cerave,(mentioned: cerave),1
+skin_15,skincare,gemini,2,niacinamide,(mentioned: niacinamide),2
+skin_15,skincare,gemini,2,la roche-posay,(mentioned: la roche-posay),3
+skin_15,skincare,gemini,2,eltamd,(mentioned: eltamd),4
+skin_15,skincare,gemini,2,supergoop,(mentioned: supergoop),5
+skin_15,skincare,perplexity,1,niacinamide,(mentioned: niacinamide),1
+skin_15,skincare,perplexity,2,cerave,(mentioned: cerave),1
+skin_15,skincare,perplexity,2,niacinamide,(mentioned: niacinamide),2
+skin_15,skincare,perplexity,2,la roche-posay,(mentioned: la roche-posay),3
+skin_15,skincare,perplexity,2,eltamd,(mentioned: eltamd),4
+skin_15,skincare,perplexity,2,adapalene,(mentioned: adapalene),5
+skin_15,skincare,perplexity,2,retinol,(mentioned: retinol),6
+skin_15,skincare,perplexity,2,differin,(mentioned: differin),7
+skin_15,skincare,perplexity,2,cetaphil,(mentioned: cetaphil),8
+skin_15,skincare,perplexity,2,paula's choice,(mentioned: paula's choice),9
+skin_15,skincare,perplexity,2,neutrogena,(mentioned: neutrogena),10
+skin_15,skincare,perplexity,2,the ordinary,(mentioned: the ordinary),11
+skin_15,skincare,perplexity,2,supergoop,(mentioned: supergoop),12
+skin_15,skincare,perplexity,3,cerave,Cleanser**: CeraVe Hydrating Facial Cleanser,1
+skin_15,skincare,perplexity,3,the ordinary,Serum**: The Ordinary Hyaluronic Acid 2% + B5,2
+skin_15,skincare,perplexity,3,niacinamide,Serum**: The Ordinary Niacinamide 10% + Zinc 1%,3
+skin_15,skincare,perplexity,3,la roche-posay,Moisturizer**: La Roche,4
+skin_15,skincare,perplexity,3,eltamd,Sunscreen**: EltaMD UV Clear Broad,5
+skin_15,skincare,perplexity,3,paula's choice,Treatment**: Paula's Choice 2% BHA Liquid Exfoliant,6
+skin_15,skincare,perplexity,3,cetaphil,Cleanser**: Cetaphil Gentle Skin Cleanser,7
+skin_15,skincare,perplexity,3,neutrogena,Moisturizer**: Neutrogena Hydro Boost Gel,8
+skin_15,skincare,perplexity,3,supergoop,Sunscreen**: Supergoop Unseen Sunscreen SPF 40,9
+skin_15,skincare,deepseek,1,retinol,"Are you a beginner, or do you have experience with active ingredients like retinol, acids, or vitamin C?",1
+skin_15,skincare,deepseek,1,cerave,CeraVe Hydrating Facial Cleanser** – $15–$17,2
+skin_15,skincare,deepseek,1,la roche-posay,La Roche,3
+skin_15,skincare,deepseek,1,vanicream,Vanicream Gentle Facial Cleanser** – $10–$12,4
+skin_15,skincare,deepseek,1,neutrogena,Neutrogena Hydro Boost Water Gel** – $17–$20,5
+skin_15,skincare,deepseek,1,supergoop,Supergoop! Unseen Sunscreen SPF 40** – $38,6
+skin_15,skincare,deepseek,2,cerave,(mentioned: cerave),1
+skin_15,skincare,deepseek,2,niacinamide,(mentioned: niacinamide),2
+skin_15,skincare,deepseek,2,la roche-posay,(mentioned: la roche-posay),3
+skin_15,skincare,deepseek,2,eltamd,(mentioned: eltamd),4
+skin_15,skincare,deepseek,2,retinol,(mentioned: retinol),5
+skin_15,skincare,deepseek,2,skinceuticals,(mentioned: skinceuticals),6
+skin_15,skincare,deepseek,2,tatcha,(mentioned: tatcha),7
+skin_15,skincare,deepseek,2,the ordinary,(mentioned: the ordinary),8
+skin_15,skincare,deepseek,2,supergoop,(mentioned: supergoop),9
+skin_15,skincare,deepseek,3,retinol,Retinol,1

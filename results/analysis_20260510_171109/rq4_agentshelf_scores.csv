@@ -1,0 +1,606 @@
+query_id,category,query_text,brand,cross_engine_consensus,engines_recommending,n_engines,self_consistency,citation_rate,agentshelf_score
+earbuds_01,earbuds,What are the best wireless earbuds under $50?,anker,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+earbuds_01,earbuds,What are the best wireless earbuds under $50?,tozo,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+earbuds_05,earbuds,I work in a noisy office and need good ANC earbuds around $80. What do you sugge,earfun,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+earbuds_08,earbuds,What are the best premium wireless earbuds money can buy in 2026?,sony,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",sony,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+earbuds_10,earbuds,Best wireless earbuds for audiophiles who care about sound quality above all els,sony,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+kb_02,keyboards,Recommend a cheap but good mechanical keyboard for typing,keychron,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+kb_03,keyboards,Budget mechanical keyboard for a college student who codes,keychron,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,keychron,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,keychron,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+kb_12,keyboards,Recommend a mechanical keyboard that's good for both coding and gaming,keychron,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+shoes_08,running_shoes,What are the best carbon plate racing shoes for marathon?,nike,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+shoes_08,running_shoes,What are the best carbon plate racing shoes for marathon?,asics,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+shoes_11,running_shoes,I'm overweight (250 lbs) and starting to run. What shoes have enough support?,asics,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+shoes_11,running_shoes,I'm overweight (250 lbs) and starting to run. What shoes have enough support?,brooks,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+skin_01,skincare,Best daily moisturizer for oily skin under $20,cerave,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+skin_01,skincare,Best daily moisturizer for oily skin under $20,neutrogena,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+skin_10,skincare,Best high-end retinol product regardless of price,retinol,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.8,96.0
+earbuds_08,earbuds,What are the best premium wireless earbuds money can buy in 2026?,apple,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.857,95.1
+earbuds_02,earbuds,Recommend cheap wireless earbuds for a college student on a tight budget,anker,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.733,94.7
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,hoka,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.733,94.7
+skin_03,skincare,What's a good drugstore retinol product for beginners?,retinol,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.733,94.7
+skin_07,skincare,"Best moisturizer for sensitive skin that doesn't cause breakouts, under $35",la roche-posay,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,1.0,0.733,94.7
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,sony,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.867,0.923,94.5
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,anker,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+earbuds_05,earbuds,I work in a noisy office and need good ANC earbuds around $80. What do you sugge,anker,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+kb_07,keyboards,I want a hot-swappable mechanical keyboard with RGB under $100,keychron,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+kb_10,keyboards,Best ergonomic split mechanical keyboard for someone with RSI,kinesis,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+shoes_01,running_shoes,Best running shoes under $80 for beginners,asics,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+shoes_06,running_shoes,Best daily training shoes for runners who do 30-40 miles per week,asics,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+shoes_07,running_shoes,"Recommend stability running shoes for someone with flat feet, under $140",brooks,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+shoes_07,running_shoes,"Recommend stability running shoes for someone with flat feet, under $140",saucony,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,adidas,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,asics,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+shoes_11,running_shoes,I'm overweight (250 lbs) and starting to run. What shoes have enough support?,hoka,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+shoes_12,running_shoes,Best running shoes for women with wide feet,brooks,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+skin_07,skincare,"Best moisturizer for sensitive skin that doesn't cause breakouts, under $35",cerave,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.786,93.7
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,steelseries,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.867,0.846,92.9
+kb_05,keyboards,"Recommend a wireless mechanical keyboard for office work, quiet switches preferr",logitech,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.867,0.769,91.4
+kb_05,keyboards,"Recommend a wireless mechanical keyboard for office work, quiet switches preferr",nuphy,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.867,0.769,91.4
+kb_10,keyboards,Best ergonomic split mechanical keyboard for someone with RSI,zsa,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.867,0.769,91.4
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,keychron,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.867,0.769,91.4
+shoes_04,running_shoes,What are the best running shoes between $100 and $150?,hoka,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.867,0.769,91.4
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,nike,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.867,0.769,91.4
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,soundpeats,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.833,90.7
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,earfun,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.833,90.7
+earbuds_08,earbuds,What are the best premium wireless earbuds money can buy in 2026?,bose,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.833,90.7
+shoes_01,running_shoes,Best running shoes under $80 for beginners,nike,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.833,90.7
+shoes_02,running_shoes,Recommend affordable running shoes for someone just starting to jog,asics,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.833,90.7
+shoes_14,running_shoes,Good running shoes?,asics,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.733,0.909,90.2
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,anker,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.75,89.0
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,earfun,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.75,89.0
+kb_05,keyboards,"Recommend a wireless mechanical keyboard for office work, quiet switches preferr",keychron,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.75,89.0
+shoes_04,running_shoes,What are the best running shoes between $100 and $150?,asics,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.75,89.0
+shoes_04,running_shoes,What are the best running shoes between $100 and $150?,brooks,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.75,89.0
+shoes_12,running_shoes,Best running shoes for women with wide feet,saucony,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.75,89.0
+shoes_14,running_shoes,Good running shoes?,nike,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.75,89.0
+skin_02,skincare,Recommend a cheap but effective face sunscreen for everyday use,neutrogena,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.75,89.0
+skin_04,skincare,Best vitamin C serum between $20 and $50,cerave,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.75,89.0
+skin_07,skincare,"Best moisturizer for sensitive skin that doesn't cause breakouts, under $35",vanicream,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.8,0.75,89.0
+earbuds_07,earbuds,"Best earbuds for working out and running, water resistant, under $80",anker,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.733,0.818,88.4
+kb_08,keyboards,What's the best premium mechanical keyboard regardless of price?,keychron,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.733,0.818,88.4
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",cerave,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.867,0.615,88.3
+shoes_06,running_shoes,Best daily training shoes for runners who do 30-40 miles per week,hoka,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.9,88.0
+shoes_08,running_shoes,What are the best carbon plate racing shoes for marathon?,puma,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.9,88.0
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,new balance,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.9,88.0
+skin_02,skincare,Recommend a cheap but effective face sunscreen for everyday use,cerave,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.9,88.0
+skin_06,skincare,What's the best hyaluronic acid serum under $40?,cerave,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.9,88.0
+skin_06,skincare,What's the best hyaluronic acid serum under $40?,vichy,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.9,88.0
+skin_12,skincare,Best skincare routine for a man who has never used any products before,cerave,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.933,0.5,88.0
+earbuds_10,earbuds,Best wireless earbuds for audiophiles who care about sound quality above all els,technics,0.8,"chatgpt,claude,gemini,perplexity",4,0.917,1.0,87.5
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,cerave,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.867,0.538,86.8
+earbuds_10,earbuds,Best wireless earbuds for audiophiles who care about sound quality above all els,sennheiser,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.733,0.727,86.5
+earbuds_08,earbuds,What are the best premium wireless earbuds money can buy in 2026?,technics,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.6,0.889,85.8
+shoes_07,running_shoes,"Recommend stability running shoes for someone with flat feet, under $140",new balance,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.6,0.889,85.8
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,nothing,0.8,"chatgpt,claude,gemini,perplexity",4,0.833,1.0,85.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",bose,0.8,"chatgpt,claude,deepseek,gemini",4,1.0,0.75,85.0
+earbuds_14,earbuds,Good earbuds?,sony,0.8,"chatgpt,deepseek,gemini,perplexity",4,1.0,0.75,85.0
+kb_01,keyboards,Best mechanical keyboard under $50 for a beginner,redragon,0.8,"chatgpt,claude,deepseek,gemini",4,1.0,0.75,85.0
+kb_03,keyboards,Budget mechanical keyboard for a college student who codes,royal kludge,0.8,"claude,deepseek,gemini,perplexity",4,1.0,0.75,85.0
+kb_13,keyboards,What keyboard should I get?,keychron,0.8,"chatgpt,deepseek,gemini,perplexity",4,1.0,0.75,85.0
+shoes_01,running_shoes,Best running shoes under $80 for beginners,adidas,0.8,"chatgpt,claude,gemini,perplexity",4,0.833,1.0,85.0
+shoes_02,running_shoes,Recommend affordable running shoes for someone just starting to jog,nike,0.8,"chatgpt,claude,gemini,perplexity",4,0.833,1.0,85.0
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,saucony,0.8,"chatgpt,claude,gemini,perplexity",4,0.833,1.0,85.0
+shoes_11,running_shoes,I'm overweight (250 lbs) and starting to run. What shoes have enough support?,saucony,0.8,"claude,deepseek,gemini,perplexity",4,1.0,0.75,85.0
+skin_06,skincare,What's the best hyaluronic acid serum under $40?,the ordinary,0.8,"chatgpt,claude,deepseek,gemini",4,1.0,0.75,85.0
+kb_07,keyboards,I want a hot-swappable mechanical keyboard with RGB under $100,redragon,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.7,84.0
+shoes_05,running_shoes,"Recommend running shoes for half marathon training, cushioned, around $120",brooks,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.7,84.0
+shoes_06,running_shoes,Best daily training shoes for runners who do 30-40 miles per week,new balance,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.7,84.0
+earbuds_14,earbuds,Good earbuds?,apple,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.917,0.818,83.9
+shoes_07,running_shoes,"Recommend stability running shoes for someone with flat feet, under $140",asics,0.8,"chatgpt,claude,deepseek,gemini",4,0.917,0.818,83.9
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,redragon,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.6,0.778,83.6
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,hoka,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.6,0.778,83.6
+skin_09,skincare,Recommend premium skincare products worth the splurge,skinceuticals,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.6,0.778,83.6
+shoes_08,running_shoes,What are the best carbon plate racing shoes for marathon?,hoka,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.533,0.875,83.5
+earbuds_13,earbuds,What earbuds should I buy?,sony,0.8,"chatgpt,deepseek,gemini,perplexity",4,1.0,0.667,83.3
+kb_14,keyboards,Good mechanical keyboard recommendation?,keychron,0.8,"chatgpt,deepseek,gemini,perplexity",4,1.0,0.667,83.3
+skin_03,skincare,What's a good drugstore retinol product for beginners?,cerave,0.8,"chatgpt,claude,deepseek,gemini",4,1.0,0.667,83.3
+skin_14,skincare,Good moisturizer recommendation?,cerave,0.8,"chatgpt,deepseek,gemini,perplexity",4,1.0,0.667,83.3
+earbuds_15,earbuds,I need new earbuds. Help me pick.,sony,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.9,83.0
+shoes_02,running_shoes,Recommend affordable running shoes for someone just starting to jog,brooks,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.9,83.0
+shoes_04,running_shoes,What are the best running shoes between $100 and $150?,adidas,0.8,"claude,deepseek,gemini,perplexity",4,0.833,0.9,83.0
+earbuds_13,earbuds,What earbuds should I buy?,apple,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.733,0.545,82.9
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,adapalene,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.733,0.545,82.9
+kb_01,keyboards,Best mechanical keyboard under $50 for a beginner,keychron,0.8,"chatgpt,claude,gemini,perplexity",4,0.75,1.0,82.5
+shoes_03,running_shoes,Cheap but good running shoes for casual runners under $60,adidas,0.8,"chatgpt,claude,gemini,perplexity",4,0.75,1.0,82.5
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,anker,0.8,"chatgpt,claude,deepseek,gemini",4,0.917,0.727,82.0
+earbuds_08,earbuds,What are the best premium wireless earbuds money can buy in 2026?,sennheiser,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.917,0.727,82.0
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,razer,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.917,0.727,82.0
+shoes_02,running_shoes,Recommend affordable running shoes for someone just starting to jog,saucony,0.8,"chatgpt,claude,deepseek,gemini",4,0.917,0.727,82.0
+shoes_08,running_shoes,What are the best carbon plate racing shoes for marathon?,adidas,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.917,0.727,82.0
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,salomon,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.6,82.0
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,la sportiva,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.667,0.6,82.0
+shoes_12,running_shoes,Best running shoes for women with wide feet,new balance,0.8,"claude,deepseek,gemini,perplexity",4,0.917,0.727,82.0
+shoes_12,running_shoes,Best running shoes for women with wide feet,asics,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.917,0.727,82.0
+kb_02,keyboards,Recommend a cheap but good mechanical keyboard for typing,royal kludge,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.6,0.667,81.3
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,la roche-posay,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.733,0.455,81.1
+kb_13,keyboards,What keyboard should I get?,logitech,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.8,81.0
+shoes_13,running_shoes,What running shoes should I buy?,brooks,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.8,81.0
+shoes_14,running_shoes,Good running shoes?,saucony,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.533,0.75,81.0
+skin_14,skincare,Good moisturizer recommendation?,la roche-posay,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.8,81.0
+shoes_13,running_shoes,What running shoes should I buy?,asics,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.917,0.636,80.2
+shoes_15,running_shoes,Recommend me some running shoes,asics,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.917,0.636,80.2
+earbuds_15,earbuds,I need new earbuds. Help me pick.,apple,0.6,"chatgpt,gemini,perplexity",3,1.0,1.0,80.0
+shoes_02,running_shoes,Recommend affordable running shoes for someone just starting to jog,adidas,0.8,"chatgpt,claude,gemini,perplexity",4,0.667,1.0,80.0
+shoes_14,running_shoes,Good running shoes?,adidas,0.8,"chatgpt,claude,gemini,perplexity",4,0.667,1.0,80.0
+skin_02,skincare,Recommend a cheap but effective face sunscreen for everyday use,eucerin,0.8,"chatgpt,claude,gemini,perplexity",4,0.667,1.0,80.0
+shoes_04,running_shoes,What are the best running shoes between $100 and $150?,new balance,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.7,79.0
+shoes_04,running_shoes,What are the best running shoes between $100 and $150?,nike,0.8,"chatgpt,claude,deepseek,gemini",4,0.833,0.7,79.0
+shoes_05,running_shoes,"Recommend running shoes for half marathon training, cushioned, around $120",asics,0.8,"chatgpt,claude,deepseek,perplexity",4,0.833,0.7,79.0
+shoes_06,running_shoes,Best daily training shoes for runners who do 30-40 miles per week,brooks,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.7,79.0
+shoes_08,running_shoes,What are the best carbon plate racing shoes for marathon?,saucony,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.7,79.0
+shoes_14,running_shoes,Good running shoes?,brooks,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.7,79.0
+shoes_15,running_shoes,Recommend me some running shoes,brooks,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.7,79.0
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,royal kludge,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.4,0.833,78.7
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",the ordinary,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.533,0.625,78.5
+kb_15,keyboards,Help me choose a mechanical keyboard,keychron,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.917,0.545,78.4
+skin_13,skincare,What skincare products should I use?,cerave,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.917,0.545,78.4
+shoes_13,running_shoes,What running shoes should I buy?,new balance,1.0,"chatgpt,claude,deepseek,gemini,perplexity",5,0.467,0.714,78.3
+earbuds_01,earbuds,What are the best wireless earbuds under $50?,jbl,0.8,"chatgpt,claude,deepseek,gemini",4,0.75,0.778,78.1
+kb_01,keyboards,Best mechanical keyboard under $50 for a beginner,royal kludge,0.8,"claude,deepseek,gemini,perplexity",4,0.75,0.778,78.1
+shoes_06,running_shoes,Best daily training shoes for runners who do 30-40 miles per week,nike,0.8,"chatgpt,claude,deepseek,gemini",4,0.75,0.778,78.1
+earbuds_01,earbuds,What are the best wireless earbuds under $50?,soundcore,0.8,"claude,deepseek,gemini,perplexity",4,0.667,0.875,77.5
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,liberty,0.8,"chatgpt,claude,gemini,perplexity",4,0.583,1.0,77.5
+kb_09,keyboards,Recommend a high-end custom mechanical keyboard for enthusiasts,keychron,0.8,"chatgpt,claude,gemini,perplexity",4,0.667,0.875,77.5
+skin_03,skincare,What's a good drugstore retinol product for beginners?,olay,0.8,"claude,deepseek,gemini,perplexity",4,0.667,0.875,77.5
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",retinol,0.8,"claude,deepseek,gemini,perplexity",4,0.667,0.875,77.5
+shoes_15,running_shoes,Recommend me some running shoes,saucony,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.6,77.0
+earbuds_14,earbuds,Good earbuds?,bose,0.6,"chatgpt,gemini,perplexity",3,0.889,1.0,76.7
+earbuds_15,earbuds,I need new earbuds. Help me pick.,bose,0.6,"chatgpt,gemini,perplexity",3,0.889,1.0,76.7
+shoes_02,running_shoes,Recommend affordable running shoes for someone just starting to jog,new balance,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.75,0.667,75.8
+shoes_05,running_shoes,"Recommend running shoes for half marathon training, cushioned, around $120",saucony,0.8,"chatgpt,claude,deepseek,gemini",4,0.75,0.667,75.8
+shoes_06,running_shoes,Best daily training shoes for runners who do 30-40 miles per week,saucony,0.8,"claude,deepseek,gemini,perplexity",4,0.75,0.667,75.8
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,brooks,0.8,"chatgpt,claude,deepseek,gemini",4,0.75,0.667,75.8
+skin_06,skincare,What's the best hyaluronic acid serum under $40?,la roche-posay,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.75,0.667,75.8
+shoes_03,running_shoes,Cheap but good running shoes for casual runners under $60,saucony,0.8,"claude,deepseek,gemini,perplexity",4,0.667,0.75,75.0
+shoes_05,running_shoes,"Recommend running shoes for half marathon training, cushioned, around $120",new balance,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.667,0.75,75.0
+shoes_05,running_shoes,"Recommend running shoes for half marathon training, cushioned, around $120",nike,0.8,"claude,deepseek,gemini,perplexity",4,0.667,0.75,75.0
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,saucony,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.667,0.75,75.0
+skin_08,skincare,What's the best luxury skincare brand for anti-aging?,skinceuticals,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.667,0.75,75.0
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,neutrogena,0.8,"chatgpt,claude,deepseek,gemini",4,0.833,0.5,75.0
+skin_13,skincare,What skincare products should I use?,la roche-posay,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.833,0.5,75.0
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,sony,0.8,"chatgpt,claude,deepseek,gemini",4,0.75,0.556,73.6
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,apple,0.8,"chatgpt,claude,deepseek,gemini",4,0.75,0.556,73.6
+earbuds_07,earbuds,"Best earbuds for working out and running, water resistant, under $80",jbl,0.6,"chatgpt,claude,gemini",3,0.778,1.0,73.3
+shoes_12,running_shoes,Best running shoes for women with wide feet,hoka,0.6,"claude,deepseek,gemini",3,1.0,0.667,73.3
+earbuds_02,earbuds,Recommend cheap wireless earbuds for a college student on a tight budget,soundcore,0.8,"chatgpt,claude,gemini,perplexity",4,0.417,1.0,72.5
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,tozo,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.667,0.625,72.5
+kb_14,keyboards,Good mechanical keyboard recommendation?,wooting,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.667,0.625,72.5
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,niacinamide,0.8,"claude,deepseek,gemini,perplexity",4,0.667,0.625,72.5
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,hyperx,0.8,"chatgpt,claude,deepseek,gemini",4,0.583,0.714,71.8
+skin_04,skincare,Best vitamin C serum between $20 and $50,the ordinary,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.583,0.714,71.8
+earbuds_05,earbuds,I work in a noisy office and need good ANC earbuds around $80. What do you sugge,soundcore,0.8,"claude,deepseek,gemini,perplexity",4,0.5,0.833,71.7
+earbuds_14,earbuds,Good earbuds?,sennheiser,0.6,"deepseek,gemini,perplexity",3,0.889,0.75,71.7
+kb_07,keyboards,I want a hot-swappable mechanical keyboard with RGB under $100,royal kludge,0.8,"claude,deepseek,gemini,perplexity",4,0.5,0.833,71.7
+kb_08,keyboards,What's the best premium mechanical keyboard regardless of price?,wooting,0.8,"chatgpt,claude,deepseek,gemini",4,0.5,0.833,71.7
+shoes_15,running_shoes,Recommend me some running shoes,adidas,0.8,"chatgpt,claude,gemini,perplexity",4,0.5,0.833,71.7
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,differin,0.8,"chatgpt,claude,deepseek,gemini",4,0.75,0.444,71.4
+earbuds_13,earbuds,What earbuds should I buy?,bose,0.6,"chatgpt,gemini,perplexity",3,0.778,0.857,70.5
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,royal kludge,0.6,"claude,deepseek,perplexity",3,0.778,0.857,70.5
+shoes_04,running_shoes,What are the best running shoes between $100 and $150?,puma,0.6,"deepseek,gemini,perplexity",3,0.778,0.857,70.5
+earbuds_02,earbuds,Recommend cheap wireless earbuds for a college student on a tight budget,jbl,0.6,"chatgpt,claude,gemini",3,0.667,1.0,70.0
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,soundpeats,0.4,"claude,perplexity",2,1.0,1.0,70.0
+shoes_06,running_shoes,Best daily training shoes for runners who do 30-40 miles per week,mizuno,0.6,"chatgpt,claude,perplexity",3,0.667,1.0,70.0
+skin_06,skincare,What's the best hyaluronic acid serum under $40?,good molecules,0.6,"claude,gemini,perplexity",3,0.667,1.0,70.0
+skin_07,skincare,"Best moisturizer for sensitive skin that doesn't cause breakouts, under $35",neutrogena,0.6,"claude,gemini,perplexity",3,0.667,1.0,70.0
+earbuds_02,earbuds,Recommend cheap wireless earbuds for a college student on a tight budget,tozo,0.6,"claude,deepseek,gemini",3,0.889,0.625,69.2
+shoes_01,running_shoes,Best running shoes under $80 for beginners,saucony,0.6,"claude,deepseek,gemini",3,0.889,0.625,69.2
+shoes_14,running_shoes,Good running shoes?,hoka,0.6,"chatgpt,deepseek,gemini",3,0.889,0.625,69.2
+skin_01,skincare,Best daily moisturizer for oily skin under $20,la roche-posay,0.6,"chatgpt,deepseek,perplexity",3,0.889,0.625,69.2
+skin_12,skincare,Best skincare routine for a man who has never used any products before,neutrogena,0.8,"chatgpt,claude,deepseek,gemini",4,0.75,0.333,69.2
+shoes_13,running_shoes,What running shoes should I buy?,nike,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.583,0.571,68.9
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,soundcore,0.8,"claude,deepseek,gemini,perplexity",4,0.417,0.8,68.5
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,wooting,0.8,"chatgpt,claude,deepseek,gemini",4,0.417,0.8,68.5
+shoes_03,running_shoes,Cheap but good running shoes for casual runners under $60,reebok,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.417,0.8,68.5
+shoes_06,running_shoes,Best daily training shoes for runners who do 30-40 miles per week,adidas,0.8,"chatgpt,claude,deepseek,gemini",4,0.417,0.8,68.5
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,soundcore,0.8,"claude,deepseek,gemini,perplexity",4,0.5,0.667,68.3
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,samsung,0.6,"claude,deepseek,gemini",3,0.778,0.714,67.6
+shoes_03,running_shoes,Cheap but good running shoes for casual runners under $60,nike,0.6,"chatgpt,deepseek,perplexity",3,0.778,0.714,67.6
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,nike,0.6,"deepseek,gemini,perplexity",3,0.778,0.714,67.6
+skin_15,skincare,Help me build a skincare routine,niacinamide,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.667,0.375,67.5
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,earfun,0.6,"claude,deepseek,perplexity",3,0.667,0.833,66.7
+earbuds_13,earbuds,What earbuds should I buy?,technics,0.6,"chatgpt,gemini,perplexity",3,0.556,1.0,66.7
+earbuds_15,earbuds,I need new earbuds. Help me pick.,anker,0.6,"chatgpt,deepseek,gemini",3,0.667,0.833,66.7
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,royal kludge,0.6,"chatgpt,claude,gemini",3,0.556,1.0,66.7
+kb_14,keyboards,Good mechanical keyboard recommendation?,nuphy,0.6,"chatgpt,gemini,perplexity",3,0.667,0.833,66.7
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,brooks,0.6,"claude,gemini,perplexity",3,0.556,1.0,66.7
+skin_01,skincare,Best daily moisturizer for oily skin under $20,cetaphil,0.6,"deepseek,gemini,perplexity",3,0.667,0.833,66.7
+earbuds_07,earbuds,"Best earbuds for working out and running, water resistant, under $80",skullcandy,0.8,"chatgpt,claude,deepseek,gemini",4,0.333,0.75,65.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",apple,0.4,"chatgpt,claude",2,0.833,1.0,65.0
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,nuphy,0.4,"chatgpt,claude",2,0.833,1.0,65.0
+shoes_03,running_shoes,Cheap but good running shoes for casual runners under $60,new balance,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.5,0.5,65.0
+shoes_03,running_shoes,Cheap but good running shoes for casual runners under $60,asics,0.8,"chatgpt,claude,deepseek,gemini",4,0.5,0.5,65.0
+shoes_11,running_shoes,I'm overweight (250 lbs) and starting to run. What shoes have enough support?,new balance,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.5,0.5,65.0
+skin_09,skincare,Recommend premium skincare products worth the splurge,sk-ii,0.8,"chatgpt,claude,deepseek,gemini",4,0.5,0.5,65.0
+skin_14,skincare,Good moisturizer recommendation?,skinceuticals,0.4,"gemini,perplexity",2,0.833,1.0,65.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",sennheiser,0.6,"chatgpt,deepseek,gemini",3,0.778,0.571,64.8
+kb_13,keyboards,What keyboard should I get?,wooting,0.6,"chatgpt,deepseek,gemini",3,0.778,0.571,64.8
+shoes_01,running_shoes,Best running shoes under $80 for beginners,new balance,0.6,"chatgpt,deepseek,gemini",3,0.778,0.571,64.8
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,akko,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.417,0.6,64.5
+kb_09,keyboards,Recommend a high-end custom mechanical keyboard for enthusiasts,craft,0.8,"chatgpt,claude,deepseek,gemini",4,0.417,0.6,64.5
+skin_13,skincare,What skincare products should I use?,niacinamide,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.417,0.6,64.5
+earbuds_01,earbuds,What are the best wireless earbuds under $50?,earfun,0.6,"claude,deepseek,gemini",3,0.667,0.667,63.3
+earbuds_14,earbuds,Good earbuds?,anker,0.6,"chatgpt,deepseek,gemini",3,0.667,0.667,63.3
+kb_15,keyboards,Help me choose a mechanical keyboard,logitech,0.6,"chatgpt,gemini,perplexity",3,0.667,0.667,63.3
+skin_12,skincare,Best skincare routine for a man who has never used any products before,la roche-posay,0.8,"chatgpt,claude,deepseek,gemini",4,0.583,0.286,63.2
+earbuds_01,earbuds,What are the best wireless earbuds under $50?,sony,0.6,"claude,deepseek,perplexity",3,0.556,0.8,62.7
+earbuds_13,earbuds,What earbuds should I buy?,sennheiser,0.6,"deepseek,gemini,perplexity",3,0.556,0.8,62.7
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,akko,0.6,"claude,deepseek,gemini",3,0.556,0.8,62.7
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,glorious,0.6,"deepseek,gemini,perplexity",3,0.556,0.8,62.7
+shoes_12,running_shoes,Best running shoes for women with wide feet,on running,0.6,"claude,deepseek,perplexity",3,0.556,0.8,62.7
+shoes_12,running_shoes,Best running shoes for women with wide feet,altra,0.6,"deepseek,gemini,perplexity",3,0.556,0.8,62.7
+shoes_14,running_shoes,Good running shoes?,new balance,0.6,"claude,gemini,perplexity",3,0.556,0.8,62.7
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",cetaphil,0.6,"claude,deepseek,perplexity",3,0.556,0.8,62.7
+skin_06,skincare,What's the best hyaluronic acid serum under $40?,neutrogena,0.6,"claude,deepseek,perplexity",3,0.556,0.8,62.7
+shoes_15,running_shoes,Recommend me some running shoes,hoka,0.6,"chatgpt,deepseek,gemini",3,0.778,0.429,61.9
+skin_15,skincare,Help me build a skincare routine,cerave,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.5,0.333,61.7
+skin_15,skincare,Help me build a skincare routine,la roche-posay,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.5,0.333,61.7
+skin_15,skincare,Help me build a skincare routine,eltamd,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.417,0.4,60.5
+earbuds_01,earbuds,What are the best wireless earbuds under $50?,soundpeats,0.4,"gemini,perplexity",2,0.667,1.0,60.0
+earbuds_02,earbuds,Recommend cheap wireless earbuds for a college student on a tight budget,realme,0.4,"gemini,perplexity",2,0.667,1.0,60.0
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,oneplus,0.4,"chatgpt,claude",2,0.667,1.0,60.0
+earbuds_08,earbuds,What are the best premium wireless earbuds money can buy in 2026?,bang & olufsen,0.2,claude,1,1.0,1.0,60.0
+earbuds_08,earbuds,What are the best premium wireless earbuds money can buy in 2026?,jbl,0.2,perplexity,1,1.0,1.0,60.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",soundcore,0.2,claude,1,1.0,1.0,60.0
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,bose,0.4,"chatgpt,gemini",2,1.0,0.5,60.0
+earbuds_14,earbuds,Good earbuds?,jbl,0.4,"gemini,perplexity",2,0.667,1.0,60.0
+earbuds_15,earbuds,I need new earbuds. Help me pick.,sennheiser,0.4,"gemini,perplexity",2,0.667,1.0,60.0
+kb_02,keyboards,Recommend a cheap but good mechanical keyboard for typing,redragon,0.6,"claude,deepseek,gemini",3,0.667,0.5,60.0
+kb_02,keyboards,Recommend a cheap but good mechanical keyboard for typing,nuphy,0.2,perplexity,1,1.0,1.0,60.0
+kb_03,keyboards,Budget mechanical keyboard for a college student who codes,ajazz,0.4,"gemini,perplexity",2,0.667,1.0,60.0
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,nuphy,0.4,"chatgpt,gemini",2,0.667,1.0,60.0
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,ajazz,0.4,"claude,perplexity",2,0.667,1.0,60.0
+kb_07,keyboards,I want a hot-swappable mechanical keyboard with RGB under $100,akko,0.4,"claude,gemini",2,0.667,1.0,60.0
+kb_10,keyboards,Best ergonomic split mechanical keyboard for someone with RSI,keychron,0.4,"claude,gemini",2,0.667,1.0,60.0
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,corsair,0.4,"chatgpt,perplexity",2,0.667,1.0,60.0
+kb_12,keyboards,Recommend a mechanical keyboard that's good for both coding and gaming,nuphy,0.4,"chatgpt,perplexity",2,0.667,1.0,60.0
+kb_15,keyboards,Help me choose a mechanical keyboard,epomaker,0.2,perplexity,1,1.0,1.0,60.0
+shoes_02,running_shoes,Recommend affordable running shoes for someone just starting to jog,puma,0.2,perplexity,1,1.0,1.0,60.0
+shoes_04,running_shoes,What are the best running shoes between $100 and $150?,saucony,0.6,"chatgpt,deepseek,gemini",3,0.667,0.5,60.0
+shoes_12,running_shoes,Best running shoes for women with wide feet,topo athletic,0.4,"gemini,perplexity",2,0.667,1.0,60.0
+shoes_13,running_shoes,What running shoes should I buy?,hoka,0.6,"chatgpt,deepseek,gemini",3,0.667,0.5,60.0
+shoes_15,running_shoes,Recommend me some running shoes,new balance,0.8,"chatgpt,claude,deepseek,gemini",4,0.333,0.5,60.0
+shoes_15,running_shoes,Recommend me some running shoes,nike,0.6,"chatgpt,deepseek,gemini",3,0.667,0.5,60.0
+shoes_15,running_shoes,Recommend me some running shoes,puma,0.2,perplexity,1,1.0,1.0,60.0
+skin_02,skincare,Recommend a cheap but effective face sunscreen for everyday use,la roche-posay,0.4,"chatgpt,perplexity",2,0.667,1.0,60.0
+skin_02,skincare,Recommend a cheap but effective face sunscreen for everyday use,olay,0.4,"chatgpt,perplexity",2,0.667,1.0,60.0
+skin_03,skincare,What's a good drugstore retinol product for beginners?,adapalene,0.2,claude,1,1.0,1.0,60.0
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",vanicream,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.333,0.5,60.0
+skin_07,skincare,"Best moisturizer for sensitive skin that doesn't cause breakouts, under $35",cetaphil,0.4,"claude,perplexity",2,0.667,1.0,60.0
+skin_08,skincare,What's the best luxury skincare brand for anti-aging?,sulwhasoo,0.2,claude,1,1.0,1.0,60.0
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,cetaphil,0.2,claude,1,1.0,1.0,60.0
+skin_14,skincare,Good moisturizer recommendation?,cetaphil,0.4,"gemini,perplexity",2,0.667,1.0,60.0
+earbuds_07,earbuds,"Best earbuds for working out and running, water resistant, under $80",beats,0.6,"claude,deepseek,perplexity",3,0.556,0.6,58.7
+kb_07,keyboards,I want a hot-swappable mechanical keyboard with RGB under $100,epomaker,0.6,"deepseek,gemini,perplexity",3,0.556,0.6,58.7
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",niacinamide,0.6,"chatgpt,gemini,perplexity",3,0.556,0.6,58.7
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",neutrogena,0.6,"claude,deepseek,perplexity",3,0.556,0.6,58.7
+skin_13,skincare,What skincare products should I use?,eltamd,0.6,"chatgpt,deepseek,gemini",3,0.556,0.6,58.7
+earbuds_02,earbuds,Recommend cheap wireless earbuds for a college student on a tight budget,skullcandy,0.6,"chatgpt,deepseek,gemini",3,0.444,0.75,58.3
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,akko,0.6,"chatgpt,claude,deepseek",3,0.444,0.75,58.3
+skin_15,skincare,Help me build a skincare routine,retinol,0.8,"chatgpt,deepseek,gemini,perplexity",4,0.5,0.167,58.3
+earbuds_01,earbuds,What are the best wireless earbuds under $50?,skullcandy,0.4,"deepseek,gemini",2,0.833,0.6,57.0
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,epomaker,0.4,"claude,deepseek",2,0.833,0.6,57.0
+skin_14,skincare,Good moisturizer recommendation?,neutrogena,0.6,"chatgpt,deepseek,gemini",3,0.667,0.333,56.7
+skin_12,skincare,Best skincare routine for a man who has never used any products before,eltamd,0.8,"chatgpt,claude,deepseek,gemini",4,0.417,0.2,56.5
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,oneplus,0.4,"chatgpt,perplexity",2,0.5,1.0,55.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",anker,0.4,"deepseek,perplexity",2,0.667,0.75,55.0
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,samsung,0.4,"claude,deepseek",2,0.667,0.75,55.0
+earbuds_15,earbuds,I need new earbuds. Help me pick.,technics,0.4,"chatgpt,gemini",2,0.5,1.0,55.0
+earbuds_15,earbuds,I need new earbuds. Help me pick.,jabra,0.4,"chatgpt,gemini",2,0.5,1.0,55.0
+earbuds_15,earbuds,I need new earbuds. Help me pick.,soundcore,0.4,"chatgpt,gemini",2,0.5,1.0,55.0
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,ajazz,0.4,"gemini,perplexity",2,0.5,1.0,55.0
+kb_08,keyboards,What's the best premium mechanical keyboard regardless of price?,razer,0.4,"chatgpt,gemini",2,0.5,1.0,55.0
+kb_09,keyboards,Recommend a high-end custom mechanical keyboard for enthusiasts,wooting,0.4,"claude,gemini",2,0.5,1.0,55.0
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,ajazz,0.4,"gemini,perplexity",2,0.5,1.0,55.0
+shoes_05,running_shoes,"Recommend running shoes for half marathon training, cushioned, around $120",hoka,0.4,"gemini,perplexity",2,0.5,1.0,55.0
+shoes_05,running_shoes,"Recommend running shoes for half marathon training, cushioned, around $120",reebok,0.4,"chatgpt,perplexity",2,0.5,1.0,55.0
+shoes_07,running_shoes,"Recommend stability running shoes for someone with flat feet, under $140",mizuno,0.4,"gemini,perplexity",2,0.5,1.0,55.0
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,mizuno,0.4,"chatgpt,gemini",2,0.5,1.0,55.0
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,puma,0.4,"chatgpt,claude",2,0.5,1.0,55.0
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,altra,0.4,"gemini,perplexity",2,0.5,1.0,55.0
+shoes_13,running_shoes,What running shoes should I buy?,adidas,0.4,"claude,perplexity",2,0.667,0.75,55.0
+skin_02,skincare,Recommend a cheap but effective face sunscreen for everyday use,niacinamide,0.4,"claude,perplexity",2,0.5,1.0,55.0
+skin_02,skincare,Recommend a cheap but effective face sunscreen for everyday use,cetaphil,0.4,"deepseek,gemini",2,0.667,0.75,55.0
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",the inkey list,0.4,"deepseek,perplexity",2,0.667,0.75,55.0
+skin_09,skincare,Recommend premium skincare products worth the splurge,tatcha,0.4,"chatgpt,claude",2,0.667,0.75,55.0
+skin_13,skincare,What skincare products should I use?,retinol,0.4,"deepseek,perplexity",2,0.667,0.75,55.0
+skin_14,skincare,Good moisturizer recommendation?,kiehl's,0.4,"deepseek,gemini",2,0.667,0.75,55.0
+earbuds_07,earbuds,"Best earbuds for working out and running, water resistant, under $80",tozo,0.6,"claude,deepseek,gemini",3,0.556,0.4,54.7
+earbuds_13,earbuds,What earbuds should I buy?,anker,0.6,"chatgpt,deepseek,gemini",3,0.556,0.4,54.7
+kb_12,keyboards,Recommend a mechanical keyboard that's good for both coding and gaming,logitech,0.6,"claude,deepseek,gemini",3,0.556,0.4,54.7
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",la roche-posay,0.6,"chatgpt,deepseek,perplexity",3,0.556,0.4,54.7
+skin_15,skincare,Help me build a skincare routine,supergoop,0.6,"deepseek,gemini,perplexity",3,0.556,0.4,54.7
+earbuds_02,earbuds,Recommend cheap wireless earbuds for a college student on a tight budget,earfun,0.6,"chatgpt,gemini,perplexity",3,0.333,0.667,53.3
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,tozo,0.6,"chatgpt,deepseek,gemini",3,0.444,0.5,53.3
+earbuds_07,earbuds,"Best earbuds for working out and running, water resistant, under $80",soundcore,0.6,"deepseek,gemini,perplexity",3,0.333,0.667,53.3
+earbuds_08,earbuds,What are the best premium wireless earbuds money can buy in 2026?,samsung,0.6,"chatgpt,deepseek,gemini",3,0.333,0.667,53.3
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",jabra,0.6,"chatgpt,deepseek,gemini",3,0.333,0.667,53.3
+kb_10,keyboards,Best ergonomic split mechanical keyboard for someone with RSI,ergodox,0.6,"chatgpt,deepseek,gemini",3,0.444,0.5,53.3
+shoes_08,running_shoes,What are the best carbon plate racing shoes for marathon?,new balance,0.6,"deepseek,gemini,perplexity",3,0.444,0.5,53.3
+skin_04,skincare,Best vitamin C serum between $20 and $50,skinceuticals,0.6,"claude,deepseek,gemini",3,0.333,0.667,53.3
+skin_12,skincare,Best skincare routine for a man who has never used any products before,niacinamide,0.6,"chatgpt,claude,perplexity",3,0.444,0.5,53.3
+skin_14,skincare,Good moisturizer recommendation?,vanicream,0.6,"chatgpt,deepseek,gemini",3,0.444,0.5,53.3
+shoes_13,running_shoes,What running shoes should I buy?,saucony,0.4,"deepseek,gemini",2,0.833,0.4,53.0
+earbuds_01,earbuds,What are the best wireless earbuds under $50?,moondrop,0.2,gemini,1,0.667,1.0,50.0
+earbuds_01,earbuds,What are the best wireless earbuds under $50?,edifier,0.2,gemini,1,0.667,1.0,50.0
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,edifier,0.2,chatgpt,1,0.667,1.0,50.0
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,soundpeats,0.2,gemini,1,0.667,1.0,50.0
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,samsung,0.2,chatgpt,1,0.667,1.0,50.0
+earbuds_05,earbuds,I work in a noisy office and need good ANC earbuds around $80. What do you sugge,liberty,0.2,claude,1,0.667,1.0,50.0
+earbuds_05,earbuds,I work in a noisy office and need good ANC earbuds around $80. What do you sugge,sony,0.2,chatgpt,1,0.667,1.0,50.0
+earbuds_05,earbuds,I work in a noisy office and need good ANC earbuds around $80. What do you sugge,oneplus,0.2,perplexity,1,0.667,1.0,50.0
+earbuds_05,earbuds,I work in a noisy office and need good ANC earbuds around $80. What do you sugge,nothing,0.2,chatgpt,1,0.667,1.0,50.0
+earbuds_05,earbuds,I work in a noisy office and need good ANC earbuds around $80. What do you sugge,apple,0.2,claude,1,0.667,1.0,50.0
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,liberty,0.4,"claude,gemini",2,0.333,1.0,50.0
+earbuds_07,earbuds,"Best earbuds for working out and running, water resistant, under $80",soundpeats,0.2,perplexity,1,0.667,1.0,50.0
+earbuds_07,earbuds,"Best earbuds for working out and running, water resistant, under $80",earfun,0.4,"chatgpt,gemini",2,0.333,1.0,50.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",beats,0.2,perplexity,1,0.667,1.0,50.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",jbl,0.4,"gemini,perplexity",2,0.333,1.0,50.0
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,soundcore,0.2,chatgpt,1,0.667,1.0,50.0
+earbuds_13,earbuds,What earbuds should I buy?,oneplus,0.2,perplexity,1,0.667,1.0,50.0
+earbuds_13,earbuds,What earbuds should I buy?,jabra,0.4,"deepseek,gemini",2,0.667,0.5,50.0
+earbuds_14,earbuds,Good earbuds?,technics,0.2,chatgpt,1,0.667,1.0,50.0
+earbuds_14,earbuds,Good earbuds?,soundcore,0.2,gemini,1,0.667,1.0,50.0
+earbuds_15,earbuds,I need new earbuds. Help me pick.,liberty,0.4,"gemini,perplexity",2,0.333,1.0,50.0
+earbuds_15,earbuds,I need new earbuds. Help me pick.,huawei,0.2,perplexity,1,0.667,1.0,50.0
+kb_01,keyboards,Best mechanical keyboard under $50 for a beginner,apple,0.2,perplexity,1,0.667,1.0,50.0
+kb_02,keyboards,Recommend a cheap but good mechanical keyboard for typing,akko,0.2,gemini,1,0.667,1.0,50.0
+kb_03,keyboards,Budget mechanical keyboard for a college student who codes,logitech,0.2,chatgpt,1,0.667,1.0,50.0
+kb_05,keyboards,"Recommend a wireless mechanical keyboard for office work, quiet switches preferr",epomaker,0.4,"claude,perplexity",2,0.333,1.0,50.0
+kb_07,keyboards,I want a hot-swappable mechanical keyboard with RGB under $100,ajazz,0.2,chatgpt,1,0.667,1.0,50.0
+kb_08,keyboards,What's the best premium mechanical keyboard regardless of price?,craft,0.2,gemini,1,0.667,1.0,50.0
+kb_08,keyboards,What's the best premium mechanical keyboard regardless of price?,corsair,0.2,claude,1,0.667,1.0,50.0
+kb_09,keyboards,Recommend a high-end custom mechanical keyboard for enthusiasts,glorious,0.4,"claude,gemini",2,0.333,1.0,50.0
+kb_09,keyboards,Recommend a high-end custom mechanical keyboard for enthusiasts,nuphy,0.2,perplexity,1,0.667,1.0,50.0
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,craft,0.2,gemini,1,0.667,1.0,50.0
+kb_12,keyboards,Recommend a mechanical keyboard that's good for both coding and gaming,wooting,0.4,"claude,gemini",2,0.333,1.0,50.0
+kb_12,keyboards,Recommend a mechanical keyboard that's good for both coding and gaming,royal kludge,0.2,perplexity,1,0.667,1.0,50.0
+kb_13,keyboards,What keyboard should I get?,razer,0.2,gemini,1,0.667,1.0,50.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,razer,0.4,"chatgpt,gemini",2,0.333,1.0,50.0
+kb_15,keyboards,Help me choose a mechanical keyboard,wooting,0.2,gemini,1,0.667,1.0,50.0
+kb_15,keyboards,Help me choose a mechanical keyboard,glorious,0.2,gemini,1,0.667,1.0,50.0
+shoes_05,running_shoes,"Recommend running shoes for half marathon training, cushioned, around $120",topo athletic,0.2,perplexity,1,0.667,1.0,50.0
+shoes_05,running_shoes,"Recommend running shoes for half marathon training, cushioned, around $120",adidas,0.4,"claude,gemini",2,0.333,1.0,50.0
+shoes_07,running_shoes,"Recommend stability running shoes for someone with flat feet, under $140",adidas,0.4,"claude,perplexity",2,0.333,1.0,50.0
+shoes_07,running_shoes,"Recommend stability running shoes for someone with flat feet, under $140",altra,0.2,perplexity,1,0.667,1.0,50.0
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,new balance,0.4,"chatgpt,claude",2,0.333,1.0,50.0
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,adidas,0.4,"claude,gemini",2,0.333,1.0,50.0
+skin_01,skincare,Best daily moisturizer for oily skin under $20,aveeno,0.2,gemini,1,0.667,1.0,50.0
+skin_01,skincare,Best daily moisturizer for oily skin under $20,versed,0.2,gemini,1,0.667,1.0,50.0
+skin_01,skincare,Best daily moisturizer for oily skin under $20,good molecules,0.2,perplexity,1,0.667,1.0,50.0
+skin_03,skincare,What's a good drugstore retinol product for beginners?,differin,0.4,"claude,perplexity",2,0.333,1.0,50.0
+skin_03,skincare,What's a good drugstore retinol product for beginners?,neutrogena,0.4,"claude,perplexity",2,0.333,1.0,50.0
+skin_08,skincare,What's the best luxury skincare brand for anti-aging?,sk-ii,0.2,gemini,1,0.667,1.0,50.0
+skin_10,skincare,Best high-end retinol product regardless of price,skinceuticals,0.2,claude,1,0.667,1.0,50.0
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,the ordinary,0.4,"deepseek,gemini",2,0.667,0.5,50.0
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,paula's choice,0.2,gemini,1,0.667,1.0,50.0
+skin_14,skincare,Good moisturizer recommendation?,niacinamide,0.4,"deepseek,gemini",2,0.667,0.5,50.0
+skin_15,skincare,Help me build a skincare routine,cetaphil,0.2,perplexity,1,0.667,1.0,50.0
+skin_15,skincare,Help me build a skincare routine,paula's choice,0.2,perplexity,1,0.667,1.0,50.0
+kb_15,keyboards,Help me choose a mechanical keyboard,royal kludge,0.4,"chatgpt,gemini",2,0.5,0.667,48.3
+shoes_01,running_shoes,Best running shoes under $80 for beginners,brooks,0.4,"deepseek,gemini",2,0.5,0.667,48.3
+shoes_04,running_shoes,What are the best running shoes between $100 and $150?,mizuno,0.4,"deepseek,perplexity",2,0.5,0.667,48.3
+shoes_07,running_shoes,"Recommend stability running shoes for someone with flat feet, under $140",hoka,0.4,"deepseek,gemini",2,0.5,0.667,48.3
+skin_03,skincare,What's a good drugstore retinol product for beginners?,la roche-posay,0.6,"chatgpt,deepseek,gemini",3,0.444,0.25,48.3
+skin_13,skincare,What skincare products should I use?,neutrogena,0.6,"chatgpt,deepseek,gemini",3,0.444,0.25,48.3
+skin_15,skincare,Help me build a skincare routine,the ordinary,0.4,"deepseek,perplexity",2,0.5,0.667,48.3
+skin_15,skincare,Help me build a skincare routine,neutrogena,0.4,"deepseek,perplexity",2,0.5,0.667,48.3
+skin_13,skincare,What skincare products should I use?,the ordinary,0.6,"chatgpt,deepseek,perplexity",3,0.333,0.333,46.7
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,samsung,0.4,"chatgpt,deepseek",2,0.667,0.25,45.0
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,jbl,0.4,"deepseek,gemini",2,0.667,0.25,45.0
+earbuds_14,earbuds,Good earbuds?,jabra,0.4,"deepseek,gemini",2,0.667,0.25,45.0
+kb_03,keyboards,Budget mechanical keyboard for a college student who codes,redragon,0.4,"claude,deepseek",2,0.667,0.25,45.0
+kb_12,keyboards,Recommend a mechanical keyboard that's good for both coding and gaming,ducky,0.4,"deepseek,gemini",2,0.667,0.25,45.0
+kb_15,keyboards,Help me choose a mechanical keyboard,razer,0.4,"deepseek,gemini",2,0.667,0.25,45.0
+skin_06,skincare,What's the best hyaluronic acid serum under $40?,cosrx,0.4,"deepseek,gemini",2,0.667,0.25,45.0
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,sony,0.4,"chatgpt,deepseek",2,0.5,0.333,41.7
+earbuds_13,earbuds,What earbuds should I buy?,samsung,0.4,"chatgpt,deepseek",2,0.5,0.333,41.7
+earbuds_14,earbuds,Good earbuds?,nothing,0.4,"chatgpt,deepseek",2,0.5,0.333,41.7
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,glorious,0.4,"deepseek,gemini",2,0.5,0.333,41.7
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,epomaker,0.4,"deepseek,gemini",2,0.5,0.333,41.7
+kb_13,keyboards,What keyboard should I get?,nuphy,0.4,"deepseek,gemini",2,0.5,0.333,41.7
+shoes_12,running_shoes,Best running shoes for women with wide feet,nike,0.4,"chatgpt,deepseek",2,0.5,0.333,41.7
+skin_04,skincare,Best vitamin C serum between $20 and $50,la roche-posay,0.4,"chatgpt,deepseek",2,0.5,0.333,41.7
+skin_04,skincare,Best vitamin C serum between $20 and $50,vanicream,0.4,"chatgpt,deepseek",2,0.5,0.333,41.7
+skin_12,skincare,Best skincare routine for a man who has never used any products before,cetaphil,0.4,"claude,deepseek",2,0.5,0.333,41.7
+skin_13,skincare,What skincare products should I use?,supergoop,0.4,"deepseek,gemini",2,0.5,0.333,41.7
+skin_13,skincare,What skincare products should I use?,skinceuticals,0.4,"deepseek,perplexity",2,0.5,0.333,41.7
+skin_13,skincare,What skincare products should I use?,vanicream,0.4,"chatgpt,deepseek",2,0.5,0.333,41.7
+earbuds_02,earbuds,Recommend cheap wireless earbuds for a college student on a tight budget,moondrop,0.2,gemini,1,0.333,1.0,40.0
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,moondrop,0.2,chatgpt,1,0.333,1.0,40.0
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,nothing,0.2,perplexity,1,0.333,1.0,40.0
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,asics,0.2,claude,1,0.333,1.0,40.0
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,nothing,0.2,chatgpt,1,0.333,1.0,40.0
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,apple,0.2,claude,1,0.333,1.0,40.0
+earbuds_04,earbuds,Recommend the best wireless noise-cancelling earbuds under $100,jbl,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+earbuds_05,earbuds,I work in a noisy office and need good ANC earbuds around $80. What do you sugge,tozo,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+earbuds_05,earbuds,I work in a noisy office and need good ANC earbuds around $80. What do you sugge,jbl,0.2,gemini,1,0.333,1.0,40.0
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,1more,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,jabra,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,jbl,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,soundcore,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+earbuds_07,earbuds,"Best earbuds for working out and running, water resistant, under $80",jabra,0.2,gemini,1,0.333,1.0,40.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",nothing,0.2,perplexity,1,0.333,1.0,40.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",technics,0.2,chatgpt,1,0.333,1.0,40.0
+earbuds_10,earbuds,Best wireless earbuds for audiophiles who care about sound quality above all els,bang & olufsen,0.4,"claude,deepseek",2,0.333,0.5,40.0
+earbuds_10,earbuds,Best wireless earbuds for audiophiles who care about sound quality above all els,apple,0.2,chatgpt,1,0.333,1.0,40.0
+earbuds_10,earbuds,Best wireless earbuds for audiophiles who care about sound quality above all els,nothing,0.2,chatgpt,1,0.333,1.0,40.0
+earbuds_10,earbuds,Best wireless earbuds for audiophiles who care about sound quality above all els,jbl,0.2,chatgpt,1,0.333,1.0,40.0
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,soundcore,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,logitech,0.2,gemini,1,0.333,1.0,40.0
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,tozo,0.2,claude,1,0.333,1.0,40.0
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,soundpeats,0.2,claude,1,0.333,1.0,40.0
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,earfun,0.2,claude,1,0.333,1.0,40.0
+earbuds_13,earbuds,What earbuds should I buy?,pixel,0.2,gemini,1,0.333,1.0,40.0
+earbuds_13,earbuds,What earbuds should I buy?,earfun,0.2,gemini,1,0.333,1.0,40.0
+earbuds_13,earbuds,What earbuds should I buy?,soundcore,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+earbuds_14,earbuds,Good earbuds?,liberty,0.2,gemini,1,0.333,1.0,40.0
+earbuds_14,earbuds,Good earbuds?,earfun,0.2,gemini,1,0.333,1.0,40.0
+earbuds_15,earbuds,I need new earbuds. Help me pick.,pixel,0.2,gemini,1,0.333,1.0,40.0
+earbuds_15,earbuds,I need new earbuds. Help me pick.,samsung,0.4,"chatgpt,deepseek",2,0.333,0.5,40.0
+earbuds_15,earbuds,I need new earbuds. Help me pick.,nothing,0.2,gemini,1,0.333,1.0,40.0
+earbuds_15,earbuds,I need new earbuds. Help me pick.,google,0.2,gemini,1,0.333,1.0,40.0
+kb_01,keyboards,Best mechanical keyboard under $50 for a beginner,ajazz,0.2,perplexity,1,0.333,1.0,40.0
+kb_01,keyboards,Best mechanical keyboard under $50 for a beginner,asics,0.2,perplexity,1,0.333,1.0,40.0
+kb_01,keyboards,Best mechanical keyboard under $50 for a beginner,gamakay,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+kb_01,keyboards,Best mechanical keyboard under $50 for a beginner,havit,0.4,"chatgpt,deepseek",2,0.333,0.5,40.0
+kb_02,keyboards,Recommend a cheap but good mechanical keyboard for typing,epomaker,0.2,gemini,1,0.333,1.0,40.0
+kb_02,keyboards,Recommend a cheap but good mechanical keyboard for typing,gamakay,0.2,perplexity,1,0.333,1.0,40.0
+kb_03,keyboards,Budget mechanical keyboard for a college student who codes,apple,0.2,perplexity,1,0.333,1.0,40.0
+kb_03,keyboards,Budget mechanical keyboard for a college student who codes,akko,0.2,gemini,1,0.333,1.0,40.0
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,ducky,0.2,deepseek,1,1.0,0.0,40.0
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,gamakay,0.2,claude,1,0.333,1.0,40.0
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,razer,0.2,claude,1,0.333,1.0,40.0
+kb_05,keyboards,"Recommend a wireless mechanical keyboard for office work, quiet switches preferr",razer,0.2,chatgpt,1,0.333,1.0,40.0
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,monsgeek,0.4,"chatgpt,deepseek",2,0.333,0.5,40.0
+kb_07,keyboards,I want a hot-swappable mechanical keyboard with RGB under $100,gamakay,0.2,gemini,1,0.333,1.0,40.0
+kb_08,keyboards,What's the best premium mechanical keyboard regardless of price?,monsgeek,0.2,perplexity,1,0.333,1.0,40.0
+kb_09,keyboards,Recommend a high-end custom mechanical keyboard for enthusiasts,monsgeek,0.2,perplexity,1,0.333,1.0,40.0
+kb_09,keyboards,Recommend a high-end custom mechanical keyboard for enthusiasts,nike,0.2,perplexity,1,0.333,1.0,40.0
+kb_09,keyboards,Recommend a high-end custom mechanical keyboard for enthusiasts,akko,0.2,gemini,1,0.333,1.0,40.0
+kb_10,keyboards,Best ergonomic split mechanical keyboard for someone with RSI,logitech,0.2,claude,1,0.333,1.0,40.0
+kb_10,keyboards,Best ergonomic split mechanical keyboard for someone with RSI,epomaker,0.2,chatgpt,1,0.333,1.0,40.0
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,epomaker,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,razer,0.4,"chatgpt,deepseek",2,0.333,0.5,40.0
+kb_12,keyboards,Recommend a mechanical keyboard that's good for both coding and gaming,glorious,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+kb_12,keyboards,Recommend a mechanical keyboard that's good for both coding and gaming,razer,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+kb_12,keyboards,Recommend a mechanical keyboard that's good for both coding and gaming,corsair,0.2,gemini,1,0.333,1.0,40.0
+kb_13,keyboards,What keyboard should I get?,steelseries,0.2,gemini,1,0.333,1.0,40.0
+kb_13,keyboards,What keyboard should I get?,kinesis,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+kb_13,keyboards,What keyboard should I get?,akko,0.2,gemini,1,0.333,1.0,40.0
+kb_13,keyboards,What keyboard should I get?,corsair,0.2,gemini,1,0.333,1.0,40.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,logitech,0.4,"chatgpt,deepseek",2,0.333,0.5,40.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,steelseries,0.2,gemini,1,0.333,1.0,40.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,glorious,0.2,gemini,1,0.333,1.0,40.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,ducky,0.2,deepseek,1,1.0,0.0,40.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,akko,0.2,gemini,1,0.333,1.0,40.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,yunzii,0.2,perplexity,1,0.333,1.0,40.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,corsair,0.2,chatgpt,1,0.333,1.0,40.0
+kb_15,keyboards,Help me choose a mechanical keyboard,akko,0.4,"chatgpt,gemini",2,0.333,0.5,40.0
+shoes_01,running_shoes,Best running shoes under $80 for beginners,under armour,0.2,perplexity,1,0.333,1.0,40.0
+shoes_02,running_shoes,Recommend affordable running shoes for someone just starting to jog,reebok,0.2,perplexity,1,0.333,1.0,40.0
+shoes_07,running_shoes,"Recommend stability running shoes for someone with flat feet, under $140",on running,0.2,claude,1,0.333,1.0,40.0
+shoes_07,running_shoes,"Recommend stability running shoes for someone with flat feet, under $140",reebok,0.2,perplexity,1,0.333,1.0,40.0
+shoes_08,running_shoes,What are the best carbon plate racing shoes for marathon?,brooks,0.2,chatgpt,1,0.333,1.0,40.0
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,salomon,0.2,gemini,1,0.333,1.0,40.0
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,asics,0.2,claude,1,0.333,1.0,40.0
+shoes_11,running_shoes,I'm overweight (250 lbs) and starting to run. What shoes have enough support?,nike,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+shoes_11,running_shoes,I'm overweight (250 lbs) and starting to run. What shoes have enough support?,topo athletic,0.2,perplexity,1,0.333,1.0,40.0
+shoes_14,running_shoes,Good running shoes?,puma,0.2,gemini,1,0.333,1.0,40.0
+shoes_14,running_shoes,Good running shoes?,mizuno,0.2,claude,1,0.333,1.0,40.0
+skin_01,skincare,Best daily moisturizer for oily skin under $20,differin,0.2,gemini,1,0.333,1.0,40.0
+skin_01,skincare,Best daily moisturizer for oily skin under $20,niacinamide,0.2,gemini,1,0.333,1.0,40.0
+skin_02,skincare,Recommend a cheap but effective face sunscreen for everyday use,the ordinary,0.2,claude,1,0.333,1.0,40.0
+skin_03,skincare,What's a good drugstore retinol product for beginners?,the ordinary,0.2,perplexity,1,0.333,1.0,40.0
+skin_03,skincare,What's a good drugstore retinol product for beginners?,niacinamide,0.2,claude,1,0.333,1.0,40.0
+skin_04,skincare,Best vitamin C serum between $20 and $50,neutrogena,0.2,chatgpt,1,0.333,1.0,40.0
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",differin,0.4,"chatgpt,deepseek",2,0.667,0.0,40.0
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",eltamd,0.2,perplexity,1,0.333,1.0,40.0
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",bioderma,0.2,perplexity,1,0.333,1.0,40.0
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",versed,0.2,gemini,1,0.333,1.0,40.0
+skin_06,skincare,What's the best hyaluronic acid serum under $40?,the inkey list,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+skin_07,skincare,"Best moisturizer for sensitive skin that doesn't cause breakouts, under $35",niacinamide,0.4,"chatgpt,perplexity",2,0.333,0.5,40.0
+skin_07,skincare,"Best moisturizer for sensitive skin that doesn't cause breakouts, under $35",olay,0.2,claude,1,0.333,1.0,40.0
+skin_08,skincare,What's the best luxury skincare brand for anti-aging?,retinol,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+skin_08,skincare,What's the best luxury skincare brand for anti-aging?,niacinamide,0.2,gemini,1,0.333,1.0,40.0
+skin_09,skincare,Recommend premium skincare products worth the splurge,shiseido,0.2,chatgpt,1,0.333,1.0,40.0
+skin_09,skincare,Recommend premium skincare products worth the splurge,drunk elephant,0.2,gemini,1,0.333,1.0,40.0
+skin_10,skincare,Best high-end retinol product regardless of price,clinique,0.2,perplexity,1,0.333,1.0,40.0
+skin_10,skincare,Best high-end retinol product regardless of price,murad,0.2,gemini,1,0.333,1.0,40.0
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,dermalogica,0.2,perplexity,1,0.333,1.0,40.0
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,beats,0.2,perplexity,1,0.333,1.0,40.0
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,asics,0.2,claude,1,0.333,1.0,40.0
+skin_12,skincare,Best skincare routine for a man who has never used any products before,kiehl's,0.2,gemini,1,0.333,1.0,40.0
+skin_12,skincare,Best skincare routine for a man who has never used any products before,vanicream,0.4,"deepseek,gemini",2,0.333,0.5,40.0
+skin_12,skincare,Best skincare routine for a man who has never used any products before,asics,0.4,"chatgpt,perplexity",2,0.333,0.5,40.0
+skin_13,skincare,What skincare products should I use?,kiehl's,0.2,gemini,1,0.333,1.0,40.0
+skin_13,skincare,What skincare products should I use?,paula's choice,0.2,perplexity,1,0.333,1.0,40.0
+skin_14,skincare,Good moisturizer recommendation?,aveeno,0.2,gemini,1,0.333,1.0,40.0
+skin_14,skincare,Good moisturizer recommendation?,vichy,0.2,gemini,1,0.333,1.0,40.0
+skin_14,skincare,Good moisturizer recommendation?,tatcha,0.2,gemini,1,0.333,1.0,40.0
+skin_15,skincare,Help me build a skincare routine,differin,0.2,perplexity,1,0.333,1.0,40.0
+skin_15,skincare,Help me build a skincare routine,adapalene,0.2,perplexity,1,0.333,1.0,40.0
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",adapalene,0.4,"chatgpt,deepseek",2,0.5,0.0,35.0
+skin_07,skincare,"Best moisturizer for sensitive skin that doesn't cause breakouts, under $35",aveeno,0.4,"chatgpt,deepseek",2,0.5,0.0,35.0
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,skullcandy,0.2,deepseek,1,0.667,0.0,30.0
+earbuds_03,earbuds,Best budget earbuds for daily commuting under $40,sony,0.2,deepseek,1,0.667,0.0,30.0
+earbuds_08,earbuds,What are the best premium wireless earbuds money can buy in 2026?,nothing,0.2,deepseek,1,0.667,0.0,30.0
+earbuds_12,earbuds,Recommend wireless earbuds for gaming with low latency,anker,0.2,deepseek,1,0.667,0.0,30.0
+earbuds_14,earbuds,Good earbuds?,samsung,0.2,deepseek,1,0.667,0.0,30.0
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,yunzii,0.2,deepseek,1,0.667,0.0,30.0
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,ducky,0.2,deepseek,1,0.667,0.0,30.0
+kb_12,keyboards,Recommend a mechanical keyboard that's good for both coding and gaming,steelseries,0.2,deepseek,1,0.667,0.0,30.0
+kb_15,keyboards,Help me choose a mechanical keyboard,redragon,0.4,"chatgpt,deepseek",2,0.333,0.0,30.0
+kb_15,keyboards,Help me choose a mechanical keyboard,ducky,0.2,deepseek,1,0.667,0.0,30.0
+shoes_09,running_shoes,Best premium running shoes money can buy in 2026,on running,0.2,deepseek,1,0.667,0.0,30.0
+skin_01,skincare,Best daily moisturizer for oily skin under $20,the ordinary,0.2,deepseek,1,0.667,0.0,30.0
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,eltamd,0.2,chatgpt,1,0.667,0.0,30.0
+skin_12,skincare,Best skincare routine for a man who has never used any products before,the ordinary,0.2,deepseek,1,0.667,0.0,30.0
+skin_12,skincare,Best skincare routine for a man who has never used any products before,supergoop,0.2,deepseek,1,0.667,0.0,30.0
+skin_12,skincare,Best skincare routine for a man who has never used any products before,paula's choice,0.2,deepseek,1,0.667,0.0,30.0
+skin_12,skincare,Best skincare routine for a man who has never used any products before,retinol,0.4,"chatgpt,claude",2,0.333,0.0,30.0
+skin_13,skincare,What skincare products should I use?,differin,0.4,"chatgpt,deepseek",2,0.333,0.0,30.0
+skin_13,skincare,What skincare products should I use?,adapalene,0.4,"chatgpt,deepseek",2,0.333,0.0,30.0
+earbuds_02,earbuds,Recommend cheap wireless earbuds for a college student on a tight budget,sony,0.2,chatgpt,1,0.333,0.0,20.0
+earbuds_02,earbuds,Recommend cheap wireless earbuds for a college student on a tight budget,soundpeats,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_06,earbuds,What wireless earbuds have the best sound quality between $60 and $100?,edifier,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_07,earbuds,"Best earbuds for working out and running, water resistant, under $80",sennheiser,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_08,earbuds,What are the best premium wireless earbuds money can buy in 2026?,beats,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_09,earbuds,"Recommend high-end noise cancelling earbuds for frequent flyers, budget $150-250",samsung,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_10,earbuds,Best wireless earbuds for audiophiles who care about sound quality above all els,moondrop,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_10,earbuds,Best wireless earbuds for audiophiles who care about sound quality above all els,anker,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_10,earbuds,Best wireless earbuds for audiophiles who care about sound quality above all els,fiio,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,anker,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,nothing,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,beats,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,tozo,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,jabra,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_11,earbuds,I'm a parent who needs earbuds I can wear while my kids are around. Need to hear,huawei,0.2,chatgpt,1,0.333,0.0,20.0
+earbuds_13,earbuds,What earbuds should I buy?,nothing,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_13,earbuds,What earbuds should I buy?,beats,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_13,earbuds,What earbuds should I buy?,jbl,0.2,deepseek,1,0.333,0.0,20.0
+earbuds_14,earbuds,Good earbuds?,pixel,0.2,deepseek,1,0.333,0.0,20.0
+kb_01,keyboards,Best mechanical keyboard under $50 for a beginner,logitech,0.2,deepseek,1,0.333,0.0,20.0
+kb_02,keyboards,Recommend a cheap but good mechanical keyboard for typing,hyperx,0.2,deepseek,1,0.333,0.0,20.0
+kb_04,keyboards,What's the best mechanical keyboard between $80 and $150?,hyperx,0.2,deepseek,1,0.333,0.0,20.0
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,redragon,0.2,deepseek,1,0.333,0.0,20.0
+kb_06,keyboards,Best 75% layout mechanical keyboard for programming under $120,gamakay,0.2,deepseek,1,0.333,0.0,20.0
+kb_08,keyboards,What's the best premium mechanical keyboard regardless of price?,hhkb,0.2,deepseek,1,0.333,0.0,20.0
+kb_09,keyboards,Recommend a high-end custom mechanical keyboard for enthusiasts,hhkb,0.2,deepseek,1,0.333,0.0,20.0
+kb_09,keyboards,Recommend a high-end custom mechanical keyboard for enthusiasts,nothing,0.2,deepseek,1,0.333,0.0,20.0
+kb_10,keyboards,Best ergonomic split mechanical keyboard for someone with RSI,glorious,0.2,deepseek,1,0.333,0.0,20.0
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,logitech,0.2,deepseek,1,0.333,0.0,20.0
+kb_11,keyboards,I'm a gamer who needs a fast mechanical keyboard with linear switches. Budget $1,glorious,0.2,deepseek,1,0.333,0.0,20.0
+kb_13,keyboards,What keyboard should I get?,zsa,0.2,deepseek,1,0.333,0.0,20.0
+kb_13,keyboards,What keyboard should I get?,leopold,0.2,deepseek,1,0.333,0.0,20.0
+kb_13,keyboards,What keyboard should I get?,redragon,0.2,deepseek,1,0.333,0.0,20.0
+kb_13,keyboards,What keyboard should I get?,apple,0.2,deepseek,1,0.333,0.0,20.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,redragon,0.2,deepseek,1,0.333,0.0,20.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,leopold,0.2,chatgpt,1,0.333,0.0,20.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,epomaker,0.2,deepseek,1,0.333,0.0,20.0
+kb_14,keyboards,Good mechanical keyboard recommendation?,royal kludge,0.2,chatgpt,1,0.333,0.0,20.0
+kb_15,keyboards,Help me choose a mechanical keyboard,monsgeek,0.2,chatgpt,1,0.333,0.0,20.0
+kb_15,keyboards,Help me choose a mechanical keyboard,anne pro,0.2,deepseek,1,0.333,0.0,20.0
+kb_15,keyboards,Help me choose a mechanical keyboard,leopold,0.2,deepseek,1,0.333,0.0,20.0
+kb_15,keyboards,Help me choose a mechanical keyboard,steelseries,0.2,chatgpt,1,0.333,0.0,20.0
+shoes_03,running_shoes,Cheap but good running shoes for casual runners under $60,brooks,0.2,deepseek,1,0.333,0.0,20.0
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,nothing,0.2,deepseek,1,0.333,0.0,20.0
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,on running,0.2,chatgpt,1,0.333,0.0,20.0
+shoes_10,running_shoes,Recommend top-tier trail running shoes for ultramarathon,merrell,0.2,deepseek,1,0.333,0.0,20.0
+shoes_11,running_shoes,I'm overweight (250 lbs) and starting to run. What shoes have enough support?,on running,0.2,deepseek,1,0.333,0.0,20.0
+skin_02,skincare,Recommend a cheap but effective face sunscreen for everyday use,supergoop,0.2,deepseek,1,0.333,0.0,20.0
+skin_04,skincare,Best vitamin C serum between $20 and $50,cosrx,0.2,deepseek,1,0.333,0.0,20.0
+skin_04,skincare,Best vitamin C serum between $20 and $50,vichy,0.2,deepseek,1,0.333,0.0,20.0
+skin_05,skincare,"Recommend a good anti-aging skincare routine for someone in their 30s, budget $1",beauty of joseon,0.2,deepseek,1,0.333,0.0,20.0
+skin_09,skincare,Recommend premium skincare products worth the splurge,sulwhasoo,0.2,chatgpt,1,0.333,0.0,20.0
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,supergoop,0.2,deepseek,1,0.333,0.0,20.0
+skin_11,skincare,I'm a teenage boy with bad acne. What skincare products should I use?,vanicream,0.2,chatgpt,1,0.333,0.0,20.0
+skin_12,skincare,Best skincare routine for a man who has never used any products before,the inkey list,0.2,deepseek,1,0.333,0.0,20.0
+skin_12,skincare,Best skincare routine for a man who has never used any products before,nothing,0.2,deepseek,1,0.333,0.0,20.0
+skin_13,skincare,What skincare products should I use?,asics,0.2,chatgpt,1,0.333,0.0,20.0
+skin_15,skincare,Help me build a skincare routine,skinceuticals,0.2,deepseek,1,0.333,0.0,20.0
+skin_15,skincare,Help me build a skincare routine,vanicream,0.2,deepseek,1,0.333,0.0,20.0
+skin_15,skincare,Help me build a skincare routine,tatcha,0.2,deepseek,1,0.333,0.0,20.0
+skin_15,skincare,Help me build a skincare routine,asics,0.2,chatgpt,1,0.333,0.0,20.0

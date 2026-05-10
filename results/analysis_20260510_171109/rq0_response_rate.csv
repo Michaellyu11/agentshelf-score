@@ -1,0 +1,6 @@
+engine,has_recommendation,total,rate_pct
+chatgpt,179,180,99.4
+claude,151,180,83.9
+deepseek,175,180,97.2
+gemini,176,180,97.8
+perplexity,175,180,97.2

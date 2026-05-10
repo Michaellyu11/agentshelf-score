@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Do AI Shopping Assistants Agree? — AgentShelf Score Experiment</title>
+<meta name="description" content="We asked 5 AI engines the same 60 shopping questions. They only agreed 45% of the time. Full data, methodology, and interactive results.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=DM+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#faf9f7;--bg2:#f0efeb;--bg3:#e8e6e1;
+  --text:#1a1a18;--text2:#5c5b57;--text3:#8a8983;
+  --border:#d4d2cc;--border2:#b8b6af;
+  --blue:#2b5ea7;--blue-bg:#e6eef8;
+  --green:#157a56;--green-bg:#e1f3ec;
+  --amber:#a36a0f;--amber-bg:#faf0db;
+  --red:#a33030;--red-bg:#fbeaea;
+  --purple:#5a4dab;--purple-bg:#eeedfc;
+  --coral:#c04e28;--coral-bg:#faeae4;
+  --pink:#b0407a;--pink-bg:#fae8f0;
+  --radius:8px;--radius-lg:12px;
+  --font:'DM Sans',system-ui,sans-serif;
+  --mono:'DM Mono',monospace;
+}
+@media(prefers-color-scheme:dark){
+  :root{
+    --bg:#1a1a18;--bg2:#262624;--bg3:#333330;
+    --text:#e8e6e1;--text2:#a8a7a2;--text3:#73726c;
+    --border:#3d3d3a;--border2:#555550;
+    --blue:#6fa3e0;--blue-bg:#1c2d42;
+    --green:#5dc9a0;--green-bg:#0e3028;
+    --amber:#efb04e;--amber-bg:#3a2a0e;
+    --red:#e87070;--red-bg:#3a1818;
+    --purple:#a99edf;--purple-bg:#2a2548;
+    --coral:#e88860;--coral-bg:#3a2018;
+    --pink:#d97aac;--pink-bg:#3a1830;
+  }
+}
+body{background:var(--bg);color:var(--text);font-family:var(--font);line-height:1.7;-webkit-font-smoothing:antialiased}
+.container{max-width:760px;margin:0 auto;padding:3rem 1.5rem 6rem}
+h1{font-size:28px;font-weight:600;line-height:1.3;letter-spacing:-0.5px;margin:0 0 0.5rem}
+.subtitle{font-size:15px;color:var(--text2);margin:0 0 2.5rem;line-height:1.6}
+h2{font-size:18px;font-weight:500;margin:2.5rem 0 1rem;display:flex;align-items:center;gap:8px}
+h2 .num{font-family:var(--mono);font-size:13px;color:var(--text3);background:var(--bg2);border-radius:4px;padding:2px 8px}
+p{margin:0 0 1rem;font-size:15px;color:var(--text2)}
+strong{color:var(--text);font-weight:500}
+.metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:0 0 2.5rem}
+.metric{background:var(--bg2);border-radius:var(--radius);padding:1rem 1.25rem}
+.metric-label{font-size:12px;color:var(--text3);margin:0 0 4px;text-transform:uppercase;letter-spacing:0.5px}
+.metric-val{font-size:26px;font-weight:600;letter-spacing:-1px}
+.metric-sub{font-size:11px;color:var(--text3);margin:2px 0 0}
+.card{background:var(--bg2);border-radius:var(--radius-lg);padding:1.5rem;margin:1rem 0 1.5rem}
+.heatmap{display:grid;grid-template-columns:82px repeat(5,1fr);gap:2px;font-size:12px}
+.hm-h{font-weight:500;color:var(--text3);padding:6px 2px;text-align:center;font-size:11px}
+.hm-l{font-weight:500;color:var(--text);padding:6px 2px;font-size:12px;display:flex;align-items:center}
+.hm-c{padding:10px 2px;text-align:center;border-radius:4px;font-weight:500;font-size:12px}
+.bar-row{display:flex;align-items:center;gap:8px;margin:5px 0;font-size:13px}
+.bar-name{width:100px;text-align:right;color:var(--text2);flex-shrink:0;font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar-track{flex:1;display:flex;align-items:center;gap:6px}
+.bar-fill{height:18px;border-radius:3px;min-width:2px;transition:width 0.5s}
+.bar-val{font-size:11px;color:var(--text3);min-width:28px}
+.tab-row{display:flex;gap:4px;margin:0 0 12px;flex-wrap:wrap}
+.tab{background:none;border:1px solid var(--border);border-radius:6px;padding:4px 12px;font-size:12px;color:var(--text2);cursor:pointer;font-family:var(--font)}
+.tab.active{background:var(--bg3);color:var(--text);font-weight:500;border-color:var(--border2)}
+.tab:hover{background:var(--bg3)}
+.consistency-row{display:flex;align-items:center;gap:8px;margin:6px 0;font-size:13px}
+.c-name{width:82px;color:var(--text2);flex-shrink:0;font-size:12px}
+.c-track{flex:1;height:8px;background:var(--bg3);border-radius:4px}
+.c-fill{height:100%;border-radius:4px}
+.c-val{min-width:40px;text-align:right;font-weight:500;font-size:12px;font-family:var(--mono)}
+.score-bar{display:flex;gap:2px;height:36px;border-radius:var(--radius);overflow:hidden;margin:8px 0}
+.score-seg{display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:500}
+.legend{display:flex;gap:16px;font-size:12px;color:var(--text2);margin:8px 0 0;flex-wrap:wrap}
+.legend-i{display:flex;align-items:center;gap:5px}
+.legend-d{width:10px;height:10px;border-radius:2px}
+.rq0-row{display:flex;align-items:center;gap:8px;margin:5px 0}
+.rq0-name{width:82px;color:var(--text2);flex-shrink:0;font-size:12px}
+.rq0-track{flex:1;height:24px;background:var(--bg3);border-radius:4px;overflow:hidden}
+.rq0-fill{height:100%;border-radius:4px;display:flex;align-items:center;padding:0 8px;font-size:11px;font-weight:500}
+.note{font-size:12px;color:var(--text3);margin:8px 0 0;font-style:italic}
+.divider{border:none;border-top:1px solid var(--border);margin:2.5rem 0}
+a{color:var(--blue);text-decoration:none}
+a:hover{text-decoration:underline}
+.footer{margin:3rem 0 0;font-size:13px;color:var(--text3);text-align:center}
+.tag{display:inline-block;font-size:11px;font-family:var(--mono);padding:2px 8px;border-radius:4px;background:var(--bg2);color:var(--text3);margin:0 4px 4px 0}
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>Do AI shopping assistants agree?</h1>
+<p class="subtitle">We sent 60 real shopping queries to 5 AI engines, each repeated 3 times.<br>900 API responses. The results are worse than expected.</p>
+
+<div class="metrics">
+  <div class="metric"><div class="metric-label">API calls</div><div class="metric-val">900</div><div class="metric-sub">60 queries × 5 engines × 3 reps</div></div>
+  <div class="metric"><div class="metric-label">Agreement</div><div class="metric-val" style="color:var(--amber)">44.8%</div><div class="metric-sub">Mean Jaccard similarity</div></div>
+  <div class="metric"><div class="metric-label">High confidence</div><div class="metric-val" style="color:var(--red)">21.0%</div><div class="metric-sub">Score ≥ 80 / 100</div></div>
+  <div class="metric"><div class="metric-label">Products found</div><div class="metric-val">3,120</div><div class="metric-sub">Brand mentions extracted</div></div>
+</div>
+
+<h2><span class="num">01</span> Do engines actually recommend products?</h2>
+<p>Almost always — except Claude, which hedges <strong>16% of the time</strong>, giving criteria instead of specific product names.</p>
+<div class="card">
+  <div class="rq0-row"><span class="rq0-name">ChatGPT</span><div class="rq0-track"><div class="rq0-fill" style="width:99.4%;background:var(--blue);color:var(--blue-bg)">99.4%</div></div></div>
+  <div class="rq0-row"><span class="rq0-name">Gemini</span><div class="rq0-track"><div class="rq0-fill" style="width:97.8%;background:var(--green);color:var(--green-bg)">97.8%</div></div></div>
+  <div class="rq0-row"><span class="rq0-name">DeepSeek</span><div class="rq0-track"><div class="rq0-fill" style="width:97.2%;background:var(--purple);color:var(--purple-bg)">97.2%</div></div></div>
+  <div class="rq0-row"><span class="rq0-name">Perplexity</span><div class="rq0-track"><div class="rq0-fill" style="width:97.2%;background:var(--coral);color:var(--coral-bg)">97.2%</div></div></div>
+  <div class="rq0-row"><span class="rq0-name">Claude</span><div class="rq0-track"><div class="rq0-fill" style="width:83.9%;background:var(--pink);color:var(--pink-bg)">83.9%</div></div></div>
+</div>
+
+<hr class="divider">
+
+<h2><span class="num">02</span> How much do engines agree?</h2>
+<p>Not much. The average pairwise agreement is <strong>44.8%</strong>. DeepSeek and Gemini are the most aligned pair at 57%. Claude and Perplexity agree the least at just 38%.</p>
+<div class="card">
+  <div class="heatmap" id="heatmap"></div>
+</div>
+
+<hr class="divider">
+
+<h2><span class="num">03</span> Which brands do AI engines favor?</h2>
+<p>Brand concentration is extreme. In each category, 2-3 brands dominate all recommendations while smaller brands are nearly invisible.</p>
+<div class="card">
+  <div class="tab-row" id="tabs"></div>
+  <div id="brand-bars"></div>
+</div>
+
+<hr class="divider">
+
+<h2><span class="num">04</span> Does the same engine agree with itself?</h2>
+<p>No. Ask the same question 3 times, get different answers. Even the most consistent engine (Claude) changes its mind <strong>32%</strong> of the time. Gemini is the most erratic at <strong>52%</strong> variability.</p>
+<div class="card">
+  <div class="consistency-row"><span class="c-name">Claude</span><div class="c-track"><div class="c-fill" style="width:67.9%;background:var(--pink)"></div></div><span class="c-val">0.679</span></div>
+  <div class="consistency-row"><span class="c-name">Perplexity</span><div class="c-track"><div class="c-fill" style="width:66.5%;background:var(--coral)"></div></div><span class="c-val">0.665</span></div>
+  <div class="consistency-row"><span class="c-name">DeepSeek</span><div class="c-track"><div class="c-fill" style="width:52.2%;background:var(--purple)"></div></div><span class="c-val">0.522</span></div>
+  <div class="consistency-row"><span class="c-name">ChatGPT</span><div class="c-track"><div class="c-fill" style="width:51.8%;background:var(--blue)"></div></div><span class="c-val">0.518</span></div>
+  <div class="consistency-row"><span class="c-name">Gemini</span><div class="c-track"><div class="c-fill" style="width:47.9%;background:var(--green)"></div></div><span class="c-val">0.479</span></div>
+  <p class="note">1.0 = always recommends the same products · 0.0 = completely random</p>
+</div>
+
+<hr class="divider">
+
+<h2><span class="num">05</span> AgentShelf Score — how many recommendations are trustworthy?</h2>
+<p>We combined cross-engine consensus, self-consistency, and source citation rate into a single reliability score. Only <strong>21%</strong> of recommendations score "high confidence." More than a third are low confidence — mentioned by one engine, inconsistently.</p>
+<div class="card">
+  <div class="score-bar">
+    <div class="score-seg" style="flex:127;background:var(--green);color:var(--green-bg)">21%</div>
+    <div class="score-seg" style="flex:253;background:var(--amber);color:#412402">42%</div>
+    <div class="score-seg" style="flex:225;background:var(--red);color:var(--red-bg)">37%</div>
+  </div>
+  <div class="legend">
+    <span class="legend-i"><span class="legend-d" style="background:var(--green)"></span>High confidence (80-100): 127 products</span>
+    <span class="legend-i"><span class="legend-d" style="background:var(--amber)"></span>Moderate (50-79): 253</span>
+    <span class="legend-i"><span class="legend-d" style="background:var(--red)"></span>Low confidence (0-49): 225</span>
+  </div>
+  <p class="note">605 total product-query pairs scored</p>
+</div>
+
+<hr class="divider">
+
+<h2>Methodology</h2>
+<p><strong>Engines:</strong> ChatGPT (GPT-5.4-mini), Gemini (2.5 Flash), Perplexity (Sonar), Claude (Haiku 4.5), DeepSeek (Chat)</p>
+<p><strong>Categories:</strong> Wireless earbuds, mechanical keyboards, running shoes, skincare</p>
+<p><strong>Queries:</strong> 15 per category × 4 categories = 60 unique queries, varying price range, use case, user persona, and specificity</p>
+<p><strong>Repetitions:</strong> 3 per (query, engine) pair — enough to observe patterns, not statistically rigorous at p&lt;0.05</p>
+<p><strong>Brand extraction:</strong> Keyword matching against ~150 known brands with word-boundary checks</p>
+<p><strong>Cost:</strong> ~$40 total API spend</p>
+<p><strong>All data, code, and analysis:</strong> <a href="https://github.com/Michaellyu11/agentshelf">GitHub</a></p>
+
+<div class="footer">
+  <p>Built by <a href="https://github.com/Michaellyu11">Zhiyi (Michael) Lyu</a> · AgentShelf · May 2026</p>
+  <div style="margin:8px 0">
+    <span class="tag">python</span><span class="tag">ai-shopping</span><span class="tag">llm-benchmark</span><span class="tag">cross-engine</span><span class="tag">open-data</span>
+  </div>
+</div>
+
+</div>
+
+<script>
+const engines=['ChatGPT','Claude','DeepSeek','Gemini','Perplexity'];
+const matrix=[[1,.386,.492,.515,.449],[.386,1,.381,.430,.375],[.492,.381,1,.571,.409],[.515,.430,.571,1,.470],[.449,.375,.409,.470,1]];
+
+function cellBg(v){
+  if(v>=1)return'var(--bg3)';
+  if(v>=.5)return'var(--green-bg)';
+  if(v>=.45)return'var(--amber-bg)';
+  if(v>=.4)return'var(--amber-bg)';
+  return'var(--red-bg)';
+}
+function cellFg(v){
+  if(v>=1)return'var(--text3)';
+  if(v>=.5)return'var(--green)';
+  if(v>=.45)return'var(--amber)';
+  if(v>=.4)return'var(--amber)';
+  return'var(--red)';
+}
+
+const hm=document.getElementById('heatmap');
+let hmHTML='<div class="hm-h"></div>'+engines.map(e=>'<div class="hm-h">'+e+'</div>').join('');
+engines.forEach((e,i)=>{
+  hmHTML+='<div class="hm-l">'+e+'</div>';
+  engines.forEach((_,j)=>{
+    const v=matrix[i][j];
+    const d=i===j;
+    hmHTML+='<div class="hm-c" style="background:'+cellBg(v)+';color:'+cellFg(v)+'">'+(d?'—':Math.round(v*100)+'%')+'</div>';
+  });
+});
+hm.innerHTML=hmHTML;
+
+const brandData={
+  all:{color:'var(--blue)',items:[{n:'Keychron',c:181},{n:'ASICS',c:175},{n:'CeraVe',c:142},{n:'Saucony',c:140},{n:'Brooks',c:134},{n:'Nike',c:122},{n:'Anker',c:117},{n:'Sony',c:114},{n:'New Balance',c:108},{n:'HOKA',c:105}]},
+  earbuds:{color:'var(--purple)',items:[{n:'Anker',c:117},{n:'Sony',c:114},{n:'Apple',c:63},{n:'EarFun',c:59},{n:'Bose',c:53},{n:'Soundcore',c:49},{n:'Sennheiser',c:47},{n:'TOZO',c:44},{n:'JBL',c:42},{n:'Technics',c:31}]},
+  keyboards:{color:'var(--green)',items:[{n:'Keychron',c:181},{n:'Royal Kludge',c:60},{n:'Redragon',c:46},{n:'Logitech',c:41},{n:'NuPhy',c:40},{n:'Wooting',c:33},{n:'Akko',c:26},{n:'Epomaker',c:23},{n:'Ajazz',c:17},{n:'Glorious',c:17}]},
+  shoes:{color:'var(--coral)',items:[{n:'ASICS',c:168},{n:'Saucony',c:140},{n:'Brooks',c:134},{n:'Nike',c:121},{n:'New Balance',c:108},{n:'HOKA',c:105},{n:'Adidas',c:91},{n:'Puma',c:27},{n:'Mizuno',c:16},{n:'Salomon',c:11}]},
+  skincare:{color:'var(--pink)',items:[{n:'CeraVe',c:142},{n:'La Roche-Posay',c:92},{n:'Neutrogena',c:78},{n:'The Ordinary',c:43},{n:'Cetaphil',c:31},{n:'SkinCeuticals',c:31},{n:'Vanicream',c:30},{n:'Adapalene',c:20},{n:'Eucerin',c:15},{n:'Aveeno',c:12}]}
+};
+const tabLabels={all:'All categories',earbuds:'Earbuds',keyboards:'Keyboards',shoes:'Running shoes',skincare:'Skincare'};
+
+function showCat(cat){
+  document.querySelectorAll('.tab').forEach(b=>b.classList.remove('active'));
+  document.querySelector('[data-cat="'+cat+'"]').classList.add('active');
+  const d=brandData[cat];
+  const max=d.items[0].c;
+  document.getElementById('brand-bars').innerHTML=d.items.map(b=>{
+    const w=Math.round(b.c/max*100);
+    return'<div class="bar-row"><span class="bar-name">'+b.n+'</span><div class="bar-track"><div class="bar-fill" style="width:'+w+'%;background:'+d.color+'"></div><span class="bar-val">'+b.c+'</span></div></div>';
+  }).join('');
+}
+
+const tabs=document.getElementById('tabs');
+Object.entries(tabLabels).forEach(([k,v])=>{
+  const b=document.createElement('button');
+  b.className='tab'+(k==='all'?' active':'');
+  b.dataset.cat=k;
+  b.textContent=v;
+  b.onclick=()=>showCat(k);
+  tabs.appendChild(b);
+});
+showCat('all');
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+engine_1,engine_2,jaccard_mean
+chatgpt,claude,0.3863
+chatgpt,deepseek,0.4923
+chatgpt,gemini,0.5151
+chatgpt,perplexity,0.4487
+claude,deepseek,0.3808
+claude,gemini,0.4299
+claude,perplexity,0.3753
+deepseek,gemini,0.5713
+deepseek,perplexity,0.409
+gemini,perplexity,0.4698

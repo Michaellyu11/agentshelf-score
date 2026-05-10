@@ -1,0 +1,19 @@
+AgentShelf Score Experiment — Key Findings
+==================================================
+
+Data: 900 API responses
+Engines: chatgpt, claude, deepseek, gemini, perplexity
+Categories: earbuds, keyboards, running_shoes, skincare
+Queries: 60
+Products extracted: 3120 mentions
+
+• RQ0: 95.1% of AI shopping responses contain specific product recommendations.
+
+• RQ1: Average cross-engine agreement (Jaccard) is 0.448 — engines agree on only 45% of their recommendations.
+
+• RQ3: Most self-consistent engine: claude (0.679). Least: gemini (0.479).
+
+• RQ2: Top 3 brands (keychron, asics, cerave) account for 16.0% of all recommendations.
+
+• RQ4: Only 21.0% of product recommendations score 'high confidence' (80+). 37.2% score 'low confidence' (<50).
+

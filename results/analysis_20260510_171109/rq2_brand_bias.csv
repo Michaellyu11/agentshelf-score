@@ -1,0 +1,21 @@
+brand,total_mentions,engines_mentioning,consensus_pct,mentions_chatgpt,mentions_claude,mentions_deepseek,mentions_gemini,mentions_perplexity
+keychron,181,5,100.0,35,34,35,36,41
+asics,175,5,100.0,42,32,38,32,31
+cerave,142,5,100.0,31,27,30,27,27
+saucony,140,5,100.0,19,26,39,36,20
+brooks,134,5,100.0,30,16,29,30,29
+nike,122,5,100.0,25,21,29,24,23
+anker,117,5,100.0,24,18,30,27,18
+sony,114,5,100.0,27,16,24,23,24
+new balance,108,5,100.0,15,14,29,28,22
+hoka,105,5,100.0,18,19,25,29,14
+la roche-posay,92,5,100.0,27,5,25,14,21
+adidas,91,5,100.0,12,23,8,20,28
+neutrogena,78,5,100.0,13,15,20,16,14
+apple,67,5,100.0,16,13,11,14,13
+royal kludge,60,5,100.0,8,14,11,13,14
+earfun,59,5,100.0,8,15,11,13,12
+bose,53,5,100.0,12,6,5,18,12
+retinol,52,5,100.0,8,8,12,11,13
+soundcore,49,5,100.0,4,13,9,15,8
+sennheiser,47,5,100.0,7,1,13,14,12
