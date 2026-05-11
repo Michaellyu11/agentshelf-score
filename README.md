@@ -100,6 +100,18 @@ python analyze_results.py
 
 MIT. Data and code are free to use, cite, and build upon.
 
+## Paper
+
+A full research paper based on this dataset is available:
+
+> **"The Consistency Crisis in AI Shopping Recommendations: Inconsistency, Invisibility, and the AgentShelf Score"**
+> Zhiyi (Michael) Lyu — AgentShelf Research / Northeastern University
+> [`paper_final.docx`](./paper_final.docx) — draft for arXiv submission (May 2026)
+
+### Abstract
+
+Across 900 AI shopping responses, five major engines agree on only 44.8% of product recommendations. We identify two independent failure modes — **inconsistency** (engines disagree with each other and themselves) and **invisibility** (expert-recommended products absent from all engines). The AgentShelf Score, validated against Wirecutter and logistic regression (ρ = 0.791, p < 0.0001), provides a cross-engine consensus metric for AI shopping reliability.
+
 ## Contact
 
 Built by [Zhiyi (Michael) Lyu](https://github.com/Michaellyu11) — AgentShelf
